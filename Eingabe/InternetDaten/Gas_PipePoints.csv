@@ -1,0 +1,959 @@
+id;name;node_id;meta_id
+REAL;TEXT;TEXT;TEXT
+[];[];[];[]
+1;AlcazarDeSanJuan_Chinchilla;Alcazar De San Juan;AlcazarDeSanJuan_Chinchilla
+2;AlcazarDeSanJuan_Chinchilla;Chinchilla;AlcazarDeSanJuan_Chinchilla
+3;AlcazarDeSanJuan_Madrid;Alcazar De San Juan;AlcazarDeSanJuan_Madrid
+4;AlcazarDeSanJuan_Madrid;Madrid;AlcazarDeSanJuan_Madrid
+5;Alessandria_Cortemaggiore;Cortemaggiore;Alessandria_Cortemaggiore
+6;Alessandria_Cortemaggiore;Alessandria;Alessandria_Cortemaggiore
+7;Almendralejo_Badajoz;Almendralejo;Almendralejo_Badajoz
+8;Almendralejo_Badajoz;Badajoz;Almendralejo_Badajoz
+9;Almendralejo_Zamora;Almendralejo;Almendralejo_Zamora
+10;Almendralejo_Zamora;Zamora;Almendralejo_Zamora
+11;Altamura_Candela;Candela;Altamura_Candela
+12;Altamura_Candela;Altamura;Altamura_Candela
+13;Altamura_Latiano;Latiano;Altamura_Latiano
+14;Altamura_Latiano;Altamura;Altamura_Latiano
+15;Altamura_MonteAlpi;Monte Alpi;Altamura_MonteAlpi
+16;Altamura_MonteAlpi;Altamura;Altamura_MonteAlpi
+17;Altamura_Palagiano;Palagiano;Altamura_Palagiano
+18;Altamura_Palagiano;Altamura;Altamura_Palagiano
+19;Angouleme_Roussines;Angouleme;ExtraWithHand
+20;Angouleme_Roussines;Roussines;ExtraWithHand
+21;Arad_Szeged;Arad;Arad_Szeged
+22;Arad_Szeged;Szoreg;Arad_Szeged
+23;Arnoldstein_Tarvisio_Extra;Tarvisio;Arnoldstein_Tarvisio_Extra
+24;Arnoldstein_Tarvisio_Extra;Arnoldstein;Arnoldstein_Tarvisio_Extra
+25;ArtereDeLAdour;San Sebastian;ArtereDeLAdour
+26;ArtereDeLAdour;Bayonne;ArtereDeLAdour
+27;Badajoz_Leiria;Badajoz;Badajoz_Leiria
+28;Badajoz_Leiria;Leiria;Badajoz_Leiria
+29;BBL;Bacton;BBL
+30;BBL;Wieringermeer;BBL
+31;Benevento_Biccari;Biccari;Benevento_Biccari
+32;Benevento_Biccari;Benevento;Benevento_Biccari
+33;Bernalda_Grumento;Grumento;Bernalda_Grumento
+34;Bernalda_Grumento;Bernalda;Bernalda_Grumento
+35;Berneau_Eynatten;Berneau;Berneau_Eynatten
+36;Berneau_Eynatten;Eynatten;Berneau_Eynatten
+37;Beziers_Lacq;Beziers;Beziers_Lacq
+38;Beziers_Lacq;Lacq;Beziers_Lacq
+39;BGTP;Belfast;BGTP
+40;BGTP;Ballylumford;BGTP
+41;Biccari_Candela;Candela;Biccari_Candela
+42;Biccari_Candela;Biccari;Biccari_Candela
+43;Bordano_MoggioUdinesse_1;Moggio Udinesse;Bordano_MoggioUdinesse_1
+44;Bordano_MoggioUdinesse_1;Bordano;Bordano_MoggioUdinesse_1
+45;Bordano_MoggioUdinesse_2;Moggio Udinesse;Bordano_MoggioUdinesse_2
+46;Bordano_MoggioUdinesse_2;Bordano;Bordano_MoggioUdinesse_2
+47;Bosentino_Trento_1;Trento;Bosentino_Trento_1
+48;Bosentino_Trento_1;Bosentino;Bosentino_Trento_1
+49;Bosentino_Trento_2;Trento;Bosentino_Trento_2
+50;Bosentino_Trento_2;Bosentino;Bosentino_Trento_2
+51;Bourbonne_Lyon;Lyon;Bourbonne_Lyon
+52;Bourbonne_Lyon;Bourbonne;Bourbonne_Lyon
+53;Bourbonne_Paris;Paris;Bourbonne_Paris
+54;Bourbonne_Paris;Bourbonne;Bourbonne_Paris
+55;Brest_Donges;Donges;Brest_Donges
+56;Brest_Donges;Brest;Brest_Donges
+57;Brindisi_Ampeleia;Ampeleia;Brindisi_Ampeleia
+58;Brindisi_Ampeleia;Brindisi;Brindisi_Ampeleia
+59;BRUA;Podisor;BRUA
+60;BRUA;Recas;BRUA
+61;BRUA_Extra_1;Arad;BRUA_E
+62;BRUA_Extra_1;Recas;BRUA_E
+63;BRUA_Extra_2;Szoreg;BRUA_E
+64;BRUA_Extra_2;Varosfoeld;BRUA_E
+65;BRUA_Extra_2;Budapest;BRUA_E
+66;BRUA_Extra_2;Deutsch Jahndorf;BRUA_E
+67;Burgos_SanSebastian;San Sebastian;Burgos_SanSebastian
+68;Burgos_SanSebastian;Burgos;Burgos_SanSebastian
+69;Burgos_Santander;Santander;Burgos_Santander
+70;Burgos_Santander;Burgos;Burgos_Santander
+71;Burgos_Valladolid;Valladolid;Burgos_Valladolid
+72;Burgos_Valladolid;Burgos;Burgos_Valladolid
+73;CalderariEnna_Gela;Gela;CalderariEnna_Gela
+74;CalderariEnna_Gela;Calderari Enna;CalderariEnna_Gela
+75;CalderariEnna_Menfi_1;Menfi;CalderariEnna_Menfi_1
+76;CalderariEnna_Menfi_1;Calderari Enna;CalderariEnna_Menfi_1
+77;CalderariEnna_Menfi_2;Menfi;CalderariEnna_Menfi_2
+78;CalderariEnna_Menfi_2;Calderari Enna;CalderariEnna_Menfi_2
+79;Caldonazzo_Bosentino;Bosentino;Caldonazzo_Bosentino
+80;Caldonazzo_Bosentino;Caldonazzo;Caldonazzo_Bosentino
+81;CampagnaLupia_RavennaTerra;Cavarzere;CampagnaLupia_RavennaTerra
+82;CampagnaLupia_RavennaTerra;Campagna Lupia;CampagnaLupia_RavennaTerra
+83;Campochiaro_Melizzano;Melizzano;Campochiaro_Melizzano
+84;Campochiaro_Melizzano;Campochiaro;Campochiaro_Melizzano
+85;CampoMaior_Leira;Leiria;CampoMaior_Leira
+86;CampoMaior_Leira;Campo Maior;CampoMaior_Leira
+87;Cartagena_Almeria;Cartagena;Cartagena_Almeria
+88;Cartagena_Almeria;Almeria;Cartagena_Almeria
+89;Cartagena_Montesa;Montesa;Cartagena_Montesa
+90;Cartagena_Montesa;Cartagena;Cartagena_Montesa
+91;Cavarzere_Minerbio;Minerbio;Cavarzere_Minerbio
+92;Cavarzere_Minerbio;Cavarzere;Cavarzere_Minerbio
+93;Cavarzere_RavennaTerra;Ravenna Terra;Cavarzere_RavennaTerra
+94;Cavarzere_RavennaTerra;Cavarzere;Cavarzere_RavennaTerra
+95;Cervignano_Ripalta;Ripalta;Cervignano_Ripalta
+96;Cervignano_Ripalta;Cervignano;Cervignano_Ripalta
+97;Cervignano_Sergnano;Sergnano;Cervignano_Sergnano
+98;Cervignano_Sergnano;Cervignano;Cervignano_Sergnano
+99;Cervignano_Settala_1;Settala;Cervignano_Settala_1
+100;Cervignano_Settala_1;Cervignano;Cervignano_Settala_1
+101;Cervignano_Settala_2;Settala;Cervignano_Settala_2
+102;Cervignano_Settala_2;Cervignano;Cervignano_Settala_2
+103;Cherbourg_Le Havre;Le Havre;Cherbourg_Le Havre
+104;Cherbourg_Le Havre;Cherbourg;Cherbourg_Le Havre
+105;Chieti_Cupello;Cupello;Chieti_Cupello
+106;Chieti_Cupello;Chieti;Chieti_Cupello
+107;Chinchilla_Montesa;Chinchilla;Chinchilla_Montesa
+108;Chinchilla_Montesa;Montesa;Chinchilla_Montesa
+109;Chivasso_Mortara;Mortara;Chivasso_Mortara
+110;Chivasso_Mortara;Chivasso;Chivasso_Mortara
+111;Chivasso_Poirino;Poirino;Chivasso_Poirino
+112;Chivasso_Poirino;Chivasso;Chivasso_Poirino
+113;Ciciliano_Melizzano;Melizzano;Ciciliano_Melizzano
+114;Ciciliano_Melizzano;Ciciliano;Ciciliano_Melizzano
+115;Cordoba_AlcazarDeSanJuan;Cordoba;Cordoba_AlcazarDeSanJuan
+116;Cordoba_AlcazarDeSanJuan;Alcazar De San Juan;Cordoba_AlcazarDeSanJuan
+117;Cordoba_Almendralejo;Cordoba;Cordoba_Almendralejo
+118;Cordoba_Almendralejo;Almendralejo;Cordoba_Almendralejo
+119;Cordoba_CampoMajor_1;Campo Maior;Cordoba_CampoMajor_1
+120;Cordoba_CampoMajor_1;Cordoba;Cordoba_CampoMajor_1
+121;Cordoba_CampoMajor_2;Campo Maior;Cordoba_CampoMajor_2
+122;Cordoba_CampoMajor_2;Cordoba;Cordoba_CampoMajor_2
+123;Cordoba_Grenada;Grenada;Cordoba_Grenada
+124;Cordoba_Grenada;Cordoba;Cordoba_Grenada
+125;Cordoba_Puertollano;Cordoba;Cordoba_Puertollano
+126;Cordoba_Puertollano;Puertollano;Cordoba_Puertollano
+127;Cortemaggiore_Pontremoli;Pontremoli;Cortemaggiore_Pontremoli
+128;Cortemaggiore_Pontremoli;Cortemaggiore;Cortemaggiore_Pontremoli
+129;Crotone_MaidaSEufemia;Maida S Eufemia;Crotone_MaidaSEufemia
+130;Crotone_MaidaSEufemia;Crotone;Crotone_MaidaSEufemia
+131;Cupello_Biccari;Biccari;Cupello_Biccari
+132;Cupello_Biccari;Cupello;Cupello_Biccari
+133;Cupello_Vastogirardi;Vastogirardi;Cupello_Vastogirardi
+134;Cupello_Vastogirardi;Cupello;Cupello_Vastogirardi
+135;Deudan;Quarnstedt;Deudan
+136;Deudan;EllundDE;Deudan
+137;Deudan;EllundDK;Deudan
+138;Deudan_Loop;Fockbek;Deudan_Loop
+139;Deudan_Loop;EllundDE;Deudan_Loop
+140;Donges_Angouleme;Angouleme;Donges_Angouleme
+141;Donges_Angouleme;Donges;Donges_Angouleme
+142;Donges_Paris;Paris;Donges_Paris
+143;Donges_Paris;Donges;Donges_Paris
+144;Ellund_Alborg;Alborg;Ellund_Alborg
+145;Ellund_Alborg;EllundDK;Ellund_Alborg
+146;Epe_Legden;Legden;Epe_Legden
+147;Epe_Legden;EpeH;Epe_Legden
+148;ERM;Ludwigshafen;ERM
+149;ERM;Karlsruhe;ERM
+150;ERM_Extra;Karlsruhe;ERM_Extra
+151;ERM_Extra;Au Am Rhein;ERM_Extra
+152;EUGAL_1;Lubmin;EUGAL_1
+153;EUGAL_1;Kienbaum;EUGAL_1
+154;EUGAL_1;Radeland;EUGAL_1
+155;EUGAL_1;Weissack;EUGAL_1
+156;EUGAL_1;Deutschneudorf;EUGAL_1
+157;EUGAL_1;Gebirgsneudorf;EUGAL_1
+158;EUGAL_2;Lubmin;EUGAL_1
+159;EUGAL_2;Kienbaum;EUGAL_1
+160;EUGAL_2;Radeland;EUGAL_1
+161;EUGAL_2;Weissack;EUGAL_1
+162;Europipe_II;Dornum;Europipe_II
+163;Europipe_II;Karsto;Europipe_II
+164;Flaibano_Bordano_1;Bordano;Flaibano_Bordano_1
+165;Flaibano_Bordano_1;Flaibano;Flaibano_Bordano_1
+166;Flaibano_Bordano_2;Bordano;Flaibano_Bordano_2
+167;Flaibano_Bordano_2;Flaibano;Flaibano_Bordano_2
+168;Flaibano_Bordano_3;Bordano;Flaibano_Bordano_3
+169;Flaibano_Bordano_3;Flaibano;Flaibano_Bordano_3
+170;Flaibano_Gonars_1;Gonars;Flaibano_Gonars_1
+171;Flaibano_Gonars_1;Flaibano;Flaibano_Gonars_1
+172;Flaibano_Gonars_2;Gonars;Flaibano_Gonars_2
+173;Flaibano_Gonars_2;Flaibano;Flaibano_Gonars_2
+174;Fluxys_1;Zeebrugge;Fluxys
+175;Fluxys_1;Maldegem;Fluxys
+176;Fluxys_1;Mons;Fluxys
+177;Fluxys_2;Zeebrugge;Fluxys
+178;Fluxys_2;Maldegem;Fluxys
+179;Fluxys_2;Berneau;Fluxys
+180;Foligno_GalleseCivitaCast;Gallese;Foligno_GalleseCivitaCast
+181;Foligno_GalleseCivitaCast;Foligno;Foligno_GalleseCivitaCast
+182;Folmhuse_Grotegaste_Loop;Grotegaste;Folmhuse_Grotegaste_Loop
+183;Folmhuse_Grotegaste_Loop;Folmhusen;Folmhuse_Grotegaste_Loop
+184;Forchheim_Finsing;Finsing;Forchheim_Finsing
+185;Forchheim_Finsing;Forchheim;Forchheim_Finsing
+186;FosSurMer_Beziers;Fos Sur Mer;FosSurMer_Beziers
+187;FosSurMer_Beziers;Beziers;FosSurMer_Beziers
+188;FosSurMer_Tersanne;Tersanne;FosSurMer_Tersanne
+189;FosSurMer_Tersanne;Fos Sur Mer;FosSurMer_Tersanne
+190;FosSurMer_Vorepe_1;Vorepe;FosSurMer_Vorepe_1
+191;FosSurMer_Vorepe_1;Fos Sur Mer;FosSurMer_Vorepe_1
+192;FosSurMer_Vorepe_2;Vorepe;FosSurMer_Vorepe_2
+193;FosSurMer_Vorepe_2;Fos Sur Mer;FosSurMer_Vorepe_2
+194;GaglianoSparacollo_CalderariEnna_1;Calderari Enna;GaglianoSparacollo_CalderariEnna_1
+195;GaglianoSparacollo_CalderariEnna_1;Gagliano Sparacollo;GaglianoSparacollo_CalderariEnna_1
+196;GaglianoSparacollo_CalderariEnna_2;Calderari Enna;GaglianoSparacollo_CalderariEnna_2
+197;GaglianoSparacollo_CalderariEnna_2;Gagliano Sparacollo;GaglianoSparacollo_CalderariEnna_2
+198;GaglianoSparacollo_CalderariEnna_3;Calderari Enna;GaglianoSparacollo_CalderariEnna_3
+199;GaglianoSparacollo_CalderariEnna_3;Gagliano Sparacollo;GaglianoSparacollo_CalderariEnna_3
+200;GaglianoSparacollo_Gagliano;Gagliano;Gagliano Sparacollo_Gagliano
+201;GaglianoSparacollo_Gagliano;Gagliano Sparacollo;GaglianoSparacollo_Gagliano
+202;GalleseCivitaCast_Ciciliano;Ciciliano;GalleseCivitaCast_Ciciliano
+203;GalleseCivitaCast_Ciciliano;Gallese;GalleseCivitaCast_Ciciliano
+204;GalleseCivitaCast_Oricola;Oricola;GalleseCivitaCast_Oricola
+205;GalleseCivitaCast_Oricola;Gallese;GalleseCivitaCast_Oricola
+206;Gazelle_1;Brandov;Gazelle
+207;Gazelle_1;Gebirgsneudorf;Gazelle
+208;Gazelle_1;Rozvadov;Gazelle
+209;Gernsheim_NKP;Gernsheim;Gernsheim_NKP
+210;Gernsheim_NKP;Herchenrode;Gernsheim_NKP
+211;Gijon_Oviedo;Oviedo;Gijon_Oviedo
+212;Gijon_Oviedo;El Musel;Gijon_Oviedo
+213;Giurgiu_Rus;Giurgiu;Giurgiu_Rus
+214;Giurgiu_Rus;Russe;Giurgiu_Rus
+215;Giurgiu_Rus_Extra_1;Podisor;Giurgiu_Rus_E
+216;Giurgiu_Rus_Extra_1;Giurgiu;Giurgiu_Rus_E
+217;Golasecca_Oltrona;Oltrona;Golasecca_Oltrona
+218;Golasecca_Oltrona;Golasecca;Golasecca_Oltrona
+219;Gonars_Villesse;Villesse;Gonars_Villesse
+220;Gonars_Villesse;Gonars;Gonars_Villesse
+221;Groningen_Rehden_Extra;Groningen;Groningen_Rehden_Extra
+222;Groningen_Rehden_Extra;Rehden;Groningen_Rehden_Extra
+223;Grumento_Moliterno;Moliterno;Grumento_Moliterno
+224;Grumento_Moliterno;Grumento;Grumento_Moliterno
+225;Grumento_MonteAlpi_1;Monte Alpi;Grumento_MonteAlpi_1
+226;Grumento_MonteAlpi_1;Grumento;Grumento_MonteAlpi_1
+227;Grumento_MonteAlpi_2;Monte Alpi;Grumento_MonteAlpi_2
+228;Grumento_MonteAlpi_2;Grumento;Grumento_MonteAlpi_2
+229;Grumento_MontesanoSullaMarcellana;Montesano;Grumento_MontesanoSullaMarcellana
+230;Grumento_MontesanoSullaMarcellana;Grumento;Grumento_MontesanoSullaMarcellana
+231;GTS_1_Extra;Wieringermeer;GTS
+232;GTS_1_Extra;Groningen;GTS
+233;GTS_2_Extra;Maastricht;GTS
+234;GTS_2_Extra;Ravenstein;GTS
+235;GTS_2_Extra;Ewijk;GTS
+236;GTS_2_Extra;Wijngaarden;GTS
+237;GTS_2_Extra;Wieringermeer;GTS
+238;HAG_1;Baumgarten;HAG
+239;HAG_1;Kittsee;HAG
+240;HAG_1;Deutsch Jahndorf;HAG
+241;Hauts_de_France;Cuvilly;Hauts_de_France
+242;Hauts_de_France;Pitgam;Hauts_de_France
+243;Hauts_de_France_II;Pitgam;Hauts_de_France_II
+244;Hauts_de_France_II;Dunkerque;Hauts_de_France_II
+245;Huelva_Cordoba;Huelva;Huelva_Cordoba
+246;Huelva_Cordoba;Cordoba;Huelva_Cordoba
+247;IndefatigableHewitt_Bacton;Bacton;E106LemanBank
+248;IndefatigableHewitt_Bacton;Indefatigable;E106LemanBank
+249;Interconnector;Zeebrugge;Interconnector
+250;Interconnector;Bacton;Interconnector
+251;Interconnector_1;Loughshinny;Interconnector_1
+252;Interconnector_1;Gormanstown;Interconnector_2
+253;Istrana_Caldonazzo;Caldonazzo;Istrana_Caldonazzo
+254;Istrana_Caldonazzo;Istrana;Istrana_Caldonazzo
+255;Istrana_Mira;Mira;Istrana_Mira
+256;Istrana_Mira;Istrana;Istrana_Mira
+257;Istrana_SPoloDiPiave_1;S Polo Di Piave;Istrana_SPoloDiPiave_1
+258;Istrana_SPoloDiPiave_1;Istrana;Istrana_SPoloDiPiave_1
+259;Istrana_SPoloDiPiave_2;S Polo Di Piave;Istrana_SPoloDiPiave_2
+260;Istrana_SPoloDiPiave_2;Istrana;Istrana_SPoloDiPiave_2
+261;Istrana_SPoloDiPiave_3;S Polo Di Piave;Istrana_SPoloDiPiave_3
+262;Istrana_SPoloDiPiave_3;Istrana;Istrana_SPoloDiPiave_3
+263;JAGAL_1;Mallnow;JAGAL_1_2
+264;JAGAL_1;Kienbaum;JAGAL_1_2
+265;JAGAL_1;Radeland;JAGAL_2
+266;JAGAL_1;Rueckersdorf;JAGAL_2
+267;JAMAL_1;Kondratki;JAMAL
+268;JAMAL_1;Zambrow;JAMAL
+269;JAMAL_1;Ciechanow;JAMAL
+270;JAMAL_1;Wloclawek;JAMAL
+271;JAMAL_1;Lebus;JAMAL
+272;JAMAL_1;Lwowek;JAMAL_1
+273;JAMAL_1;Szamotuly;JAMAL_1
+274;JAMAL_1;Damaslawek;JAMAL_1
+275;JAMAL_1;Mogilno;JAMAL_1
+276;JAMAL_1;Gustorzyn;JAMAL_1
+277;JAMAL_1;Wloclawek;JAMAL_1
+278;JAMAL_2;Wloclawek;JAMAL
+279;JAMAL_2;WysokojePL;JAMAL
+280;JAMAL_2;Wysokoje;JAMAL
+281;KIP;Petrzalka;KIP
+282;KIP;Kittsee;KIP
+283;Kirriemuir_Wooler;Kirriemuir;Kirriemuir_Wooler
+284;Kirriemuir_Wooler;Wooler;Kirriemuir_Wooler
+285;Wooler_BishopAuckland;Wooler;Wooler_BishopAuckland
+286;Wooler_BishopAuckland;Bishop Auckland;Wooler_BishopAuckland
+287;Lack_Bayonne;Bayonne;Lack_Bayonne
+288;Lack_Bayonne;Lacq;Lack_Bayonne
+289;Lacq_Angouleme;Lacq;Lacq_Angouleme
+290;Lacq_Angouleme;Angouleme;Lacq_Angouleme
+291;Lacq_Navarra;Navarra;Lacq_Navarra
+292;Lacq_Navarra;Lacq;Lacq_Navarra
+293;Latiano_Brindisi_1;Brindisi;Latiano_Brindisi_1
+294;Latiano_Brindisi_1;Latiano;Latiano_Brindisi_1
+295;Latiano_Brindisi_2;Brindisi;Latiano_Brindisi_2
+296;Latiano_Brindisi_2;Latiano;Latiano_Brindisi_2
+297;Lauria_Morano_1;Morano;Lauria_Morano_1
+298;Lauria_Morano_1;Lauria;Lauria_Morano_1
+299;Lauria_Morano_2;Morano;Lauria_Morano_2
+300;Lauria_Morano_2;Lauria;Lauria_Morano_2
+301;Legden_StHubert;St Hubert;Legden_StHubert
+302;Legden_StHubert;Legden;Legden_StHubert
+303;LeHavre_Paris_1;Paris;LeHavre_Paris_1
+304;LeHavre_Paris_1;Le Havre;LeHavre_Paris_1
+305;LeHavre_Paris_2;Paris;LeHavre_Paris_2
+306;LeHavre_Paris_2;Le Havre;LeHavre_Paris_2
+307;Leira_Braga;Braga;Leira_Braga
+308;Leira_Braga;Leiria;Leira_Braga
+309;Leiria_Tuy;Leiria;Leiria_Tuy
+310;Leiria_Tuy;Tuy;Leiria_Tuy
+311;Lingen_PS;Lingen;Lingen_PS
+312;Lingen_PS;Lingen;Lingen_PS
+313;LSF_1;Schwandorf;LSF
+314;LSF_1;Forchheim;LSF
+315;LSF_1;Finsing;LSF
+316;LSF_Extra;Finsing;LSF_Extra
+317;LSF_Extra;Burghausen;LSF_Extra
+318;Lyon_Annecy_1;Annecy;E29
+319;Lyon_Annecy_1;Lyon;E29
+320;Lyon_Annecy_2;Annecy;E29
+321;Lyon_Annecy_2;Tersanne;E29
+322;Lyon_Tersanne_1;Lyon;E29
+323;Lyon_Tersanne_1;Tersanne;E29
+324;Lyon_Tersanne_2;Lyon;E29
+325;Lyon_Tersanne_2;Tersanne;E29
+326;Maastrict_Paris_1;Maastricht;E48
+327;Maastrict_Paris_1;Berneau;E48
+328;Maastrict_Paris_2;Maastricht;E48
+329;Maastrict_Paris_2;Berneau;E48
+330;Maastrict_Paris_3;Berneau;E48_2
+331;Maastrict_Paris_3;Mons;E48_2
+332;Maastrict_Paris_4;Berneau;E48_2
+333;Maastrict_Paris_4;Mons;E48_2
+334;Maastrict_Paris_5;Mons;E48
+335;Maastrict_Paris_5;Cuvilly;E48
+336;Maastrict_Paris_5;Paris;E48
+337;Maastrict_Paris_6;Mons;E48
+338;Maastrict_Paris_6;Cuvilly;E48
+339;Maastrict_Paris_6;Paris;E48
+340;Madrid_Palancares;Marisma Palancares;Madrid_Palancares
+341;Madrid_Palancares;Madrid;Madrid_Palancares
+342;MAGAL2France;Medelsheim;MAGAL2France
+343;MAGAL2France;Nancy;MAGAL2France
+344;MaidaSEufemia_Palmi_1;Palmi;MaidaSEufemia_Palmi_1
+345;MaidaSEufemia_Palmi_1;Maida S Eufemia;MaidaSEufemia_Palmi_1
+346;MaidaSEufemia_Palmi_2;Palmi;MaidaSEufemia_Palmi_2
+347;MaidaSEufemia_Palmi_2;Maida S Eufemia;MaidaSEufemia_Palmi_2
+348;MaidaSEufemia_ReggioCalabria;Reggio Calabria;MaidaSEufemia_ReggioCalabria
+349;MaidaSEufemia_ReggioCalabria;Maida S Eufemia;MaidaSEufemia_ReggioCalabria
+350;Malbroghetto_Tarvisio_1;Tarvisio;Malbroghetto_Tarvisio_1
+351;Malbroghetto_Tarvisio_1;Malbroghetto;Malbroghetto_Tarvisio_1
+352;Malbroghetto_Tarvisio_2;Tarvisio;Malbroghetto_Tarvisio_2
+353;Malbroghetto_Tarvisio_2;Malbroghetto;Malbroghetto_Tarvisio_2
+354;Malbroghetto_Tarvisio_3;Tarvisio;Malbroghetto_Tarvisio_3
+355;Malbroghetto_Tarvisio_3;Malbroghetto;Malbroghetto_Tarvisio_3
+356;Maldegem_Zeebrugge_Extra;Zeebrugge;Maldegem_Zeebrugge_Extra
+357;Maldegem_Zeebrugge_Extra;Maldegem;Maldegem_Zeebrugge_Extra
+358;MarismaPalancares_Madrid;Madrid;MarismaPalancares_Madrid
+359;MarismaPalancares_Madrid;Marisma Palancares;MarismaPalancares_Madrid
+360;Masera_Veruno_1;Veruno;Masera_Veruno_1
+361;Masera_Veruno_1;Masera;Masera_Veruno_1
+362;Masera_Veruno_2;Veruno;Masera_Veruno_2
+363;Masera_Veruno_2;Masera;Masera_Veruno_2
+364;MEGAL_Nord_1;Waidhaus;MEGAL_Nord_1
+365;MEGAL_Nord_1;Rothenstadt;MEGAL_Nord_1
+366;MEGAL_Nord_1;Rimpar;MEGAL_Nord_2
+367;MEGAL_Nord_1;Gernsheim;MEGAL_Nord_3
+368;MEGAL_Nord_1;Mittelbrunn MEGAL;MEGAL_Nord_4
+369;MEGAL_Nord_1;Obergailbach;MEGAL_Nord_4
+370;MEGAL_Nord_Loop_1;Waidhaus;MEGAL_Nord_5
+371;MEGAL_Nord_Loop_1;Rothenstadt;MEGAL_Nord_5
+372;MEGAL_Nord_Loop_1;Rimpar;MEGAL_Nord_5
+373;MEGAL_Nord_Loop_1;Gernsheim;MEGAL_Nord_5
+374;MEGAL_Nord_Loop_1;Mittelbrunn MEGAL;MEGAL_Nord_6
+375;MEGAL_Nord_Loop_1;Obergailbach;MEGAL_Nord_6
+376;MEGAL_Sued_1_1;Rothenstadt;MEGAL_Sued_1
+377;MEGAL_Sued_1_1;Schwandorf;MEGAL_Sued_1
+378;MEGAL_Sued_1_1;Windberg;MEGAL_Sued_1
+379;MEGAL_Sued_1_1;Wildenranna;MEGAL_Sued_1
+380;MEGAL_Sued_1_1;Oberkappel;MEGAL_Sued_1
+381;MEGAL_Sued_2_1;Rothenstadt;MEGAL_Sued_2
+382;MEGAL_Sued_2_1;Schwandorf;MEGAL_Sued_2
+383;MEGAL_Sued_2_1;Windberg;MEGAL_Sued_2
+384;Melizzano_Benevento;Benevento;Melizzano_Benevento
+385;Melizzano_Benevento;Melizzano;Melizzano_Benevento
+386;Menfi_MazaraDelVallo_1;Mazara Del Vallo;Menfi_MazaraDelVallo_1
+387;Menfi_MazaraDelVallo_1;Menfi;Menfi_MazaraDelVallo_1
+388;Menfi_MazaraDelVallo_2;Mazara Del Vallo;Menfi_MazaraDelVallo_2
+389;Menfi_MazaraDelVallo_2;Menfi;Menfi_MazaraDelVallo_2
+390;Menfi_MazaraDelVallo_3;Mazara Del Vallo;Menfi_MazaraDelVallo_3
+391;Menfi_MazaraDelVallo_3;Menfi;Menfi_MazaraDelVallo_3
+392;Messina_Montalbano_1;Montalbano;Messina_Montalbano_1
+393;Messina_Montalbano_1;Messina;Messina_Montalbano_1
+394;Messina_Montalbano_2;Montalbano;Messina_Montalbano_2
+395;Messina_Montalbano_2;Messina;Messina_Montalbano_2
+396;Messina_Montalbano_3;Montalbano;Messina_Montalbano_3
+397;Messina_Montalbano_3;Messina;Messina_Montalbano_3
+398;MHP;Felindre;MilfordHavenPipeline
+399;MHP;Milford Haven;MilfordHavenPipeline
+400;hand_10;Rysum;hand_10
+401;hand_10;Ekofisk;hand_10
+402;MIDAL_1;Krummhoern;MIDAL
+403;MIDAL_1;Rysum;MIDAL
+404;MIDAL_1;Bunde;MIDAL
+405;MIDAL_1;Grotegaste;MIDAL
+406;MIDAL_1;Folmhusen;MIDAL
+407;MIDAL_1;Rehden;MIDAL
+408;MIDAL_1;Lippe;MIDAL
+409;MIDAL_1;Reckrod;MIDAL
+410;MIDAL_1;Ludwigshafen;MIDAL
+411;Minerbio_Parma;Parma;Minerbio_Parma
+412;Minerbio_Parma;Minerbio;Minerbio_Parma
+413;Minerbio_RavennaTerra;Ravenna Terra;Minerbio_RavennaTerra
+414;Minerbio_RavennaTerra;Minerbio;Minerbio_RavennaTerra
+415;Mira_CampagnaLupia;Campagna Lupia;Mira_CampagnaLupia
+416;Mira_CampagnaLupia;Mira;Mira_CampagnaLupia
+417;MoggioUdinesse_Pontebba_1;Pontebba;MoggioUdinesse_Pontebba_1
+418;MoggioUdinesse_Pontebba_1;Moggio Udinesse;MoggioUdinesse_Pontebba_1
+419;MoggioUdinesse_Pontebba_2;Pontebba;MoggioUdinesse_Pontebba_2
+420;MoggioUdinesse_Pontebba_2;Moggio Udinesse;MoggioUdinesse_Pontebba_2
+421;MoggioUdinesse_Pontebba_3;Pontebba;MoggioUdinesse_Pontebba_3
+422;MoggioUdinesse_Pontebba_3;Moggio Udinesse;MoggioUdinesse_Pontebba_3
+423;Moliterno_Lauria_1;Lauria;Moliterno_Lauria_1
+424;Moliterno_Lauria_1;Moliterno;Moliterno_Lauria_1
+425;Moliterno_Lauria_2;Lauria;Moliterno_Lauria_2
+426;Moliterno_Lauria_2;Moliterno;Moliterno_Lauria_2
+427;Moliterno_MontesanoSullaMarcellana_1;Montesano;Moliterno_MontesanoSullaMarcellana_1
+428;Moliterno_MontesanoSullaMarcellana_1;Moliterno;Moliterno_MontesanoSullaMarcellana_1
+429;Moliterno_MontesanoSullaMarcellana_2;Montesano;Moliterno_MontesanoSullaMarcellana_2
+430;Moliterno_MontesanoSullaMarcellana_2;Moliterno;Moliterno_MontesanoSullaMarcellana_2
+431;Monaco;Finsing;Monaco
+432;Monaco;Burghausen;Monaco
+433;Montalbano_GaglianoSparacollo_1;Gagliano Sparacollo;Montalbano_GaglianoSparacollo_1
+434;Montalbano_GaglianoSparacollo_1;Montalbano;Montalbano_GaglianoSparacollo_1
+435;Montalbano_GaglianoSparacollo_2;Gagliano Sparacollo;Montalbano_GaglianoSparacollo_2
+436;Montalbano_GaglianoSparacollo_2;Montalbano;Montalbano_GaglianoSparacollo_2
+437;Montalbano_GaglianoSparacollo_3;Gagliano Sparacollo;Montalbano_GaglianoSparacollo_3
+438;Montalbano_GaglianoSparacollo_3;Montalbano;Montalbano_GaglianoSparacollo_3
+439;Montesa_Ibiza;Montesa;Montesa_Ibiza
+440;Montesa_Ibiza;Ibiza;Montesa_Ibiza
+441;Montesa_Tivisa;Montesa;Montesa_Tivisa
+442;Montesa_Tivisa;Tivisa;Montesa_Tivisa
+443;MontesanoSullaMarcellana_Melizzano_1;Melizzano;MontesanoSullaMarcellana_Melizzano_1
+444;MontesanoSullaMarcellana_Melizzano_1;Montesano;MontesanoSullaMarcellana_Melizzano_1
+445;MontesanoSullaMarcellana_Melizzano_2;Melizzano;MontesanoSullaMarcellana_Melizzano_2
+446;MontesanoSullaMarcellana_Melizzano_2;Montesano;MontesanoSullaMarcellana_Melizzano_2
+447;Montoir_Donges_Extra;Montoir De Bretagne;Montoir_Donges_Extra
+448;Montoir_Donges_Extra;Donges;Montoir_Donges_Extra
+449;Morano_Tarsia_1;Tarsia;Morano_Tarsia_1
+450;Morano_Tarsia_1;Morano;Morano_Tarsia_1
+451;Morano_Tarsia_2;Tarsia;Morano_Tarsia_2
+452;Morano_Tarsia_2;Morano;Morano_Tarsia_2
+453;Morano_Tarsia_3;Tarsia;Morano_Tarsia_3
+454;Morano_Tarsia_3;Morano;Morano_Tarsia_3
+455;Mortara_Alessandria_1;Alessandria;Mortara_Alessandria_1
+456;Mortara_Alessandria_1;Mortara;Mortara_Alessandria_1
+457;Mortara_Alessandria_2;Alessandria;Mortara_Alessandria_2
+458;Mortara_Alessandria_2;Mortara;Mortara_Alessandria_2
+459;Mortara_Cervignano_1;Cervignano;Mortara_Cervignano_1
+460;Mortara_Cervignano_1;Mortara;Mortara_Cervignano_1
+461;Mortara_Cervignano_2;Cervignano;Mortara_Cervignano_2
+462;Mortara_Cervignano_2;Mortara;Mortara_Cervignano_2
+463;Nancy_Bourbonne;Bourbonne;Nancy_Bourbonne
+464;Nancy_Bourbonne;Nancy;Nancy_Bourbonne
+465;Nancy_Strasbourg;Strasbourg;Nancy_Strasbourg
+466;Nancy_Strasbourg;Nancy;Nancy_Strasbourg
+467;NEL_1;Lubmin;NEL
+468;NEL_1;Embsen;NEL
+469;NEL_1;Rehden;NEL
+470;NETRA_1;Dornum;NETRA
+471;NETRA_1;Wardenburg;NETRA
+472;NETRA_1;Embsen;NETRA
+473;NETRA_1;Steinitz;NETRA
+474;Netzkupplung_Drohne;Rehden;Netzkupplung_Drohne
+475;Netzkupplung_Drohne;Drohne;Netzkupplung_Drohne
+476;Nordschwarzwaldleitung;Leonberg;Nordschwarzwaldleitung
+477;Nordschwarzwaldleitung;Au Am Rhein;Nordschwarzwaldleitung
+478;NOWAL;Rehden;NOWAL
+479;NOWAL;Drohne;NOWAL
+480;NWP;Coolkeeragh;NWP
+481;NWP;Islandmagee;NWP
+482;Oltrona_Bizzarone;Bizzarone;Oltrona_Bizzarone
+483;Oltrona_Bizzarone;Oltrona;Oltrona_Bizzarone
+484;OPAL_Nord_1;Lubmin;OPAL_Nord
+485;OPAL_Nord_1;Kienbaum;OPAL_Nord
+486;OPAL_Nord_1;Radeland;OPAL_Nord
+487;OPAL_Sued;Radeland;OPAL_Sued
+488;OPAL_Sued;Olbernhau;OPAL_Sued
+489;Oricola_Ciciliano;Ciciliano;Oricola_Ciciliano
+490;Oricola_Ciciliano;Oricola;Oricola_Ciciliano
+491;Oricola_Sulmona;Sulmona;Oricola_Sulmona
+492;Oricola_Sulmona;Oricola;Oricola_Sulmona
+493;Oviedo_Tuy;Oviedo;Oviedo_Tuy
+494;Oviedo_Tuy;Tuy;Oviedo_Tuy
+495;Palagiano_Bernalda_1;Bernalda;Palagiano_Bernalda_1
+496;Palagiano_Bernalda_1;Palagiano;Palagiano_Bernalda_1
+497;Palagiano_Bernalda_2;Bernalda;Palagiano_Bernalda_2
+498;Palagiano_Bernalda_2;Palagiano;Palagiano_Bernalda_2
+499;Palagiano_Latiano_1;Latiano;Palagiano_Latiano_1
+500;Palagiano_Latiano_1;Palagiano;Palagiano_Latiano_1
+501;Palagiano_Latiano_2;Latiano;Palagiano_Latiano_2
+502;Palagiano_Latiano_2;Palagiano;Palagiano_Latiano_2
+503;Palmi_Messina_1;Messina;Palmi_Messina_1
+504;Palmi_Messina_1;Palmi;Palmi_Messina_1
+505;Palmi_Messina_2;Messina;Palmi_Messina_2
+506;Palmi_Messina_2;Palmi;Palmi_Messina_2
+507;Parma_Cortemaggiore;Cortemaggiore;Parma_Cortemaggiore
+508;Parma_Cortemaggiore;Parma;Parma_Cortemaggiore
+509;Parma_Pontremoli;Pontremoli;Parma_Pontremoli
+510;Parma_Pontremoli;Parma;Parma_Pontremoli
+511;PassoGries_Masera;Masera;PassoGries_Masera
+512;PassoGries_Masera;Passo Gries;PassoGries_Masera
+513;PENTA_West;Burghausen;PENTA_West
+514;PENTA_West;Haiming;PENTA_West
+515;PENTA_West;Oberkappel;PENTA_West
+516;Pinto_Roccasecca;Roccasecca;Pinto_Roccasecca
+517;Pinto_Roccasecca;Pinto;Pinto_Roccasecca
+518;Pitgam_Maldegem;Maldegem;Pitgam_Maldegem
+519;Pitgam_Maldegem;Pitgam;Pitgam_Maldegem
+520;PoggioRenatico_Cortemaggiore;Cortemaggiore;PoggioRenatico_Cortemaggiore
+521;PoggioRenatico_Cortemaggiore;Poggio Renatico;PoggioRenatico_Cortemaggiore
+522;PoggioRenatico_Minerbio_1;Minerbio;PoggioRenatico_Minerbio_1
+523;PoggioRenatico_Minerbio_1;Poggio Renatico;PoggioRenatico_Minerbio_1
+524;PoggioRenatico_Minerbio_2;Minerbio;PoggioRenatico_Minerbio_2
+525;PoggioRenatico_Minerbio_2;Poggio Renatico;PoggioRenatico_Minerbio_2
+526;Poirino_Alessandria;Alessandria;Poirino_Alessandria
+527;Poirino_Alessandria;Poirino;Poirino_Alessandria
+528;Pontebba_Malbroghetto_1;Malbroghetto;Pontebba_Malbroghetto_1
+529;Pontebba_Malbroghetto_1;Pontebba;Pontebba_Malbroghetto_1
+530;Pontebba_Malbroghetto_2;Malbroghetto;Pontebba_Malbroghetto_2
+531;Pontebba_Malbroghetto_2;Pontebba;Pontebba_Malbroghetto_2
+532;Pontremoli_LaSpezia;La Spezia;Pontremoli_LaSpezia
+533;Pontremoli_LaSpezia;Pontremoli;Pontremoli_LaSpezia
+534;PortoViro_Cavarzere;Cavarzere;PortoViro_Cavarzere
+535;PortoViro_Cavarzere;Porto Viro;PortoViro_Cavarzere
+536;Puertollano_Madrid;Puertollano;Puertollano_Madrid
+537;Puertollano_Madrid;Madrid;Puertollano_Madrid
+538;Quarnstedt_Hamburg;Quarnstedt;Quarnstedt_Hamburg
+539;Quarnstedt_Hamburg;Hamburg;Quarnstedt_Hamburg
+540;RavennaMare_Rubicone;Rubicone;RavennaMare_Rubicone
+541;RavennaMare_Rubicone;Ravenna Mare;RavennaMare_Rubicone
+542;RavennaTerra_Casalborsetti_1;Casalborsetti;RavennaTerra_Casalborsetti_1
+543;RavennaTerra_Casalborsetti_1;Ravenna Terra;RavennaTerra_Casalborsetti_1
+544;RavennaTerra_Casalborsetti_2;Casalborsetti;RavennaTerra_Casalborsetti_2
+545;RavennaTerra_Casalborsetti_2;Ravenna Terra;RavennaTerra_Casalborsetti_2
+546;RavennaTerra_RavennaMare_1;Ravenna Mare;RavennaTerra_RavennaMare_1
+547;RavennaTerra_RavennaMare_1;Ravenna Terra;RavennaTerra_RavennaMare_1
+548;RavennaTerra_RavennaMare_2;Ravenna Mare;RavennaTerra_RavennaMare_2
+549;RavennaTerra_RavennaMare_2;Ravenna Terra;RavennaTerra_RavennaMare_2
+550;Recanati_Chieti;Chieti;Recanati_Chieti
+551;Recanati_Chieti;Recanati;Recanati_Chieti
+552;Recanati_Foligno;Foligno;Recanati_Foligno
+553;Recanati_Foligno;Recanati;Recanati_Foligno
+554;ReggioCalabria_Messina_1;Messina;ReggioCalabria_Messina_1
+555;ReggioCalabria_Messina_1;Reggio Calabria;ReggioCalabria_Messina_1
+556;ReggioCalabria_Messina_2;Messina;ReggioCalabria_Messina_2
+557;ReggioCalabria_Messina_2;Reggio Calabria;ReggioCalabria_Messina_2
+558;ReggioCalabria_Messina_3;Messina;ReggioCalabria_Messina_3
+559;ReggioCalabria_Messina_3;Reggio Calabria;ReggioCalabria_Messina_3
+560;Rende_MaidaSEufemia_1;Maida S Eufemia;Rende_MaidaSEufemia_1
+561;Rende_MaidaSEufemia_1;Rende;Rende_MaidaSEufemia_1
+562;Rende_MaidaSEufemia_2;Maida S Eufemia;Rende_MaidaSEufemia_2
+563;Rende_MaidaSEufemia_2;Rende;Rende_MaidaSEufemia_2
+564;Rende_MaidaSEufemia_3;Maida S Eufemia;Rende_MaidaSEufemia_3
+565;Rende_MaidaSEufemia_3;Rende;Rende_MaidaSEufemia_3
+566;Rheinfeld_Wallbach_Extra;Rheinfelden;Rheinfeld_Wallbach_Extra
+567;Rheinfeld_Wallbach_Extra;Wallbach;Rheinfeld_Wallbach_Extra
+568;RHG;Hamburg;RHG
+569;RHG;Rehden;RHG
+570;Rimini_Sansepolcro;Sansepolcro;Rimini_Sansepolcro
+571;Rimini_Sansepolcro;Rimini;Rimini_Sansepolcro
+572;Ripalta_Cortemaggiore_1;Cortemaggiore;Ripalta_Cortemaggiore_1
+573;Ripalta_Cortemaggiore_1;Ripalta;Ripalta_Cortemaggiore_1
+574;Ripalta_Cortemaggiore_2;Cortemaggiore;Ripalta_Cortemaggiore_2
+575;Ripalta_Cortemaggiore_2;Ripalta;Ripalta_Cortemaggiore_2
+576;Roussines_Paris;Roussines;Roussines_Paris
+577;Roussines_Paris;Paris;Roussines_Paris
+578;Rubicone_Rimini;Rimini;Rubicone_Rimini
+579;Rubicone_Rimini;Rubicone;Rubicone_Rimini
+580;Salzwedel_Berlin;Berlin;Salzwedel_Berlin
+581;Salzwedel_Berlin;Steinitz;Salzwedel_Berlin
+582;Salzwedel_Berlin_Extra;Berlin;Salzwedel_Berlin_Extra
+583;Salzwedel_Berlin_Extra;Kienbaum;Salzwedel_Berlin_Extra
+584;Sansepolcro_TerranuovaBracc;Terranuova Bracciolini;Sansepolcro_TerranuovaBracc
+585;Sansepolcro_TerranuovaBracc;Sansepolcro;Sansepolcro_TerranuovaBracc
+586;Santander_Avilles;Avilles;Santander_Avilles
+587;Santander_Avilles;Santander;Santander_Avilles
+588;Schwandorf_Forchheim;Forchheim;Schwandorf_Forchheim
+589;Schwandorf_Forchheim;Schwandorf;Schwandorf_Forchheim
+590;Sergnano_Cremona;Cremona;Sergnano_Cremona
+591;Sergnano_Cremona;Sergnano;Sergnano_Cremona
+592;Sergnano_Vigasio;Vigasio;Sergnano_Vigasio
+593;Sergnano_Vigasio;Sergnano;Sergnano_Vigasio
+594;Settala_Monza;Monza;Settala_Monza
+595;Settala_Monza;Settala;Settala_Monza
+596;Setubal_Leira;Leiria;Setubal_Leira
+597;Setubal_Leira;Setubal;Setubal_Leira
+598;SNIP;Islandmagee;SNIP
+599;SNIP;Brighthouse;SNIP
+600;SNP;Brighthouse;SNP
+601;SNP;Moffat;SNP
+602;SOL;Murfeld;SOL
+603;SOL;Weitendorf;SOL
+604;SPoloDiPiave_Flaibano_1;Flaibano;SPoloDiPiave_Flaibano_1
+605;SPoloDiPiave_Flaibano_1;S Polo Di Piave;SPoloDiPiave_Flaibano_1
+606;SPoloDiPiave_Flaibano_2;Flaibano;SPoloDiPiave_Flaibano_2
+607;SPoloDiPiave_Flaibano_2;S Polo Di Piave;SPoloDiPiave_Flaibano_2
+608;SPoloDiPiave_Flaibano_3;Flaibano;SPoloDiPiave_Flaibano_3
+609;SPoloDiPiave_Flaibano_3;S Polo Di Piave;SPoloDiPiave_Flaibano_3
+610;STEGAL;Brandov;STEGAL
+611;STEGAL;Olbernhau;STEGAL
+612;STEGAL;Rueckersdorf;STEGAL
+613;STEGAL;Duerrengleina;STEGAL
+614;STEGAL;Eischleben;STEGAL
+615;STEGAL;Wolfsbehringen;STEGAL
+616;STEGAL;Reckrod;STEGAL
+617;STEGAL_Loop;Wolfsbehringen;STEGAL_Loop
+618;STEGAL_Loop;Eischleben;STEGAL_Loop
+619;STEGAL_Loop;Duerrengleina;STEGAL_Loop
+620;StHubert_Weissweiler;Weisweiler;StHubert_Weissweiler
+621;StHubert_Weissweiler;St Hubert;StHubert_Weissweiler
+622;Stolberg_Eynatten;Eynatten;Stolberg_Eynatten
+623;Stolberg_Eynatten;Stolberg;Stolberg_Eynatten
+624;SuedDeutschland_1;Stutensee Blankenloch;SuedDeutschland
+625;SuedDeutschland_1;Scharenstetten;SuedDeutschland
+626;TAG;Baumgarten;TAG_1
+627;TAG;Arnoldstein;TAG_2
+628;TAG;Weitendorf;TAG_2
+629;TAG;Arnoldstein;TAG_2
+630;TAG_Loop;Baumgarten;TAG_Loop_2
+631;TAG_Loop;Arnoldstein;TAG_Loop_2
+632;TAP;Sancaali Koeyue;TAP
+633;TAP;Meric Nehri;TAP
+634;TAP;Kipoi;TAP
+635;TAP;Alexandroupolis;TAP
+636;TAP;Kavala;TAP
+637;TAP;Thessaloniki;TAP
+638;TAP;Kastoria;TAP
+639;TAP;Bilisht Qendr;TAP
+640;TAP;Topoje;TAP
+641;TAP;Melendugno;TAP
+642;TAP;Brindisi;TAP
+643;Tarsia_Crotone;Crotone;Tarsia_Crotone
+644;Tarsia_Crotone;Tarsia;Tarsia_Crotone
+645;Tarsia_Rende_1;Rende;Tarsia_Rende_1
+646;Tarsia_Rende_1;Tarsia;Tarsia_Rende_1
+647;Tarsia_Rende_2;Rende;Tarsia_Rende_2
+648;Tarsia_Rende_2;Tarsia;Tarsia_Rende_2
+649;Tarsia_Rende_3;Rende;Tarsia_Rende_3
+650;Tarsia_Rende_3;Tarsia;Tarsia_Rende_3
+651;TENP;Wallbach;TENP
+652;TENP;Huegelheim;TENP
+653;TENP;Schwarzach;TENP
+654;TENP;Au Am Rhein;TENP
+655;TENP;Mittelbrunn TENP;TENP
+656;TENP;Stolberg;TENP
+657;TENP;Bocholtz;TENP
+658;TENP_Loop;Wallbach;TENP_Loop
+659;TENP_Loop;Huegelheim;TENP_Loop
+660;TENP_Loop;Schwarzach;TENP_Loop
+661;TENP_Loop;Au Am Rhein;TENP_Loop
+662;TENP_Loop;Mittelbrunn TENP;TENP_Loop
+663;TENP_Loop;Stolberg;TENP_Loop
+664;TENP_Loop;Bocholtz;TENP_Loop
+665;TerranuovaBracc_GalleseCivitaCast_1;Gallese;TerranuovaBracc_GalleseCivitaCast_1
+666;TerranuovaBracc_GalleseCivitaCast_1;Terranuova Bracciolini;TerranuovaBracc_GalleseCivitaCast_1
+667;TerranuovaBracc_GalleseCivitaCast_2;Gallese;TerranuovaBracc_GalleseCivitaCast_2
+668;TerranuovaBracc_GalleseCivitaCast_2;Terranuova Bracciolini;TerranuovaBracc_GalleseCivitaCast_2
+669;TerranuovaBracc_Livorno;Livorno;TerranuovaBracc_Livorno
+670;TerranuovaBracc_Livorno;Terranuova Bracciolini;TerranuovaBracc_Livorno
+671;Tivisa_Barcelona;Tivisa;Tivisa_Barcelona
+672;Tivisa_Barcelona;Barcelona;Tivisa_Barcelona
+673;Tivisa_VillarDeArnedo;Tivisa;Tivisa_VillarDeArnedo
+674;Tivisa_VillarDeArnedo;Villar De Arnedo;Tivisa_VillarDeArnedo
+675;Transgas_1;Waidhaus;Transgas
+676;Transgas_1;Rozvadov;Transgas
+677;Transgas_1;Malesovice;Transgas
+678;Transgas_1;Brodske;Transgas
+679;Transgas_1;Plavecky Peter;Transgas
+680;Transgas_2;Malesovice;Transgas
+681;Transgas_2;Hospozin;Transgas
+682;Transgas_2;Rozvadov;Transgas
+683;Transgas_3;Brandov;Transgas
+684;Transgas_3;Gebirgsneudorf;Transgas
+685;Transgas_3;Hospozin;Transgas
+686;Transgas_4;Baumgarten;Transgas
+687;Transgas_4;Plavecky Peter;Transgas
+688;Transgas_4;Uschhorod;Transgas
+689;Transitgas_1;Ruswil;Transitgas_4
+690;Transitgas_1;Lostorf;Transitgas_4
+691;Transitgas_1;Wallbach;Transitgas_3
+692;Transitgas_1;Lostorf;Transitgas_1
+693;Transitgas_1;Ruswil;Transitgas_2
+694;Transitgas_1;Griespass;Transitgas_2
+695;Transitgas_Frankreich_1;Ruswil;Transitgas_Frankreich
+696;Transitgas_Frankreich_1;Rodersdorf;Transitgas_Frankreich_Extra
+697;Transitgas_Frankreich_1;Nancy;Transitgas_Frankreich_Extra
+698;Transitgas_Frankreich_2;Rodersdorf;Transitgas_Frankreich_Extra
+699;Transitgas_Frankreich_2;Strasbourg;Transitgas_Frankreich_Extra
+700;Tuy_Braga;Braga;Tuy_Braga
+701;Tuy_Braga;Tuy;Tuy_Braga
+702;Valladolid_Palancares;Marisma Palancares;Valladolid_Palancares
+703;Valladolid_Palancares;Valladolid;Valladolid_Palancares
+704;Varosfoeld_Slobodnica_1;Varosfoeld;Varosfoeld_Slobodnica
+705;Varosfoeld_Slobodnica_1;Slobodnica;Varosfoeld_Slobodnica
+706;Vastogirardi_Campochiaro_1;Campochiaro;Vastogirardi_Campochiaro_1
+707;Vastogirardi_Campochiaro_1;Vastogirardi;Vastogirardi_Campochiaro_1
+708;Vastogirardi_Campochiaro_2;Campochiaro;Vastogirardi_Campochiaro_2
+709;Vastogirardi_Campochiaro_2;Vastogirardi;Vastogirardi_Campochiaro_2
+710;Vastogirardi_Sulmona_1;Sulmona;Vastogirardi_Sulmona_1
+711;Vastogirardi_Sulmona_1;Vastogirardi;Vastogirardi_Sulmona_1
+712;Vastogirardi_Sulmona_2;Sulmona;Vastogirardi_Sulmona_2
+713;Vastogirardi_Sulmona_2;Vastogirardi;Vastogirardi_Sulmona_2
+714;Veruno_Golasecca;Golasecca;Veruno_Golasecca
+715;Veruno_Golasecca;Veruno;Veruno_Golasecca
+716;Veruno_Mortara_1;Mortara;Veruno_Mortara_1
+717;Veruno_Mortara_1;Veruno;Veruno_Mortara_1
+718;Veruno_Mortara_2;Mortara;Veruno_Mortara_2
+719;Veruno_Mortara_2;Veruno;Veruno_Mortara_2
+720;Vigasio_Trento;Trento;Vigasio_Trento
+721;Vigasio_Trento;Vigasio;Vigasio_Trento
+722;Vigasio_Zimella;Zimella;Vigasio_Zimella
+723;Vigasio_Zimella;Vigasio;Vigasio_Zimella
+724;VillarDeArnedo_Burgos;Villar De Arnedo;VillarDeArnedo_Burgos
+725;VillarDeArnedo_Burgos;Burgos;VillarDeArnedo_Burgos
+726;VillarDeArnedo_Navarra;Villar De Arnedo;VillarDeArnedo_Navarra
+727;VillarDeArnedo_Navarra;Navarra;VillarDeArnedo_Navarra
+728;Villesse_Gorizia;Gorizia;Villesse_Gorizia
+729;Villesse_Gorizia;Villesse;Villesse_Gorizia
+730;Voigtslach_Paffrath;Bergisch Paffrath;Voigtslach_Paffrath
+731;Voigtslach_Paffrath;Voigtslach;Voigtslach_Paffrath
+732;WAG_1;Baumgarten;WAG
+733;WAG_1;Enzersfeld;WAG
+734;WAG_1;Kirchberg;WAG
+735;WAG_1;Lichtenau;WAG
+736;WAG_1;Bad Leonfelden;WAG
+737;WAG_1;Oberkappel;WAG
+738;WAG_E3_1;Enzersfeld;WAG_E
+739;WAG_E3_1;Kirchberg;WAG_E
+740;WAG_E3_1;Lichtenau;WAG_E
+741;WAG_E3_1;Bad Leonfelden;WAG_E
+742;WAG_PLUS_600_1;Lichtenau;WAG_PLUS_600_1
+743;WAG_PLUS_600_1;Kirchberg;WAG_PLUS_600_1
+744;WEDAL_1;Lippe;WEDAL
+745;WEDAL_1;Voigtslach;WEDAL
+746;WEDAL_1;Weisweiler;WEDAL
+747;WEDAL_1;Eynatten;WEDAL
+748;ZaharaDeLosAtunes_Cordoba;Zahara De Los Atunes;ZaharaDeLosAtunes_Cordoba
+749;ZaharaDeLosAtunes_Cordoba;Cordoba;ZaharaDeLosAtunes_Cordoba
+750;Zamora_Oviedo;Zamora;Zamora_Oviedo
+751;Zamora_Oviedo;Oviedo;Zamora_Oviedo
+752;Zamora_Valladolid;Valladolid;Zamora_Valladolid
+753;Zamora_Valladolid;Zamora;Zamora_Valladolid
+754;Zimella_Istrana_1;Istrana;Zimella_Istrana_1
+755;Zimella_Istrana_1;Zimella;Zimella_Istrana_1
+756;Zimella_Istrana_2;Istrana;Zimella_Istrana_2
+757;Zimella_Istrana_2;Zimella;Zimella_Istrana_2
+758;Zimella_Istrana_3;Istrana;Zimella_Istrana_3
+759;Zimella_Istrana_3;Zimella;Zimella_Istrana_3
+760;Zimella_PoggioRenatico_1;Poggio Renatico;Zimella_PoggioRenatico_1
+761;Zimella_PoggioRenatico_1;Zimella;Zimella_PoggioRenatico_1
+762;Zimella_PoggioRenatico_2;Poggio Renatico;Zimella_PoggioRenatico_2
+763;Zimella_PoggioRenatico_2;Zimella;Zimella_PoggioRenatico_2
+764;No56_1;Schluechtern;No56
+765;No56_1;Werne;No56
+766;No56_1;Wardenburg;No56
+767;No57_1;Lauterbach;No57
+768;No57_1;Vitzeroda;No57
+769;No83_1;Lauterbach;No83
+770;No83_1;Scheidt;No83
+771;St_Fergus_Kirriemuir;St Fergus;St_Fergus_Kirriemuir
+772;St_Fergus_Kirriemuir;Aberdeen;St_Fergus_Kirriemuir
+773;St_Fergus_Kirriemuir;Kirriemuir;St_Fergus_Kirriemuir
+774;Kirriemuir_Bathgate;Kirriemuir;Kirriemuir_Bathgate
+775;Kirriemuir_Bathgate;Bathgate;Kirriemuir_Bathgate
+776;Bathgate_Moffat;Bathgate;Bathgate_Moffat
+777;Bathgate_Moffat;Moffat;Bathgate_Moffat
+778;Longtown_Bishop_Auckland;Longtown;Longtown_Bishop_Auckland
+779;Longtown_Bishop_Auckland;Bishop Auckland;Longtown_Bishop_Auckland
+780;Longtown_Carnforth;Longtown;Longtown_Carnforth
+781;Longtown_Carnforth;Carnforth;Longtown_Carnforth
+782;Blackrod_Elworth;Blackrod;Blackrod_Elworth
+783;Blackrod_Elworth;Elworth;Blackrod_Elworth
+784;Elworth_Audley;Elworth;Elworth_Audley
+785;Elworth_Audley;Audley;Elworth_Audley
+786;Audley_Alrewas;Audley;Audley_Alrewas
+787;Audley_Alrewas;Alrewas;Audley_Alrewas
+788;Alrewas_Peterborough;Alrewas;Alrewas_Peterborough
+789;Alrewas_Peterborough;Peterborough;Alrewas_Peterborough
+790;Wisbech_Peterborough;Wisbech;Wisbech_Peterborough
+791;Wisbech_Peterborough;Peterborough;Wisbech_Peterborough
+792;Wisbech_Hatton;Wisbech;Wisbech_Hatton
+793;Wisbech_Hatton;Hatton;Wisbech_Hatton
+794;Scunthorpe_Easington;Scunthorpe;Scunthorpe_Easington
+795;Scunthorpe_Easington;Easington;Scunthorpe_Easington
+796;Scunthorpe_Hatton;Scunthorpe;Scunthorpe_Hatton
+797;Scunthorpe_Hatton;Hatton;Scunthorpe_Hatton
+798;Scunthorpe_Carnforth;Scunthorpe;Scunthorpe_Carnforth
+799;Scunthorpe_Carnforth;Carnforth;Scunthorpe_Carnforth
+800;Easington_Bishop Auckland;Easington;Easington_Bishop Auckland
+801;Easington_Bishop Auckland;Bishop Auckland;Easington_Bishop Auckland
+802;Alrewas_Churchover;Alrewas;Alrewas_Churchover
+803;Alrewas_Churchover;Churchover;Alrewas_Churchover
+804;Churchover_Wormington;Churchover;Churchover_Wormington
+805;Churchover_Wormington;Wormington;Churchover_Wormington
+806;Aylesbury_Whitwell;Aylesbury;Aylesbury_Whitwell
+807;Aylesbury_Whitwell;Whitwell;Aylesbury_Whitwell
+808;Aylesbury_Huntingdon;Aylesbury;Aylesbury_Huntingdon
+809;Aylesbury_Huntingdon;Huntingdon;Aylesbury_Huntingdon
+810;Huntingdon_Cambridge;Cambridge;Huntingdon_Cambridge
+811;Huntingdon_Cambridge;Huntingdon;Huntingdon_Cambridge
+812;Huntingdon_Wisbech;Huntingdon;Huntingdon_Wisbech
+813;Huntingdon_Wisbech;Wisbech;Huntingdon_Wisbech
+814;Cambridge_Whitwell;Whitwell;Cambridge_Whitwell
+815;Cambridge_Whitwell;Cambridge;Cambridge_Whitwell
+816;Bacton_Kings;Bacton;Bacton_Kings
+817;Bacton_Kings;Kings;Bacton_Kings
+818;Wisbech_Kings;Wisbech;Wisbech_Kings
+819;Wisbech_Kings;Kings;Wisbech_Kings
+820;Bacton_Diss;Bacton;Bacton_Diss
+821;Bacton_Diss;Diss;Bacton_Diss
+822;Aylesbury_Lockerley;Aylesbury;Aylesbury_Lockerley
+823;Aylesbury_Lockerley;Lockerley;Aylesbury_Lockerley
+824;Diss_Isle_of_Grain;Diss;Diss_Isle_of_Grain
+825;Diss_Isle_of_Grain;Isle Of Grain;Diss_Isle_of_Grain
+826;Isle_of_Grain_Chelmsford;Chelmsford;Isle_of_Grain_Chelmsford
+827;Isle_of_Grain_Chelmsford;Isle Of Grain;Isle_of_Grain_Chelmsford
+828;Cambridge_Chelmsford;Cambridge;Cambridge_Chelmsford
+829;Cambridge_Chelmsford;Chelmsford;Cambridge_Chelmsford
+830;Longtown_Moffat;Longtown;Longtown_Moffat
+831;Longtown_Moffat;Moffat;Longtown_Moffat
+832;Hatton_Peterborough;Hatton;Hatton_Peterborough
+833;Hatton_Peterborough;Peterborough;Hatton_Peterborough
+834;Peterborough_Churchover;Peterborough;Peterborough_Churchover
+835;Peterborough_Churchover;Churchover;Peterborough_Churchover
+836;Carnforth_Lancashire;Carnforth;Carnforth_Lancashire
+837;Carnforth_Lancashire;Lancashire;Carnforth_Lancashire
+838;Lancashire_Blackrod;Blackrod;Lancashire_Blackrod
+839;Lancashire_Blackrod;Lancashire;Lancashire_Blackrod
+840;Lockerley_Ilchester;Lockerley;Lockerley_Ilchester
+841;Lockerley_Ilchester;Ilchester;Lockerley_Ilchester
+842;Avonmouth_Ilchester;Avonmouth;Avonmouth_Ilchester
+843;Avonmouth_Ilchester;Ilchester;Avonmouth_Ilchester
+844;Wormington_Avonmouth;Avonmouth;Wormington_Avonmouth
+845;Wormington_Avonmouth;Wormington;Wormington_Avonmouth
+846;Ilchester_Exeter;Ilchester;Ilchester_Exeter
+847;Ilchester_Exeter;Exeter;Ilchester_Exeter
+848;Bacton_Cambridge;Bacton;Bacton_Cambridge
+849;Bacton_Cambridge;Cambridge;Bacton_Cambridge
+850;Wormington_Felindre;Wormington;Wormington_Felindre
+851;Wormington_Felindre;Felindre;Wormington_Felindre
+852;Moffat_Brighthouse;Moffat;Moffat_Brighthouse
+853;Moffat_Brighthouse;Brighthouse;Moffat_Brighthouse
+854;Exeter_Penzance;Exeter;Exeter_Penzance
+855;Exeter_Penzance;Penzance;Exeter_Penzance
+856;Theddlethorpe_Hatton;Theddlethorpe;Theddlethorpe_Hatton
+857;Theddlethorpe_Hatton;Hatton;Theddlethorpe_Hatton
+858;Teesside_BishopAuckland;Teesside;Teesside_BishopAuckland
+859;Teesside_BishopAuckland;Bishop Auckland;Teesside_BishopAuckland
+860;Gateway_Carnforth;Gateway;Gateway_Carnforth
+861;Gateway_Carnforth;Carnforth;Gateway_Carnforth
+862;Warrington_Burton_Point;Warrington;Warrington_Burton_Point
+863;Warrington_Burton_Point;Burton Point;Warrington_Burton_Point
+864;Interconnector_1;Brighthouse;Interconnector_1
+865;Interconnector_1;Loughshinny;Interconnector_1
+866;Interconnector_2;Brighthouse;Interconnector_2
+867;Interconnector_2;Gormanstown;Interconnector_2
+868;PolandLithuania;Jauniunai;PolandLithuania
+869;PolandLithuania;Ciechanow;PolandLithuania
+870;PolandUkrainInterconnector;Drozdwicze;PolandUkrainInterconnector
+871;PolandUkrainInterconnector;Jaroslaw;PolandUkrainInterconnector
+872;PolandSlovakiaInterconnector;Strachocina;PolandSlovakiaInterconnector
+873;PolandSlovakiaInterconnector;Uschhorod;PolandSlovakiaInterconnector
+874;Stork_I_II;Tranovice;Stork_I_II
+875;Stork_I_II;Cieszyn;Stork_I_II
+876;BernauSzczecin;Szczecin;BernauSzczecin
+877;BernauSzczecin;Bernau;BernauSzczecin
+878;BalticPolishPipe;Lwowek;BalticPolishPipe
+879;BalticPolishPipe;Goleniow;BalticPolishPipe
+880;BalticPolishPipe;Niechorze;BalticPolishPipe
+881;BalticPolishPipe;FaxeSouth;BalticPolishPipe
+882;BalticPolishPipe;Nyborg;BalticPolishPipe
+883;BalticPolishPipe;Blabjerg;BalticPolishPipe
+884;EntsoG_1;Lasow;EntsoG_1
+885;EntsoG_1;Wroclaw;EntsoG_1
+886;EntsoG_2;Wroclaw;EntsoG_2
+887;EntsoG_2;Odolanow;EntsoG_2
+888;EntsoG_3;Odolanow;EntsoG_3
+889;EntsoG_3;Bonikowo;EntsoG_3
+890;EntsoG_3;Lwowek;EntsoG_3
+891;EntsoG_4;Odolanow;EntsoG_4
+892;EntsoG_4;Wloclawek;EntsoG_4
+893;EntsoG_5;Wloclawek;EntsoG_5
+894;EntsoG_5;Rembelszczyzna;EntsoG_5
+895;EntsoG_6;Rembelszczyzna;EntsoG_6
+896;EntsoG_6;Wronow;EntsoG_6
+897;EntsoG_7;Wronow;EntsoG_7
+898;EntsoG_7;WysokojePL;EntsoG_7
+899;EntsoG_8;Wronow;EntsoG_8
+900;EntsoG_8;Jaroslaw;EntsoG_8
+901;EntsoG_9;Jaroslaw;EntsoG_9
+902;EntsoG_9;Husow;EntsoG_9
+903;EntsoG_10;Odolanow;EntsoG_10
+904;EntsoG_10;Tworzen;EntsoG_10
+905;EntsoG_11;Tworzen;EntsoG_11
+906;EntsoG_11;PogorskaWola;EntsoG_11
+907;EntsoG_12;PogorskaWola;EntsoG_12
+908;EntsoG_12;Rzeszow;EntsoG_12
+909;EntsoG_13;Rzeszow;EntsoG_13
+910;EntsoG_13;Husow;EntsoG_13
+911;EntsoG_14;Tworzen;EntsoG_14
+912;EntsoG_14;Oswiecim;EntsoG_14
+913;EntsoG_15;Oswiecim;EntsoG_15
+914;EntsoG_15;Skoczow;EntsoG_15
+915;EntsoG_16;Skoczow;EntsoG_16
+916;EntsoG_16;Cieszyn;EntsoG_16
+917;EntsoG_17;Oswiecim;EntsoG_17
+918;EntsoG_17;PogorskaWola;EntsoG_17
+919;EntsoG_18;Wloclawek;EntsoG_18
+920;EntsoG_18;Gdansk;EntsoG_18
+921;EntsoG_19;Gdansk;EntsoG_19
+922;EntsoG_19;Ploty;EntsoG_19
+923;EntsoG_20;Ploty;EntsoG_20
+924;EntsoG_20;Maszewo;EntsoG_20
+925;EntsoG_21;Maszewo;EntsoG_21
+926;EntsoG_21;Goleniow;EntsoG_21
+927;EntsoG_22;WysokojePL;EntsoG_22
+928;EntsoG_22;Wysokoje;EntsoG_22
+929;EntsoG_23;Kondratki;EntsoG_23
+930;EntsoG_23;Slonim;EntsoG_23
+931;EntsoG_24;Slonim;EntsoG_24
+932;EntsoG_24;Nesvish;EntsoG_24
+933;EntsoG_25;Nesvish;EntsoG_25
+934;EntsoG_25;Minskaya;EntsoG_25
+935;EntsoG_26;Nesvish;EntsoG_26
+936;EntsoG_26;Ivasevichi;EntsoG_26
+937;EntsoG_27;Ivasevichi;EntsoG_27
+938;EntsoG_27;Kobrin;EntsoG_27
+939;EntsoG_28;Kobrin;EntsoG_28
+940;EntsoG_28;Pribugskoye;EntsoG_28
+941;EntsoG_29;Pribugskoye;EntsoG_29
+942;EntsoG_29;Wysokoje;EntsoG_29
+943;hand_1;Swinoujscie;hand_1
+944;hand_1;Goleniow;hand_1
+945;hand_2;Goleniow;hand_2
+946;hand_2;Szczecin;hand_2
+947;hand_3;Lebus;hand_3
+948;hand_3;Mallnow;hand_3
+949;hand_4;Ekofisk;hand_4
+950;hand_4;Rysum;hand_4
+951;hand_5;Fallentor;hand_5
+952;hand_5;Ruswil;hand_5
+953;hand_6;Portovaya;hand_6
+954;hand_6;Lubmin;hand_6
+955;Lithuania_Latvia_Interconnection;Riga;Lithuania_Latvia_Interconnection
+956;Lithuania_Latvia_Interconnection;Vilnius;Lithuania_Latvia_Interconnection

@@ -1,0 +1,192 @@
+Country;Type;EIC Code;Short Name;Name;nameShort
+AT;SSO;21X000000001160J;astora;astora GmbH & Co. KG;astora GmbH & Co. KG
+AT;Storage Facility;21W000000000078N;;UGS Haidach (astora);UGS Haidach
+AT;SSO;25X-GSALLC-----E;GSA;GSA LLC;GSA LLC
+AT;Storage Facility;25W-SPHAID-GAZ-M;;UGS Haidach (GSA);UGS Haidach
+AT;SSO;25X-OMVGASSTORA5;OMV Gas Storage;OMV Gas Storage GmbH;OMV Gas Storage GmbH
+AT;Storage Group;21W000000000081Y;;VGS OMV Gas Storage Pool (Tallesbrunn & Schoenkirchen / Reyersdorf);Tallesbrunn
+AT;SSO;23X----100225-1C;RAG Energy Storage;RAG Energy Storage;RAG Energy Storage
+AT;Storage Group;21W000000000079L;;RAG Storage Pool (Puchkirchen / Haag, Aigelsbrunn, Haidach 5, Nussdorf / Zagling);Haidach
+AT;SSO;21X000000001127H;Uniper Energy Storage;Uniper Energy Storage GmbH;Uniper Energy Storage GmbH
+AT;Storage Facility;21W000000000057V;;UGS 7 Fields (Uniper Energy Storage) - AT;UGS 7 Fields
+BE;SSO;21X-BE-A-A0A0A-Y;Fluxys;Fluxys Belgium S.A.;Fluxys Belgium S.A.
+BE;Storage Facility;21Z000000000102A;;UGS Loenhout;UGS Loenhout
+BG;SSO;21X-BG-A-A0A0A-C;Bulgartransgaz;Bulgartransgaz EAD;Bulgartransgaz EAD
+BG;Storage Facility;21W000000000031C;;UGS Chiren;UGS Chiren
+CZ;SSO;27XG-RWE-GAS-STI;innogy Gas Storage;innogy Gas Storage, s.r.o.;innogy Gas Storage, s.r.o.
+CZ;Storage Group;21W000000000076R;;VGS Innogy Virtual Storage (Haje, Tranovice, Stramberk, Tvrdonice, Dolni Dunajovice, Lobodice);Lobodice
+CZ;SSO;27XG-MNDGS-CZ--R;MND Gas Storage;MND Gas Storage a.s.;MND Gas Storage a.s.
+CZ;Storage Facility;21W000000000075T;;UGS Uhrice;UGS Uhrice
+CZ;SSO;27X-MORAVIAGS--E;Moravia Gas Storage;Moravia Gas Storage a.s.;Moravia Gas Storage a.s.
+CZ;Storage Facility;21W000000000102F;;UGS Damborice;UGS Damborice
+CZ;SSO;27X-SPPSTORAGE-R;SPP Storage;SPP Storage;SPP Storage
+CZ;Storage Facility;21W000000000074V;;UGS Dolni Bojanovice;UGS Dolni Bojanovice
+DE;SSO;21X000000001160J;astora (Germany);astora GmbH & Co. KG (Germany);astora GmbH & Co. KG (Germany)
+DE;Storage Facility;21W0000000001148;;UGS Jemgum H (astora);UGS Jemgum H
+DE;Storage Facility;21Z000000000271O;;UGS Rehden;UGS Rehden
+DE;Storage Group;21W0000000001261;;VSP NORD (Rehden, Jemgum);Jemgum
+DE;SSO;37X0000000000151;bayernugs;bayernugs GmbH;bayernugs GmbH
+DE;Storage Facility;21W0000000000184;;UGS Wolfersberg;UGS Wolfersberg
+DE;SSO;37X0000000000224;BES;Berliner Erdgasspeicher GmbH & Co. KG;Berliner Erdgasspeicher GmbH & Co. KG
+DE;Storage Facility;21W0000000001083;;UGS Berlin;UGS Berlin
+DE;SSO;21X000000001125L;Crystal;Crystal, Friedeburger Speicherbetriebsgesellschaft mbH;Crystal, Friedeburger Speicherbetriebsgesellschaft mbH
+DE;Storage Facility;21W000000000013E;;UGS Oude Statenzijl ETZEL Crystal;Oude Statenzijl
+DE;SSO;21X0000000011748;DEA Speicher;DEA Speicher GmbH;DEA Speicher GmbH
+DE;Storage Facility;21W0000000000192;;UGS Inzenham-West;UGS Inzenham-West
+DE;SSO;21X0000000010849;Eneco Gasspeicher;Eneco Gasspeicher BV;Eneco Gasspeicher BV
+DE;Storage Facility;21W000000000012G;;UGS Enschede - Epe (Eneco);Epe
+DE;SSO;**TOBEPROVIDED**;Enovos Storage;Enovos Storage GmbH;Enovos Storage GmbH
+DE;Storage Facility;37Z0000000034538;;UGS Frankenthal;UGS Frankenthal
+DE;SSO;21X000000001368W;Equinor Storage Deutschland;Equinor Storage Deutschland GmbH;Equinor Storage Deutschland GmbH
+DE;Storage Group;21W000000000100J;;UGS Etzel EGL (Equinor Storage Deutschland);UGS Etzel
+DE;SSO;21X0000000011756;EWE Gasspeicher;EWE Gasspeicher GmbH;EWE Gasspeicher GmbH
+DE;Storage Facility;21W0000000001075;;UGS EWE-Zone L;Nuettermoor
+DE;Storage Facility;21W0000000000508;;UGS Jemgum H (EWE);UGS Jemgum
+DE;Storage Facility;PRIOR_EWE_000001;;UGS Nuettermoor H aggregated data prior to 7 April 2016;UGS Nuettermoor
+DE;Storage Facility;21W0000000001059;;UGS Nuettermoor H-1;UGS Nuettermoor H-1
+DE;Storage Facility;21W000000000104B;;UGS Nuettermoor H-2;UGS Nuettermoor H-2
+DE;Storage Facility;21W000000000103D;;UGS Nuettermoor H-3;UGS Nuettermoor H-3
+DE;Storage Facility;21W0000000001067;;UGS Nuettermoor L GUD;UGS Nuettermoor L
+DE;Storage Facility;21W000000000048W;;UGS Ruedersdorf H;UGS Ruedersdorf H
+DE;SSO;21X000000001090E;Gas Union Storage;Gas Union Storage GmbH;Gas Union Storage GmbH
+DE;Storage Facility;21W000000000055Z;;UGS Etzel ESE (Gas Union Storage);UGS Etzel
+DE;Storage Facility;21W0000000000540;;UGS Reckrod;UGS Reckrod
+DE;SSO;21X0000000013805;HanseWerk;HanseWerk AG;HanseWerk AG
+DE;Storage Facility;21W000000000058T;;UGS Kiel Roenne (Hansewerk);UGS KielRoenne
+DE;Storage Facility;21W000000000020H;;UGS Kraak;UGS Kraak
+DE;SSO;21X000000001262B;innogy Gas Storage NWE;innogy Gas Storage NWE GmbH;innogy Gas Storage NWE GmbH
+DE;Storage Facility;21W0000000000524;;UGS Epe IGSNWE H Gas (historical data prior to 1 April 2017);UGS Epe
+DE;Storage Facility;21W0000000000532;;UGS Epe IGSNWE L Gas;UGS Epe
+DE;Storage Facility;21W000000000003H;;UGS Epe NL IGSNWE;UGS Epe
+DE;Storage Facility;21W000000000004F;;UGS Kalle IGSNWE;UGS Kalle
+DE;Storage Facility;21W0000000000265;;UGS Stassfurt;UGS Stassfurt
+DE;Storage Facility;21W0000000000516;;UGS Xanten (historical data prior to 1 April 2017);UGS Xanten
+DE;Storage Group;21W000000000121B;;VGS innEXpool;Epe
+DE;SSO;21X000000001140P;KGE;Kommunale Gasspeichergesellschaft Epe mbH & Co. KG;Kommunale Gasspeichergesellschaft Epe mbH & Co. KG
+DE;Storage Facility;21W000000000097J;;UGS Epe (KGE);UGS Epe
+DE;SSO;37X000000000042Z;MND Gas Storage Germany;MND Gas Storage Germany GmbH;MND Gas Storage Germany GmbH
+DE;Storage Facility;21W000000000064Y;;UGS Haehnlein (historical data prior to 01/04/2016);UGS Haehnlein
+DE;Storage Facility;21W0000000000621;;UGS Stockstadt (historical data prior to 01/04/2016);UGS Stockstadt
+DE;Storage Group;37Y000000000386Q;;VGS Zone MND GSG (UGS Stockstadt + UGS Haehnlein);Stockstadt
+DE;SSO;11XNERGIE------1;N-ERGIE;N-ERGIE AG;N-ERGIE AG
+DE;Storage Facility;21Z000000000321Z;;UGS Eschenfelden;UGS Eschenfelden
+DE;SSO;37X0000000000119;NUON Epe Gasspeicher;NUON Epe Gasspeicher GmbH;NUON Epe Gasspeicher GmbH
+DE;Storage Facility;21W000000000005D;;UGS Enschede - Epe (Nuon);Epe
+DE;SSO;25X-OMVGASSTORA5;OMV Gas Storage Germany;OMV Gas Storage Germany GmbH;OMV Gas Storage Germany GmbH
+DE;Storage Facility;21W000000000056X;;UGS Etzel ESE (OMV);UGS Etzel
+DE;SSO;11XSWHANNOVERAG3;Stadtwerke Hannover;Stadtwerke Hannover AG;Stadtwerke Hannover AG
+DE;Storage Facility;21Z0000000004002;;UGS Ronnenberg-Empelde;UGS Ronnenberg-Empelde
+DE;SSO;37X000000000051Y;Stadtwerke Kiel Speicher;Stadtwerke Kiel Speicher GmbH;Stadtwerke Kiel Speicher GmbH
+DE;Storage Facility;21W0000000001164;;UGS Kiel-Rönne (Stadtwerke Kiel);UGS Kiel-Roenne
+DE;SSO;21X000000001072G;Storengy Deutschland;Storengy Deutschland GmbH;Storengy Deutschland GmbH
+DE;Storage Facility;21W000000000090X;;UGS Bremen-Lesum (Storengy Deutschland);UGS Bremen-Lesum
+DE;Storage Facility;21W000000000091V;;UGS Fronhofen-Trigonodus;UGS Fronhofen-Trigonodus
+DE;Storage Facility;21W000000000092T;;UGS Harsefeld;UGS Harsefeld
+DE;Storage Facility;21W0000000000273;;UGS Peckensen;UGS Peckensen
+DE;Storage Facility;21W000000000089I;;UGS Schmidthausen;UGS Schmidthausen
+DE;Storage Facility;21W000000000093R;;UGS Uelsen;UGS Uelsen
+DE;SSO;11XSWB-BREMEN--I;swb Vertrieb Bremen;swb Vertrieb Bremen GmbH;swb Vertrieb Bremen GmbH
+DE;Storage Facility;21W000000000090X;;UGS Bremen-Lesum (SWB);UGS Bremen-Lesum
+DE;SSO;21X000000001307F;TEP;Thüringer Energie Speichergesellschaft mbH (TEP);Thüringer Energie Speichergesellschaft mbH (TEP)
+DE;Storage Facility;21W000000000030E;;UGS Allmenhausen;UGS Allmenhausen
+DE;SSO;21X000000001310Q;Trianel Gasspeicher Epe;Trianel Gasspeicher Epe GmbH;Trianel Gasspeicher Epe GmbH
+DE;Storage Facility;21W000000000085Q;;UGS Epe Trianel;UGS Epe
+DE;SSO;21X000000001127H;Uniper Energy Storage;Uniper Energy Storage GmbH;Uniper Energy Storage GmbH
+DE;Storage Facility;21W0000000000613;;UGS Bierwang;UGS Bierwang
+DE;Storage Facility;21W0000000000605;;UGS Breitbrunn;UGS Breitbrunn
+DE;Storage Facility;21W000000000066U;;UGS Epe Uniper H-Gas;UGS Epe H
+DE;Storage Facility;21W000000000065W;;UGS Epe Uniper L-Gas;UGS Epe L
+DE;Storage Facility;21W000000000083U;;UGS Eschenfelden;UGS Eschenfelden
+DE;Storage Facility;21W000000000059R;;UGS Etzel Erdgas Lager EGL;UGS Etzel
+DE;Storage Facility;21W0000000000168;;UGS Etzel ESE (Uniper Energy Storage);UGS Etzel
+DE;Storage Facility;21W000000000067S;;UGS Krummhorn;UGS Krummhorn
+DE;SSO;21X000000001138C;VNG Gasspeicher GmbH;VNG Gasspeicher GmbH;VNG Gasspeicher GmbH
+DE;Storage Facility;21W000000000120D;;UGS Etzel ESE (VNG);UGS Etzel
+DE;Storage Facility;21W000000000023B;;UGS Kirchheiligen;UGS Kirchheiligen
+DE;Storage Group;21W0000000000427;;VGS Storage Hub (Bernburg, Bad Lauchstädt);Bernburg
+DK;SSO;21X000000001104T;GSD;Gas Storage Denmark (GSD);Gas Storage Denmark (GSD)
+DK;Storage Group;45W000000000112V;;VGS GSD Gas Storage (Lille Torup, Stenlille);LilleTorup
+ES;SSO;21X0000000013368;Enagás GTS;Enagas GTS S.A.U (ES);Enagas GTS S.A.U (ES)
+ES;Storage Group;21W000000000032A;;VGS Enagás Basic Underground Storage (Serrablo, Yela, Gaviota, Marismas);Marismas
+FR;SSO;21X000000001083B;Storengy;Storengy S.A.;Storengy S.A.
+FR;Storage Group;21W000000000084S;;VGS SALINE (Tersanne, Etrez, Manosque);Etrez
+FR;Storage Group;21W0000000000710;;VGS SEDIANE (Saint-Illiers, Beynes Superieur, Beynes Profond);BeynesProfond
+FR;Storage Group;21W0000000000702;;VGS SEDIANE B (Gournay-sur-Aronde);GournaySurAronde
+FR;Storage Group;21W000000000072Z;;VGS SEDIANE LITTORAL (Chémery, Céré-la-Ronde, Soings-en-Sologne);Chemery
+FR;Storage Group;21W000000000073X;;VGS SERENE NORD (Trois Fontaines l’Abbaye, Cerville, Germiny-sous-Coulombs, Saint-Clair-sur-Epte);Cerville
+FR;Storage Group;21W000000000069O;;VGS SERENE SUD (Chémery, Céré-la-Ronde, Soings-en-Sologne);Chemery
+FR;SSO;21X-FR-B-A0A0A-J;TERÉGA;TERÉGA;TERÉGA
+FR;Storage Group;21W000000000068Q;;VGS Lussagnet (TERÉGA);VGS Lussagnet
+GB;SSO;23X-EDFE-------W;EDF;EDF Energy;EDF Energy
+GB;Storage Facility;21Z000000000227R;;UGS Holehouse Farm Storage;UGS Holehouse Farm Storage
+GB;SSO;55XHUMBLYGROVE1H;Humbly Grove Energy;Humbly Grove Energy Ltd;Humbly Grove Energy Ltd
+GB;Storage Facility;55WHUMBLY1GROVER;;UGS Humbly Grove;UGS Humbly Grove
+GB;SSO;23XSCOTTISHPOWEF;Scottish Power;Scottish Power Ltd;Scottish Power Ltd
+GB;Storage Facility;21Z000000000229N;;UGS Hatfield Moors Storage;UGS Hatfield Moors Storage
+GB;SSO;23X--140207-SSE9;SSE Gas Storage;SSE Gas Storage;SSE Gas Storage
+GB;Storage Facility;55WALDBOROUGH00H;;UGS Aldbrough I;UGS Aldbrough I
+GB;Storage Facility;55WATWICK-SSE00J;;UGS Atwick;UGS Atwick
+GB;SSO;48XSTORENGYUK01P;Storengy UK;Storengy UK;Storengy UK
+GB;Storage Facility;21W000000000101H;;UGS Stublach;UGS Stublach
+GB;SSO;21X0000000013716;Uniper Energy Storage Ltd;Uniper Energy Storage Limited;Uniper Energy Storage Limited
+GB;Storage Facility;21W000000000112C;;UGS Holford;UGS Holford
+HR;SSO;31X-PSP-OSS-HR-D;PSP;Podzemno skladište plina d.o.o.;Podzemno skladište plina d.o.o.
+HR;Storage Facility;21W000000000077P;;UGS Okoli;UGS Okoli
+HU;SSO;21X0000000013635;Magyar Földgáztároló;MAGYAR FÖLDGÁZTÁROLÓ ZÁRTKÖRUEN MUKÖDO RÉSZVÉNYTÁRSASÁG;MAGYAR FÖLDGÁZTÁROLÓ ZÁRTKÖRUEN MUKÖDO RÉSZVÉNYTÁRSASÁG
+HU;Storage Group;21W000000000087M;;VGS MFGT (Pusztaederics, Zsana-Nord, Kardoskút-Pusztaszolos, Hajdúszoboszló);Hajduszoboszlo
+HU;SSO;21X0000000013643;MMBF;MMBF - Földgáztároló Zártköruen Muködo Részvénytársaság;MMBF - Földgáztároló Zártköruen Muködo Részvénytársaság
+HU;Storage Facility;21W000000000086O;;UGS Szöreg-1;UGS Szöreg-1
+IE;SSO;47X0000000000584;Kinsale Energy;PSE Kinsale Energy Limited;PSE Kinsale Energy Limited
+IE;Storage Facility;47W000000000245J;;UGS Kinsale Southwest;UGS Kinsale Southwest
+IT;SSO;21X0000000013651;Edison Stoccaggio;Edison Stoccaggio S.p.A.;Edison Stoccaggio S.p.A.
+IT;Storage Group;21W000000000095N;;VGS Edison Stoccaggio (Collalto, Cellino, San Potito & Cotignola);Cellino
+IT;SSO;59X4-IGSTORAGE-T;IGS;IGS S.p.A.;IGS S.p.A.
+IT;Storage Facility;59W-IGSTORAGE-0Q;;UGS Cornegliano;UGS Cornegliano
+IT;SSO;21X000000001250I;Stogit;Stogit S.p.A.;Stogit S.p.A.
+IT;Storage Group;21Z000000000274I;;VGS STOGIT (Fiume Treste, Bordolano, Sabbioncello, Minerbio, Sergnano, Ripalta, Cortemaggiore, Brugherio, Settala);Bordolano
+LV;SSO;21X000000001379R;Conexus Baltic Grid;JSC Conexus Baltic Grid;JSC Conexus Baltic Grid
+LV;Storage Facility;21W000000000113A;;UGS Incukalns;UGS Incukalns
+NL;SSO;21X000000001057C;EnergyStock;EnergyStock BV;EnergyStock BV
+NL;Storage Facility;21W000000000006B;;UGS EnergyStock;UGS EnergyStock
+NL;SSO;21X000000001075A;NAM;Nederlandse Aardolie Maatschappij B.V.;Nederlandse Aardolie Maatschappij B.V.
+NL;Storage Facility;21W000000000001L;;UGS Grijpskerk;UGS Grijpskerk
+NL;Storage Facility;21W000000000015A;;UGS Norg (Langelo);Norg
+NL;SSO;21X000000001120V;TAQA Gas Storage;TAQA Gas Storage B.V.;TAQA Gas Storage B.V.
+NL;Storage Facility;21W0000000000087;;UGS Bergermeer;UGS Bergermeer
+NL;SSO;21X0000000013732;TAQA Piek Gas;TAQA Piek Gas B.V.;TAQA Piek Gas B.V.
+NL;Storage Facility;21W000000000002J;;UGS Alkmaar;UGS Alkmaar
+PL;SSO;53XPL000000OSMP5;GSP;Gas Storage Poland sp. z o.o. (GSP);Gas Storage Poland sp. z o.o. (GSP)
+PL;Storage Group;PRIOR_OSM_000001;;GSP historical data prior to 4 Feb 2014;GasStoragePoland
+PL;Storage Facility;21Z000000000381H;;UGS Wierzchowice;UGS Wierzchowice
+PL;Storage Group;21Z000000000383D;;VGS GIM Kawerna (Kosakowo, Mogilno);Mogilno
+PL;Storage Group;21Z000000000382F;;VGS GIM Sanok (Brzeznica, Husow, Strachocina, Swarzow);Brzeznica
+PT;SSO;21X0000000013627;REN Armazenagem;REN Armazenagem S.A.;REN Armazenagem S.A.
+PT;Storage Facility;16ZAS01--------8;;UGS Carriço;UGS Carriço
+RO;SSO;21X000000001300T;Depomures;Depomures SA;Depomures SA
+RO;Storage Facility;21Z000000000309P;;UGS Târgu Mures;UGS Târgu Mures
+RO;SSO;21X-DEPOGAZ-AGSI;Depogaz Ploie?ti;SNGN ROMGAZ SA FILIALA DE INMAGAZINARE GN DEPOGAZ PLOIESTI SRL / AGSI+;SNGN ROMGAZ SA FILIALA DE INMAGAZINARE GN DEPOGAZ PLOIESTI SRL / AGSI+
+RO;Storage Facility;21Z0000000003111;;UGS Balaceanca;UGS Balaceanca
+RO;Storage Facility;21Z000000000313Y;;UGS Bilciuresti;UGS Bilciuresti
+RO;Storage Facility;21Z000000000316S;;UGS Cetatea de Balta;UGS Cetatea de Balta
+RO;Storage Facility;21Z000000000315U;;UGS Ghercesti;UGS Ghercesti
+RO;Storage Facility;21Z000000000314W;;UGS Sarma?el;UGS Sarma?el
+RO;Storage Facility;21Z0000000003103;;UGS Urziceni;UGS Urziceni
+SE;SSO;21X-SE-A-A0A0A-F;Swedegas;Swedegas AB;Swedegas AB
+SE;Storage Facility;21W0000000000435;;UGS Skallen;UGS Skallen
+SK;SSO;42X-NAFTA-SK---U;Nafta;Nafta a.s.;Nafta a.s.
+SK;Storage Facility;21W000000000088K;;UGS Láb (incl. Gajary baden);Gajary
+SK;SSO;42X-POZAGAS-SK-V;Pozagas;Pozagas a.s.;Pozagas a.s.
+SK;Storage Facility;21W000000000047Y;;UGS Lab IV - Pozagas;Malacky
+UA;SSO;21X0000000013279;Ukrtransgaz;PJSC “UKRTRANSGAZ”;PJSC “UKRTRANSGAZ”
+UA;Storage Facility;56W-UGS-BILCHE-4;;UGS Bilche-Volytsko-Uherske;UGS Bilche-Volytsko-Uherske
+UA;Storage Facility;56W-UGS-BOHORO-4;;UGS Bohorodchanske;UGS Bohorodchanske
+UA;Storage Facility;56W-UGS-CHERVO-W;;UGS Chervonopartyzanske;UGS Chervonopartyzanske
+UA;Storage Facility;56W-UGS-DASHAV-S;;UGS Dashavske;UGS Dashavske
+UA;Storage Facility;56W-UGS-KEHYCH-X;;UGS Kehychivske;UGS Kehychivske
+UA;Storage Facility;56W-UGS-KRPOPY-Q;;UGS Krasnopopivske;UGS Krasnopopivske
+UA;Storage Facility;56W-UGS-OLYSHI-5;;UGS Olyshivske;UGS Olyshivske
+UA;Storage Facility;56W-UGS-OPARSK-2;;UGS Oparske;UGS Oparske
+UA;Storage Facility;56W-UGS-PROLET-T;;UGS Proletarske;UGS Proletarske
+UA;Storage Facility;56W-UGS-SOLOKH-4;;UGS Solokhivske;UGS Solokhivske
+UA;Storage Facility;56W-UGS-UHERSK-N;;UGS Uherske (XIV-XV);UGS Uherske (XIV-XV)
+UA;Storage Facility;56W-UGS-VERHUN-S;;UGS Verhunske;UGS Verhunske

@@ -1,0 +1,40 @@
+country;type;eic_code;short_name;name;nameShort
+BE;LSO;21X000000001006T;Fluxys LNG;Fluxys LNG S.A.;Fluxys LNG S.A.
+BE;LNG Terminal;21W0000000001245;;Zeebrugge LNG Terminal;Zeebrugge
+ES;LSO;21X000000001352A;BBG;Bahia de Bizkaia Gas S.L.;Bahia de Bizkaia Gas S.L.
+ES;LNG Terminal;21W0000000000362;;Bilbao LNG Terminal;Bilbao
+ES;LSO;21X000000001254A;Enagás Transporte;Enagás Transporte, S.A.U.;Enagás Transporte, S.A.U.
+ES;LNG Terminal;21W000000000039X;;Barcelona LNG Terminal;Barcelona
+ES;LNG Terminal;21W000000000038Z;;Cartagena LNG Terminal;Cartagena LNG Terminal
+ES;LNG Terminal;21W0000000000370;;Huelva LNG Terminal;Huelva
+ES;LSO;18XTGPRS-12345-G;Saggas;Planta de Regasificación de Sagunto, S.A.;Planta de Regasificación de Sagunto, S.A.
+ES;LNG Terminal;21W0000000000354;;Sagunto LNG Terminal;Sagunto
+ES;LSO;18XRGNSA-12345-V;Reganosa;Regasificadora del Noroeste S.A.;Regasificadora del Noroeste S.A.
+ES;LNG Terminal;21W0000000000338;;Mugardos LNG Terminal;Mugardos
+FR;LSO;21X0000000010679;Elengy;Elengy S.A.;Elengy S.A.
+FR;LNG Terminal;63W179356656691A;;Fos Tonkin LNG Terminal;FosTonkin
+FR;LNG Terminal;63W631527814486R;;Montoir de Bretagne LNG Terminal;MontoirDeBretagne
+FR;LSO;21X000000001331I;Dunkerque LNG;SAS Dunkerque LNG;SAS Dunkerque LNG
+FR;LNG Terminal;21W0000000000451;;Dunkerque LNG Terminal;Dunkerque LNG Terminal
+FR;LSO;21X000000001070K;FOSMAX LNG;SAS FOSMAX LNG;SAS FOSMAX LNG
+FR;LNG Terminal;63W943693783886F;;Fos Cavaou LNG Terminal;FosCavaou
+GB;LSO;21X-GB-A-A0A0A-7;National Grid - Grain LNG;National Grid Gas plc / Grain LNG;National Grid Gas plc / Grain LNG
+GB;LNG Terminal;21W000000000099F;;Isle of Grain LNG Terminal;Isle_of_Grain
+GB;LSO;21X0000000013554;South Hook LNG;South Hook LNG Terminal Company Ltd.;South Hook LNG Terminal Company Ltd.
+GB;LNG Terminal;21W0000000000419;;South Hook LNG Terminal;South Hook LNG Terminal
+GR;LSO;21X-GR-A-A0A0A-G;DESFA;Hellenic Gas Transmission System Operator S.A.;Hellenic Gas Transmission System Operator S.A.
+GR;LNG Terminal;21W000000000040B;;Revythoussa LNG Terminal;Revythoussa LNG Terminal
+IT;LSO;26X00000117915-0;GNL Italia;GNL Italia S.p.A.;GNL Italia S.p.A.
+IT;LNG Terminal;59W0000000000011;;Panigaglia LNG Terminal;Panigaglia LNG Terminal
+IT;LSO;21X000000001109G;OLT Offshore LNG Toscana;OLT Offshore LNG Toscana S.p.A;OLT Offshore LNG Toscana S.p.A
+IT;LNG Terminal;21W0000000000443;;FSRU OLT Offshore LNG Toscana;Toscana
+IT;LSO;21X000000001360B;Adriatic LNG;Terminale GNL Adriatico S.r.l.;Terminale GNL Adriatico S.r.l.
+IT;LNG Terminal;21W000000000082W;;Porto Levante LNG Terminal;Porto Levante
+LT;LSO;21X0000000013740;Klaipedos Nafta;Klaipedos Nafta;Klaipedos Nafta
+LT;LNG Terminal;21W0000000001253;;FSRU Independence;Klaipeda
+NL;LSO;21X000000001063H;Gate terminal;Gate Terminal B.V.;Gate Terminal B.V.
+NL;LNG Terminal;21W0000000000079;;Rotterdam Gate Terminal;Rotterdam Gate Terminal
+PL;LSO;53XPL000000PLNG6;Polskie LNG;Polskie LNG S.A.;Polskie LNG S.A.
+PL;LNG Terminal;21W000000000096L;;Swinoujscie LNG Terminal;Swinoujscie LNG Terminal
+PT;LSO;21X0000000013619;REN Atlântico;REN Atlântico S.A.;REN Atlântico S.A.
+PT;LNG Terminal;16WTGNL01------O;;Sines LNG Terminal;Sines

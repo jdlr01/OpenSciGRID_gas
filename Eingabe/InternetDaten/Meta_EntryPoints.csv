@@ -1,0 +1,40 @@
+id;comment;comp_id;start_year;end_year;source;license
+TEXT;TEXT;TEXT;REAL;REAL;TEXT;TEXT
+[];[];[];[yyyy];[yyyy];[];[]
+Almeria;;Almeria;;;MEDGAZ;
+Bacton;;Bacton;;;;
+Balgzand;;Balgzand;;;BBL;
+Beregdaroc;;Beregdaroc;;;?;
+Budince;;Budince;;;EuStream;
+Burton_Point;;Burton_Point;;;;
+Cordoba;;Cordoba;;;MEG;
+Dornum;;Dornum;;;Europipe I, Europipe II;
+Drozdwicze;;Drozdwicze;;;Europol;
+Dunkerque;;Dunkerque;;;Interconnector,Franpipe;
+Easington;;Easington;;;;
+Emden;;Emden;;;Norpipe;
+Gateway;;Gateway;;;;
+Gela;;Gela;;;Greenstream;
+Greifswald;;Greifswald;;;Nordstream;
+Herbrandston;;Herbrandston;;;;
+Imatra;;Imatra;;;Gryazovets-Vyborg;
+Isaccea;;Isaccea;;;;
+Kipoi;;Kipoi;;;;
+Komotini;;Komotini;;;interconnetor Tur-It-GR;
+Kondratki;;Kondratki;;;EUROPOL;
+Korneti;;Korneti;;;Baltic Pipeline System;
+Kotlovka;;Kotlovka;;;Baltic Pipeline System;
+MazaraDelVallo;;MazaraDelVallo;;;TRANSMED;
+MediesuAurit;;MediesuAurit;;;?;
+MericNehri;;MericNehri;;;TAP;
+Narva;;Narva;;;Baltic Pipeline System;
+Nybro;;Nybro;;;Tyra east, South Arne;
+Sakiai;;Sakiai;;;;
+StFergusE_1;;StFergusE1;;;;
+StFergusE_2;;StFergusE2;;;;
+Teesside;;Teesside;;;;
+Theddlethorpe;;Theddlethorpe;;;;
+Vaerska;;Vaerska;;;Baltic Pipeline System;
+Wysokoje;;Wysokoje;;;Jamal;
+ZaharaDeLosAtunes;;ZaharaDeLosAtunes;;;;
+Zeebrugge;;Zeebrugge;;;Interconnector,Franpipe;

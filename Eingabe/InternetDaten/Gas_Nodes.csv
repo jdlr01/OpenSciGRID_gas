@@ -1,0 +1,933 @@
+id;comment;country;lat;long;exact
+TEXT;TEXT;TEXT;REAL;REAL;REAL
+[];[];[];[deg];[deg];[]
+Hassi R Mel;;AG;32.9349916;3.2684215;2
+Kouchdiet;;AG;36.936721;8.642711;2
+Albania - Kosovo Gas Pipeline (ALKOGAP);;AL;42.26;20.4;5
+Bilisht Qendr;;AL;40.581944;21.000003;1
+Topoje;;AL;40.7918;19.4504;2
+UGS Dumrea;;AL;40.98;19.68;5
+7Fields;Storage Capacity connected to Germany and Austria;AT;47.962006;13.356863;1
+Aigelsbrunn;;AT;47.981978;13.312084;1
+Arnoldstein;Schiebestation;AT;46.5499903;13.7057619;2
+Bad Leonfelden;Bad Leonfelden;AT;48.521;14.292;2
+Basel;;CH;47.5595986;7.5885761;3
+Baumgarten;Baumgarten an der March;AT;48.316295;16.875328;1
+Deutsch Jahndorf;Deutsch Jahndorf;AT;48.01;17.107;2
+Eggendorf;;AT;47.874784;16.324289;1
+Enzersfeld;;AT;48.36;16.42;2
+Grafendorf;bei Hartberg;AT;47.3404037;15.9911036;2
+Haidach;Storage Capacity solely connected to Germany;AT;47.9867;13.232375;1
+Insbruck;;AT;47.277;11.409;2
+Kirchberg;Wagram;AT;48.4319861;15.8974939;2
+Kittsee;;AT;48.09;17.068;2
+Lichtenau;;AT;48.502;15.379;2
+March;;AT;47.32;13.06;4
+Murfeld;;AT;46.71;15.67;2
+Nussdorf Zagling;;AT;47.962013;13.356362;1
+Oberkappel;Neustift;AT;48.55443;13.751863;1
+Puchkirchen;Puchkirchen/Haag GCV 11,31;AT;48.015746;13.572981;1
+Rainbach;im Muhlkreis;AT;48.541365;14.489137;1
+Ruden;;AT;46.674191;14.756849;1
+Schoenkirchen Reyersdorf;;AT;48.376237;16.69966;1
+Tallesbrunn;;AT;48.355222;16.778209;1
+Thann;OberAT;AT;48.161;14.427;4
+Ueberackern;;AT;48.1928972;12.8747485;3
+Weitendorf;TAG-Weitendorf;AT;46.8798;15.472946;1
+Posusje;;BA;43.46;17.34;5
+Trzac;;BA;44.9976747;15.7846558;3
+Alveringem;;BE;51.0123224;2.7095311;3
+Anderlues;;BE;50.405551;4.283494;2
+Berneau;;BE;50.753777;5.739351;1
+Dilsen;;BE;51.03747;5.72215;3
+Eynatten;;BE;50.7;6.09;2
+Gravenvoeren;;BE;50.7587829;5.7611628;3
+Loenhout;;BE;51.386993;4.703353;1
+Maldegem;;BE;51.192;3.46;2
+Mons;;BE;50.44787;3.97037;2
+Nesvish;;BE;53.2247;26.6765;3
+Raeren;;BE;50.6770198;6.1097331;3
+Slonim;;BE;53.0933;25.31367;3
+Weeide;;BE;51.3022166;4.4114244;2
+Winksele;;BE;50.8974666;4.6435179;2
+Zeebrugge;;BE;51.323;3.213;2
+Zelzate;;BE;51.191166;3.827686;1
+Chiren;;BG;43.349887;23.592123;1
+Constanta (White Stream);;BG;44.18;28.61;5
+Galata;;BG;43.186113;28.205624;2
+Ihtiman;;BG;42.4382418;23.8161718;2
+Interconnector BG RS;;BG;43.08;27.92;5
+Interconnector ITB (Turkey - Bulgaria) (BG>TR);;BG;42.19;27.82;5
+Kardam;;BG;43.7538009;28.1079003;2
+Kulata;;BG;41.3875814;23.3632506;3
+Kyustendil;;BG;42.2868817;22.6939308;3
+Lozenets;;BG;42.2082646;27.8066174;2
+Malkoclar;;BG;42.04;27.01;2
+Oryahovo;;BG;43.7;23.96;5
+Petrich;;BG;41.3981081;23.2066849;2
+Polski Senovets;;BG;43.156944;25.3000001;2
+Provadiya;;BG;43.177032;27.4405725;2
+Russe;;BG;43.848;25.976;2
+Stara Zagora - IGB / BG;;BG;42.59;27.56;5
+Strandja;;BG;42.0125;27.608611;2
+Valchi Dol;;BG;43.4055329;27.5511887;2
+Ivasevichi;;BY;52.7079632;25.3353752;2
+Kobrin;;BY;52.2141109;24.3581792;2
+Krupki;;BY;54.3269605;29.1426031;2
+Minskaya;;BY;54.126352;27.995055;3
+Mozyrskoye;;BY;52.519;31.01;5
+Nesvizh;;BY;53.2226038;26.6766138;2
+Orshan;Orsha;BY;54.5071478;30.4119546;2
+Wysokoje;;BY;52.3696;23.371;3
+Osipovichskoye;;BY;53.373;28.517;5
+Pribugskoye;;BY;52.144;23.848;5
+Slonim;;BY;53.0875127;25.3087192;2
+Fallentor;;CH;47.658044;8.6948726;3
+Lostorf;Lostorf (SO);CH;47.386;7.946;2
+Ruswil;Ruswil;CH;47.079;8.133;2
+Cyprus;;CY;35.08178;33.3675;3
+Terminal 2 Vassiliko - Lemesos Port;;CY;34.65;33.01;5
+Brandov;HoraSvKaterinyBrandow/Olbernhau;CZ;50.635;13.39;2
+Breclav;;CZ;48.75314;16.8825169;2
+Damboice;;CZ;49.054629;16.91432;1
+Dolni Bojanovice;;CZ;48.871374;17.028471;1
+Dolni Dunajovice;;CZ;48.872481;16.609626;1
+Gebirgsneudorf;Extra;CZ;50.5859;13.441;2
+HJe;;CZ;49.657311;14.048542;1
+Hora Svate Kateriny;;CZ;50.602016;13.450129;1
+Hospozin;;CZ;50.312;14.17;2
+Hostim;;CZ;49.0055;15.879424;1
+Kiskundorozsma;;CZ;46.2730809;20.063011;3
+Kourim;;CZ;50.016479;14.930975;1
+Kralice;;CZ;49.1992726;16.2015641;2
+Lanzhot;;CZ;48.734049;16.974274;1
+Lobodice;;CZ;49.401112;17.298313;1
+Malesovice;;CZ;49.021483;16.489006;1
+Oslavou;;CZ;49.2054564;16.1557447;2
+Postorna / Reintal;;CZ;48.7;16.8;5
+Ron;;CZ;49.495061;16.215328;1
+Rozvadov;;CZ;49.663384;12.549857;1
+Stramberk;;CZ;49.593694;18.091711;1
+Tranovice;;CZ;49.714948;18.531823;1
+Tvrdonice;;CZ;48.780688;16.936667;1
+Uhrice;;CZ;49.036809;16.933182;1
+Veseli Nad Luznici;;CZ;49.209068;14.685073;1
+Achim;;DE;53.0092;9.0510401;2
+Ahlten;;DE;52.369564;9.924374;1
+Allmenhausen;;DE;51.219587;10.702464;1
+Ascha;;DE;49.03316548;12.60422323;2
+Au am Rhein;Au am Rhein;DE;48.953;8.24;2
+Bad Lauchstaedt;Teutschenthal;DE;51.430367;11.833526;1
+Bad Salzuflen;Bad Salzuflen;DE;52.068;8.775;2
+Bergisch Paffrath;Bergisch-Paffrath;DE;50.998;7.101;2
+Berlin;;DE;52.513276;13.224641;1
+Bernau;;DE;52.688;13.59;3
+Bernburg;;DE;51.750148;11.741609;1
+Bierwang;;DE;48.127548;12.402956;1
+Bobbau;;DE;51.703309;12.251789;1
+Bocholtz-Vetschau;;DE;50.817008;6.022739;1
+Boerslingen;;DE;48.545;140.0581;3
+Bonn;;DE;50.7374;7.138311;2
+Bornicke;;DE;52.6625882;13.6406119;2
+Brammer;;DE;52.969855;9.346443;1
+Breitbrunn;;DE;47.922265;12.433821;1
+Bruggraf Bernsdorf;;DE;51.207898;11.479785;1
+Buchholz;;DE;52.174964;12.926628;1
+Bunde;;DE;53.205843;7.229683;1
+Burghausen;;DE;48.17;12.826;2
+Deggendorf;;DE;48.847259;12.95429;2
+Deutschneudorf;;DE;50.621;13.473;2
+Doetlingen;;DE;52.944924;8.355847;1
+Dornum;Emden;DE;53.66;7.404;2
+Drohne;;DE;52.429729;8.354677;1
+Duerrengleina;Duerrengleina, Milda;DE;50.856735;11.553175;1
+Ehingen;;DE;48.31907747;9.803236305;2
+Eischleben;;DE;50.902646;11.006814;1
+Ellund;Deudan;DE;54.801913;9.289;1
+EllundDE;;DE;54.801878;9.289041;1
+Elsfleth;;DE;53.194313;8.400715;1
+Elten;;DE;51.897037;6.144031;1
+Embsen;;DE;53.0268;9.022361;1
+Emden;;DE;53.3594029;7.2060095;2
+Empelde;;DE;52.339624;9.650892;1
+Emsbueren;;DE;52.3926684;7.2926853;3
+Enschede - Epe;;DE;52.18;7.00616;3
+Epe (KGE);;DE;52.176;7.1;3
+Epe (Nuon);;DE;52.176;7.00616;2
+Epe IGSNWE L;;DE;52.176;7.05;3
+Epe Trianel;;DE;52.176;7.00616;2
+Epe Uniper H-Gas;;DE;52.177;7.05;3
+Epe Uniper L-Gas;;DE;52.178;7.05;3
+EpeH;;DE;52.175948;7.006152;1
+EpeL;;DE;52.17595;7.00616;1
+Eschenfelden;;DE;49.5845;11.6307;1
+Etzel;;DE;53.461064;7.912085;1
+Euskirchen;;DE;50.6325222;6.8003932;2
+EWE-Zone L;;DE;52.17;7.00616;3
+Finsing;;DE;48.223;11.798;2
+Fockbek;Molchstation  Fockbek;DE;54.3;9.6;2
+Folmhusen;;DE;53.17366;7.496896;1
+Forchheim;;DE;48.826787;11.683951;2
+Frankenthal;;DE;49.555408;8.409677;1
+Fronhofen;;DE;47.851208;9.414961;1
+Gernsheim;;DE;49.743662;8.55088;1
+Gerstein;Hamm-Werne;DE;51.65;7.64;2
+Greifswald;;DE;54.716599;13.3923414;2
+GrossKoeris;Gross Koeris;DE;52.164;13.663;2
+Grotegaste;;DE;53.17;7.39;3
+Haehnlein;;DE;49.7458;8.554382;1
+Haiming;;DE;48.193991;12.851803;1
+Hamburg;;DE;53.561;10.011;2
+Hamm;;DE;51.66079;7.80104;2
+Harsefeld;;DE;53.435469;9.482867;1
+Heidenau;;DE;53.4734264;9.636613174;2
+Herchenrode;;DE;49.76;8.7;4
+Hespenbusch;Hespenbusch/Doetlingen;DE;52.945102;8.30882;1
+Hirschberg;;DE;50.12805856;6.951199801;3
+Huegelheim;;DE;47.835122;7.596259;1
+Hugelheim;;DE;47.8302767;7.6210786;3
+Huntorf;;DE;53.19421;8.400683;1
+IGSNWE;;DE;52.175948;7;3
+Inzenham;;DE;47.8808712;12.2282127;3
+Inzenham West;;DE;47.887547;12.103307;2
+Jemgum;The initial gas filling started in September 2013, first commercial operations were conducted in 2014/15.;DE;53.253484;7.388862;1
+Kalle;;DE;53.253484;7.388862;1
+Karlsruhe;;DE;49.01378;8.404;2
+Katharina;;DE;51.748403;11.742807;1
+Kiefersfelden;;DE;47.6181459;12.1868662;3
+Kiel Roenne;;DE;54.266597;10.200844;1
+Kienbaum;;DE;52.4483075;13.9567212;2
+Kirchheilingen;;DE;51.219587;10.702464;1
+Kraak;;DE;53.422766;11.360765;2
+Krummhoern;;DE;53.36059;7.065929;1
+Lauterbach;;DE;50.650638;9.371877;3
+Lebus;;DE;52.427;14.543;2
+Legden;;DE;52.047;7.109;2
+Lehringen;;DE;52.885717;9.413266;1
+Lehrte;;DE;52.387;10.005;3
+Leonberg;;DE;48.799;9.01;2
+Lesum;;DE;53.160905;8.718167;1
+Lich;;DE;50.5197;8.812153;2
+Lindau;;DE;47.5797815;9.6789333;3
+Lingen;;DE;52.516;7.331;2
+Lippe;;DE;52.05857;8.699208;1
+Lubmin;;DE;54.151055;13.655607;1
+Ludwigshafen;;DE;49.485;8.421;2
+Mallnow;Mallnow/Gorzyca;DE;52.441781;14.47384;1
+Medelsheim;;DE;49.144;7.27;2
+Mittelbrunn MEGAL;;DE;49.376405;7.567024;1
+Mittelbrunn TENP;;DE;49.374422;7.563924;1
+Moeckow;;DE;53.994342;13.560306;2
+Nuettermoor H;;DE;53.259121;7.417349;1
+Nuettermoor L;;DE;53.25913;7.41736;1
+Obergailbach;;DE;49.11;7.22;2
+Oberhausen;;DE;51.45991402;6.837945422;2
+Olbernhau;;DE;50.645421;13.359861;1
+Peckensen;;DE;52.801137;10.942675;1
+Pfronten;;DE;47.5766418;10.5264351;3
+Porz;;DE;50.871359;7.0719899;2
+Quarnstedt;;DE;53.939785;9.784432;1
+Radeland;Baruth;DE;52.07784;13.539383;1
+Ramstein;;DE;49.50752793;7.89075333;2
+Reckrod;Eiterfeld;DE;50.785275;9.788964;1
+Rehden;;DE;52.613673;8.493598;1
+Reitbrook;;DE;53.468347;10.183956;1
+Rheinfelden;Schwoer2/ Rheinfelden;DE;47.58;7.88;2
+Rimpar;;DE;49.841916;9.948338;1
+Rixfeld;Herbstein;DE;50.58375;9.367797;1
+Rothenstadt;Weiden in der Oberpfalz;DE;49.633;12.319;2
+Rueckersdorf;;DE;50.814223;12.232909;1
+Ruedersdorf;;DE;52.478855;13.780083;2
+Rysum;;DE;53.37944;7.034;2
+Salzwedel;;DE;52.845;11.164;2
+Sandhausen;;DE;49.327473;8.644253;1
+Sayda;;DE;50.70509;13.440196;1
+Scharenstetten;;DE;48.5047;9.8609;1
+Scheidt;;DE;50.346838;7.906613;1
+Schluechtern;;DE;50.3525;9.548;2
+Schmetzdorf;;DE;52.550304;12.167921;2
+Schmidthausen;;DE;47.915177;12.039466;1
+Schwandorf;;DE;49.3198883;12.1091352;2
+Schwarzach;;DE;48.727117;8.055866;1
+Solingen;;DE;51.172643;7.07614;2
+St Hubert;St Hubert;DE;51.384;6.457;2
+Stassfurt;;DE;51.891723;11.555702;1
+Steinitz;;DE;52.82964;11.112766;1
+Stetten;;DE;47.6899;9.300633;2
+Stockstadt;;DE;49.822999;8.484942;1
+Stolberg;Aachen,Schwarzenbruch;DE;50.786035;6.177002;1
+Stutensee Blankenloch;;DE;49.05403;8.465834;2
+Sulstorf;;DE;53.5108287;11.3772102;2
+Uelsen;;DE;52.504885;6.829442;1
+Vitzeroda;;DE;50.881761;10.060498;1
+Voigtslach;Leverkusen-Hitdorf;DE;51.076;6.933;2
+Waidhaus;;DE;49.644;12.496;2
+Wallbach;Rodersdorf;DE;47.566;7.9;2
+Wardenburg;;DE;53.074963;8.171742;1
+Weissack;;DE;51.766;13.685;2
+Weisweiler;;DE;50.835876;6.311106;1
+Wendorf;;DE;54.24781279;13.17321674;2
+Werne;;DE;51.683185;7.5784;1
+Wildenranna;;DE;48.573853;13.721864;1
+Windberg;;DE;48.944;12.7594;2
+Wolfersberg;;DE;48.042629;11.816447;1
+Wolfsbehringen;;DE;51.006;10.49;2
+Xanten;;DE;51.663755;6.426365;1
+Alborg;;DK;57.036;9.927;2
+Blabjerg;;DK;55.776;8.178;3
+Nyborg;;DK;55.287;10.793;3
+FaxeSouth;;DK;55.187;12.118;2
+Egtved;;DK;55.617559;9.3122919;2
+EllundDK;;DK;54.80609;9.29094;1
+GSD Virtual Gas Storage DK;;DK;56;9.29;5
+Lille Torup;;DK;56.640401;9.41462;1
+Nybro;;DK;56.247698;8.878005;2
+Statpipe - NO / Harald platform - DK;;DK;56.46;8.12;5
+Stenlille;;DK;55.547794;11.62362;1
+Almeria;;DZ;36.83;-2.46;3
+Koudiet Eddraouch (Galsi) (DZ);;DZ;36.9;6.7;5
+Mazara del Vallo;;DZ;37.64;12.59;3
+MGP;;DZ;34.06;27.24;5
+Tarifa;;DZ;36;-5.6;3
+Karksi;;EE;58.1002085;25.5493386;3
+KipiEst;;EE;58.2502984;22.0401873;2
+Narva;;EE;59.3796931;28.1790751;2
+Paldiski;;EE;59.38445;24.07494;2
+Tallinn;Tallinn;EE;59.50601;25.0045;2
+Vaerska;;EE;57.9570536;27.6375433;2
+Alcazar de San Juan;;ES;39.3900748;-3.2100984;2
+Algete;;ES;40.585921;-3.545802;1
+Almendralejo;;ES;38.711202;-6.382539;1
+Almeria;;ES;36.8348;-2.4636;2
+Avilles;;ES;43.557;-5.924;2
+Badajoz;;ES;38.87665;-6.9714;2
+Baneras;;ES;41.2794548;1.5808175;2
+Barcelona;;ES;41.398;2.174;2
+Bilbao;;ES;43.3612;-3.09473;2
+Burgos;;ES;42.346;-3.691;2
+Cartagena;;ES;37.624;-0.998;2
+Chinchilla;;ES;38.892435;-1.719831;1
+Cordoba;;ES;37.886;-4.7803;2
+Crevillente;;ES;38.2446844;-0.8113636;2
+Denia;;ES;38.868056;-0.026709;1
+El Ferrol;;ES;43.489646;-8.2193451;2
+El Musel;;ES;43.534;-5.664;2
+Euskadour;;ES;43.21;-1.38;5
+Gaviota;;ES;43.443007;-2.756361;1
+Girona;;ES;41.976;2.818;2
+Grenada;;ES;37.182;-3.602;3
+Haro;;ES;42.565847;-2.882395;1
+Huelva;;ES;37.2615;-6.9422;2
+Ibiza;;ES;39;1.46;3
+Madrid;;ES;40.423;-3.691;2
+Marisma Palancares;Palancares;ES;41.08;-3.2;4
+Marismas;;ES;37.067092;-6.366233;2
+Montesa;;ES;38.959997;-0.616608;1
+Mugardos;;ES;43.4578;-8.253;2
+Navarra;;ES;42.6953909;-1.6760691;2
+Orense;;ES;42.27;-7.655;3
+Oviedo;;ES;43.359;-5.847;2
+Paterna;;ES;39.533233;-0.457085;1
+Pinasses;;ES;41.874;1.792;5
+Puertollano;;ES;38.6869;-4.1089;2
+Reganosa;;ES;43.461;-8.239;2
+Sagunto;;ES;39.6329;-0.2152;2
+San Sebastian;;ES;43.3122;-1.986;2
+Santander;;ES;43.467;-3.798;2
+Serrablo;;ES;42.578117;-0.391536;1
+Sevilla;;ES;37.3890924;-5.9844589;2
+Tivisa;;ES;41.041;0.7336;2
+Tuy;;ES;42.055953;-8.632403;1
+Valladolid;;ES;41.644;-4.73;2
+Villar De Arnedo;;ES;42.30398;-2.070988;1
+Yela;;ES;40.806749;-2.822598;1
+Zahara De Los Atunes;;ES;36.128832;-5.833539;1
+Zamora;;ES;41.506;-5.744;2
+Zaragoza;;ES;41.646;-0.883;2
+Imatra;;FI;61.1695977;28.7645463;2
+Kouvola;;FI;60.8678835;26.7041602;2
+Mantsala;;FI;60.6638584;25.2836053;2
+Pori;;FI;61.63817;21.39881;2
+Alsace Sud;;FR;47.97;7.05;5
+Angouleme;;FR;45.646;0.149;2
+Annecy;;FR;45.903;6.126;2
+Arieux en Gohelle;;FR;50.36334;2.869612;2
+Auros;;FR;44.495849;-0.146575;2
+Auvers le Hanom;;FR;47.902617;-0.353136;2
+Avion;;FR;50.412326;2.824277;2
+Baldenheim;;FR;48.237634;7.539465;2
+Barbaira;;FR;43.1756;2.513;2
+Bayonne;;FR;43.493;-1.462;2
+Beynes;;FR;48.844032;1.873865;1
+Beziers;;FR;43.34632;3.231472;2
+Biriatou;;FR;43.333204;-1.743022;3
+Bourbonne;Bourbonne-les-Bains??;FR;47.949;5.749;2
+Breal;;FR;48.048439;-1.864231;2
+Breheville;;FR;49.382658;5.329267;2
+Brest;;FR;48.402;-4.48;2
+Brizambourg;;FR;45.822208;-0.479831;2
+Captiex;;FR;44.291534;-0.261723;2
+Cere la Ronde;;FR;47.2828;1.219284;1
+Cerville;;FR;48.707076;6.298375;1
+Chateau Landon;;FR;48.150232;2.704426;2
+Chazelles;;FR;45.64714;0.367019;2
+Chemery;;FR;47.387853;1.486212;1
+Cherbourg;;FR;49.627;-1.602;2
+Courthezon;;FR;44.085647;4.882963;2
+Cuvilly;;FR;49.530886;2.703964;1
+Dierrey St Julien;;FR;48.310884;3.829932;2
+Donges;;FR;47.332;-2.069;2
+Dunkerque;LNG Termninal Dunkirch;FR;51.033134;2.194792;1
+Dunkerque2;;FR;51.010889;2.246384;1
+Entre Deux Guiers;;FR;45.433287;5.7521129;2
+Etrez;;FR;46.336132;5.212561;1
+Evry Gregy;;FR;48.6539418;2.6357442;2
+Fontenay Mauvoisin;;FR;48.95313;1.638196;1
+Fos Cavaou;;FR;43.42239;4.89863;1
+Fos Sur Mer;Fos Sur Mer;FR;43.45;4.891;2
+Fos Tonkin;;FR;43.454;4.85167;1
+Germigny Sous Coulombs;;FR;49.055792;3.173434;1
+Gournay Sur Aronde;;FR;49.526019;2.699989;1
+Hauterives;;FR;45.26;5.05;5
+Izaute;;FR;43.839;0.166533;5
+Jura La Cure;;FR;47.3444474;7.1430608;3
+La Begude De Mazenc;;FR;44.5458519;4.935637;2
+Lacq;;FR;43.421;-0.614;2
+Laprade;;FR;43.443079;2.258728;2
+Larrau;;FR;43.018757;-0.955718;3
+Le Havre;;FR;49.499;0.125;2
+Lussagnet;;FR;43.780448;-0.220066;1
+Lyon;;FR;45.754;4.842;2
+Manosque;;FR;43.868812;5.756336;1
+Marais Vernier;;FR;49.419813;0.454816;2
+Mazerolles;;FR;43.449488;-0.469473;2
+Mery Sur Cher;;FR;47.248274;1.992231;2
+Montauban;;FR;44.0221252;1.3529599;2
+Montoir De Bretagne;Montoir de Bretagne;FR;47.32;-2.14;2
+Nancy;;FR;48.68;6.17;2
+Nozay;;FR;47.564751;-1.626916;2
+Oltinigue;;FR;47.492301;7.391487;3
+Palleau;;FR;46.958;5.028608;2
+Paris;;FR;48.852;2.371;2
+Pitgam;Dunkirch;FR;50.926317;2.315596;1
+Porto-Vecchio;;FR;41.58;9.28;4
+Rodersdorf;Rodersdorf/Oltingue;FR;47.481;7.457;2
+Roussines;;FR;45.725297;0.6186779;2
+Saint Clair Sur Epte;;FR;49.20486;1.704706;1
+Saint Illiers La Ville;;FR;48.985068;1.55201;1
+Saline Etrez;;FR;46.336132;5.212561;1
+Saline Manosque;;FR;43.867715;5.755809;1
+Saline Tersanne;;FR;45.20973;4.984286;1
+Soings En Sologne;;FR;47.426783;1.49935;1
+St Arnoult Des Bois;;FR;48.492532;1.261686;2
+St Cezaire;St. Cezaire;FR;43.661;6.805;2
+St Martin;St. Martin;FR;48.349;7.288;2
+St Martin De Crau;;FR;43.638628;4.812107;2
+St Victor;;FR;46.3950249;2.607516;2
+Strasbourg;;FR;48.58;7.766;2
+Tersanne;;FR;45.2149;5.01536;2
+Toulouse;;FR;43.604652;1.444209;2
+Trois Fontaines Abbaye;;FR;48.699704;4.973132;1
+Vindecy;;FR;46.352556;4.010777;2
+Voisines;;FR;48.25245;3.394035;2
+Vorepe;;FR;45.286;5.642;2
+Aberdeen;;GB;57.13600455;-2.379727732;2
+Aldbrough;;GB;53.813895;-0.087273;1
+Alrewas;;GB;52.73869018;-1.77561329;2
+Atwick;;GB;53.946533;-0.207479;1
+Audley;;GB;53.06;-2.35;4
+Avonbridge;;GB;55.919744;-3.740241;2
+Avonmouth;;GB;51.5306638;-2.654260229;2
+Aylesbeare;;GB;50.719;-3.359;5
+Aylesbury;;GB;51.86022749;-0.962549867;2
+Bacton;;GB;52.8506;1.466;2
+Ballylumford;;GB;54.84019;-5.788932;2
+Barrow;;GB;54.0981;3.1836;1
+Bathgate;;GB;55.91941138;-3.741778958;2
+Beattock;;GB;55.3;-3.452;2
+Belfast;;GB;54.589;-5.911;2
+Birmingham;;GB;52.478;-1.883;2
+Bishop Auckland;;GB;54.6707702;-1.565698513;2
+Blackrod;;GB;53.5924;-2.5;4
+Brighthouse;;GB;54.78735;-4.12912;3
+Burton Point;;GB;53.232;-3.0813;2
+Cambridge;;GB;52.0812606;0.166856789;2
+Carnforth;;GB;54.10108859;-2.737139207;2
+Carrickfergus;;GB;54.722;-5.811;2
+Caythorpe;;GB;54.114951;-0.359108;2
+Chelmsford;;GB;51.75082117;0.404054565;2
+Cheshire;;GB;53.1665;-2.59;3
+Churchover;;GB;52.41508373;-1.27196689;2
+Coolkeeragh;power station at Coolkeeragh;GB;55.043776;-7.248705;1
+Corbridge;;GB;54.97;-2.015;4
+Deborah;;GB;52.878453;1.44754;2
+Diss;;GB;52.33222249;1.132177892;2
+Dragon;Milford Haven, South Wales;GB;51.705887;-4.988372;2
+Easington;;GB;53.6548;0.11978;3
+Elworth;;GB;53.1563848;-2.411266389;1
+Exeter;;GB;50.721;-3.519;2
+Farningham;;GB;51.379;0.221;4
+Felindre;;GB;51.69076021;-3.955976771;2
+Gateway;;GB;54.099578;-3.18364;1
+Grain;Isle of Grain, Kent;GB;51.4536;0.7189;2
+Hampshire;;GB;51.125;-1.177;3
+Hatfield Moor;;GB;53.553344;-0.958426;1
+Hatton;;GB;53.26989703;-0.240515533;2
+Herbrandston;;GB;51.727;-5.085;4
+Hill Top Farm;Hill Top Farm (Cheshire);GB;53.138712;-2.456099;2
+Hole House Farm;;GB;53.138712;-2.456099;2
+Holford;;GB;53.225722;-2.405628;1
+Holford Brinefield;;GB;53.234049;-2.434752;1
+Hornsea;Hornsea (Atwick);GB;53.946602;-0.207576;1
+Humbly Grove;;GB;51.194305;-1.010382;1
+Huntingdon;;GB;52.31032265;-0.362344801;2
+Ilchester;;GB;51.002;-2.6827;4
+Indefatigable;Indefatigable (Hewitt);GB;53.55;2.301;3
+Islandmagee;;GB;54.842619;-5.778247;1
+Isle Of Grain;;GB;51.45;0.711;4
+Killingholme;;GB;53.641;-0.274;2
+King Street;;GB;53.255659;-2.447396;1
+Kings;;GB;52.71582283;0.547139531;2
+Kirriemuir;;GB;56.68104364;-2.925588306;2
+Lancashire;;GB;53.9;-2.64;3
+Leamington;;GB;52.28;-1.528;3
+Llandarcy;;GB;51.643;-3.854;2
+Lockerbie;;GB;55.1195;-3.35;4
+Lockerley;;GB;51.02403276;-1.570798531;2
+Longtown;;GB;55.0092;-2.96927;4
+Milford Haven;;GB;51.71;-5.03;2
+Moffat;;GB;55.27762088;-3.438048755;2
+Morecambe Bay;;GB;54.082;-2.858;3
+Nord-Atlantique;;GB;57.69;-2.8;5
+Partington;;GB;53.41;-2.42;3
+Penzance;;GB;50.118;-5.537;3
+Peterborough;;GB;52.62697052;-0.301506985;2
+Preesall;;GB;53.912959;-3.000976;2
+Rough;Capacity offered under negotiated processes with rules that must be applied;GB;53.656595;0.117476;1
+Saltfleetby;;GB;53.393462;0.174512;2
+Samlesbury;;GB;53.76;-2.606;3
+Scunthorpe;;GB;53.52982942;-0.682635915;2
+Shorne;;GB;51.413;0.4338;4
+South Hook;Milford Haven, South Wales;GB;51.713781;-5.078012;1
+St Fergus;St. Fergus;GB;57.567885;-1.844608;1
+St Fergus C1;;GB;57.573052;-1.843627;2
+St Fergus C2;;GB;57.573334;-1.837945;2
+St Fergus E1;;GB;57.580687;-1.830286;2
+St Fergus E2;;GB;57.575091;-1.82705;2
+Stublach;;GB;53.234065;-2.435024;1
+Sutton Bridge;;GB;52.78;0.21;4
+Teesside;;GB;54.574;-1.234;2
+Theddlethorpe;;GB;53.361334;0.233697;1
+Tirley;;GB;51.952;-2.232;2
+Twynholm;;GB;54.865;-4.077;2
+Walesby;;GB;54.24;-0.955;5
+Warburton;;GB;53.401;-2.45;5
+Warrington;;GB;53.408661;-2.480795373;2
+Weston Point;;GB;53.32;-2.756;5
+Whitwell;;GB;51.88346126;-0.294815399;1
+Wisbech;;GB;52.72414573;0.163393056;2
+Wooler;;GB;55.58130289;-2.086443142;2
+Wormington;;GB;52.02891528;-1.928437644;2
+Aegean LNG;;GR;38.58;24.14;5
+Alexandroupolis;;GR;40.9399278;25.9940986;2
+Ampeleia;;GR;39.56;20.83;4
+East Med / Thesprotia (Poseidon);;GR;39.47;20.24;5
+IP Greece - Italy;;GR;39.28;20.38;5
+Kastoria;;GR;40.5257;21.2563;2
+Kavala;;GR;40.9713;24.3804;2
+Kipoi;;GR;40.970417;26.307161;1
+Kipoi Border Crossing;Border Crossing Point;GR;40.9450804;26.3110854;2
+Komotini;;GR;41.1224394;25.4065582;2
+Nea Messimvria;;GR;40.7525173;22.7703233;2
+Revithoussa;;GR;37.96;23.4023;2
+Sidirokastron;;GR;41.2349471;23.3938203;3
+South Kavala;;GR;40.946;24.409;5
+TESLA / GR>FYROM;;GR;38.98;23.4;5
+Thessaloniki;;GR;40.6733;22.971;2
+Croatia LNG;;HR;44.6;14.9;5
+Donji Miholac;;HR;45.762142;18.1651379;3
+Grubisno Polje;;HR;45.718357;17.194853;2
+Okoli;;HR;45.59451;16.520556;1
+Slobodnica;;HR;45.1566;17.9314;2
+Umag Rijeka;;HR;45.4314032;13.5296337;3
+Velika Ludina;;HR;45.606141;16.5895288;2
+Bata;;HU;46.126703;18.7741311;2
+Beregdaroc;;HU;48.1985108;22.5320069;2
+Budapest;;HU;47.49059;19.245;2
+Hajduszoboszlo;;HU;47.507335;21.366312;1
+Kardoskut;;HU;46.495789;20.71714;1
+Mosonmagyarovar;;HU;47.8681469;17.2689169;2
+Nemesbikk;;HU;47.8876867;20.9661155;2
+Pusztaederics;;HU;46.65711;16.794852;1
+Szoreg;;HU;46.302801;20.194969;1
+Varosfoeld;;HU;46.823766;19.769095;1
+Zsana;;HU;46.423701;19.700702;1
+Bellanaboy;;IE;54.2878;-9.83233;4
+Dublin;;IE;53.339;-6.258;4
+Gormanstown;Gormanstown/Ballough;IE;53.638742;-6.22249;1
+Kinsale Southwest;;IE;51.608848;-8.533264;2
+Limerick;;IE;52.655;-8.622;4
+Loughshinny;;IE;53.548;-6.084;2
+Shannon;;IE;52.709;-8.871;4
+Waterford;;IE;52.255;-7.1145;4
+Adriatic Rovigo;;IT;45.091667;12.586111;2
+Alessandria;;IT;44.90008;8.60944;2
+Alfonsine;;IT;44.49;12.02;5
+Altamura;;IT;40.827134;16.553126;2
+Bagnolo Mella;;IT;45.423202;10.138115;1
+Benevento;;IT;41.128905;14.781876;2
+Bernalda;;IT;40.412126;16.688712;2
+Biccari;;IT;41.396964;15.195382;2
+Bizzarone;;IT;45.834135;8.946413;2
+Bordano;;IT;46.31489;13.105341;2
+Bordolano;;IT;45.287349;9.982015;1
+Bosentino;;IT;46.001982;11.224358;2
+Brindisi;;IT;40.593587;17.860057;2
+Brugherio;;IT;45.55;9.3;5
+Calderari Enna;Calderari Enna;IT;37.560406;14.366079;1
+Caldonazzo;;IT;45.993482;11.261135;2
+Campagna Lupia;Campagna Lupia;IT;45.353355;12.097296;2
+Campochiaro;;IT;41.447384;14.508592;2
+Candela;compressor;IT;41.136273;15.514454;2
+Casalborsetti;;IT;44.554176;12.264301;1
+Cavarzere;;IT;45.133742;12.08022;2
+Cellino;;IT;42.58;13.85;5
+Cervignano;;IT;45.372148;9.424874;2
+Chieti;;IT;42.358755;14.141819;2
+Chivasso;;IT;45.185492;7.901613;2
+Ciciliano;;IT;41.957909;12.94136;2
+Collalto;;IT;45.852895;12.188481;1
+Cornegliano;;IT;45.287745;9.462563;1
+Cortemaggiore;;IT;44.991076;9.920891;1
+Cotignola;;IT;44.3;11.93;3
+Cremona;;IT;45.136959;10.0225;2
+Crotone;;IT;39.078971;17.113881;2
+Cugno le Macine;Cugno le Macine (Grottole-Ferrandina);IT;40.404885;16.532677;1
+Cupello;;IT;42.024817;14.701403;2
+Elba Island;;IT;42.76;10.2;5
+Enna;;IT;37.5099321;14.262851;2
+Fiume Treste;;IT;42.022911;14.699295;1
+Flaibano;;IT;46.057566;12.984152;2
+Foligno;;IT;42.948536;12.69996;2
+Gagliano;;IT;37.70948;14.53523;2
+Gagliano Sparacollo;Gagliano (Sparacollo);IT;37.684813;14.652717;3
+Gallese;Gallese Civita Cast.;IT;42.373095;12.40241;2
+Gela;;IT;37.052698;14.269219;2
+Golasecca;;IT;45.697737;8.658697;2
+Gonars;;IT;45.897033;13.236542;2
+Gorizia;;IT;45.942831;13.619396;2
+Griespass;Griespass (VS);IT;46.45;8.3666667;2
+Grumento;;IT;40.316324;15.90466;1
+Ionic-Adriatic Pipeline - IAP Entry;;IT;43.4;13.6;5
+Istrana;Compressor;IT;45.715303;12.072133;1
+La Spezia;;IT;44.116;9.838;2
+Larino;;IT;41.801085;14.919371;3
+Latiano;;IT;40.550803;17.717742;2
+Lauria;;IT;40.050224;15.840378;2
+Livorno;G.N.L. Livorno;IT;43.547519;10.311025;2
+Maida S Eufemia;Maida/S.Eufemia;IT;38.858958;16.364569;2
+Malbroghetto;Compressor;IT;46.503733;13.416054;1
+Masera;;IT;46.136816;8.309786;1
+Mazara Del Vallo;Mazara del Vallo;IT;37.65533;12.597628;2
+Melendugno;;IT;40.265;18.38;2
+Melizzano;;IT;41.161769;14.505163;2
+Menfi;;IT;37.602313;12.968817;2
+Messina;Compressor;IT;38.272079;15.58877;1
+Minerbio;;IT;44.615731;11.497959;1
+Mira;;IT;45.426979;12.131102;2
+Moggio Udinesse;Moggio Udinesse;IT;46.398538;13.186671;3
+Moliterno;;IT;40.242959;15.865276;2
+Montalbano;;IT;38.022844;15.013029;2
+Monte Alpi;Monte Alpi;IT;40.116457;15.985341;3
+Montesano;Montesano Sulla Marcellana;IT;40.281815;15.667287;1
+Monza;;IT;45.582264;9.274872;2
+Morano;;IT;39.843546;16.135949;2
+Mortara;;IT;45.252239;8.737499;2
+Olbio;;IT;40.9235764;9.4964429;2
+Oltrona;;IT;45.756957;8.973609;2
+Oricola;;IT;42.065074;13.049619;2
+Otranto;;IT;40.1438978;18.4911678;3
+Palagiano;;IT;40.578453;17.038207;2
+Palazzo Moroni;;IT;43.226813;13.672527;2
+Palmi;;IT;38.418314;15.874919;2
+Panigaglia;La Spezia;IT;44.073876;9.830632;1
+Parma;;IT;44.802049;10.326095;2
+Passo Gries;Passo Gries;IT;46.449851;8.366838;2
+Pinto;;IT;42.60635;14.067353;2
+Piombino;;IT;42.9256335;10.5258891;3
+Poggio Renatico;Poggio Renatico;IT;44.764758;11.486382;2
+Poggiofiorito;;IT;42.245019;14.22457;1
+Poirino;;IT;44.918811;7.844823;2
+Pontebba;;IT;46.506812;13.304698;2
+Pontremoli;;IT;44.372874;9.881342;2
+Porto Botte (Galsi);;IT;39.05;8.56;5
+Porto Empedocle;;IT;37.2829;13.53774;2
+Porto Levante;;IT;45.0488357;12.3639697;2
+Porto Viro;Porto Viro;IT;45.034434;12.219946;2
+Ravenna Mare;Ravenna Mare;IT;44.399759;12.302671;1
+Ravenna Terra;Ravenna Terra;IT;44.416686;12.306514;2
+Recanati;;IT;43.402314;13.55712;2
+Reggio Calabria;Reggio Calabria;IT;38.257644;15.752554;1
+Rende;;IT;39.332936;16.184738;2
+Rimini;;IT;44.06653;12.574867;2
+Ripalta;;IT;45.312155;9.700705;1
+Roccasecca;;IT;41.55;13.66;2
+Rubicone;;IT;44.089849;12.400538;2
+S Polo Di Piave;S. Polo Di Piave;IT;45.788222;12.393832;2
+Sabbioncello;;IT;44.799498;11.899334;1
+San Benedetto;;IT;42.9283;13.839223;2
+San Potito E Cotignola;Plant in build-up phase;IT;44.371034;11.919378;1
+San Salvo Flume Treste;compressor;IT;42.024817;14.701403;1
+Sansepolcro;;IT;43.570594;12.140796;2
+Sardinia LNG;;IT;40.6;9.7;5
+Sergnano;;IT;45.427834;9.698543;1
+Settala;compressor;IT;45.451046;9.403412;1
+Sinarca;;IT;41.998;14.811;5
+Sulmona;;IT;42.050263;13.929251;2
+Tarsia;compressor;IT;39.589859;16.251025;1
+Tarvisio;;IT;46.505528;13.592806;2
+Terranuova Bracciolini;Terranuova Bracc.;IT;43.557809;11.640662;1
+Toscana;;IT;43.548;10.2808;2
+Trento;;IT;46.074613;11.129449;2
+Trieste;;IT;45.61239;13.79281;2
+Vastogirardi;;IT;41.774614;14.260708;2
+Veruno;;IT;45.689397;8.527687;2
+Vigasio;;IT;45.317353;10.944913;2
+Villesse;;IT;45.862614;13.438999;2
+Zimella;;IT;45.332539;11.375813;2
+FSRU;;LT;55.7252;21.101954;1
+Jauniunai;;LT;54.941019;25.00762;2
+Kiemenai;;LT;56.2502439;24.2909848;3
+Klaipeda;;LT;55.7253;21.101954;1
+Kotlovka;;LT;54.716599;25.7475233;2
+Nemencine;;LT;54.760443;25.3672514;3
+Pakruojis;;LT;55.9825873;23.8584483;3
+Pnevezys;;LT;55.7347915;24.3574774;2
+Vilnius;;LT;54.6872;25.2797;3
+Sakiai;;LT;54.952671;23.0480199;2
+Syderiai;;LT;55.890548;22.302939;2
+Petange;;LU;49.5559747;5.8758655;3
+Remich;;LU;49.545017;6.3674222;3
+Incukalns;;LV;57.169567;24.696409;1
+Korneti;;LV;57.5928519;26.9434759;2
+Riga;;LV;56.94888;24.106389;2
+Mellitah;;LY;32.8547005;12.2404869;2
+Drochia;;MD;48.1177021;27.8080001;2
+Vulkaneshty;;MD;45.683708;28.48324;2
+Zhidilovo;;MK;42.2242526;22.398599;3
+Delimara;;MT;35.828836;14.556524;1
+Malta FSRU Offshore Terminal;;MT;35.9;14.52;5
+Alkmaar;Grijpskerk, Norg (NAM) and Alkmaar (TAQA) = Groningen System - No longer offering capacity to be considered as a production facility;NL;52.650953;4.716946;1
+Alphen;;NL;51.4823836;4.9533065;2
+Balgzand;;NL;52.8982381;4.845275;2
+Bergermeer;;NL;52.639238;4.744591;2
+Beverwijk;;NL;52.487665;4.700005;1
+Bocholtz;;NL;50.817365;6.021767;1
+Energy Stock;;NL;51.8;5.7;5
+Ewijk;;NL;51.845368;5.722341;1
+Gate Rotterdam;Rotterdam;NL;51.973837;4.064029;1
+Grijpskerk;no production facility;NL;53.278554;6.31028;1
+Groningen;;NL;53.224;6.569;2
+Hilvarenbeek;;NL;51.4856827;5.1384062;2
+Maastricht;;NL;50.855;5.684;2
+Norg Langelo; No longer offering capacity;NL;53.090774;6.430666;1
+Obbicht;;NL;51.0280231;5.7812382;3
+Oldeboorn;;NL;53.0481093;5.8924892;2
+Ommen;;NL;52.50998;6.417392;2
+Oude Statenzijl;;NL;53.2019;7.205;3
+PuthSchinnen;;NL;50.9554323;5.8705487;2
+Ravenstein;;NL;51.78178;5.661435;1
+Scheemda;;NL;53.1763506;6.9723944;2
+Spijk;;NL;51.8557688;5.0077464;2
+Wieringermeer;;NL;52.756746;5.050348;1
+Wijngaarden;;NL;51.850787;4.739927;1
+Winterswijk;;NL;51.977038;6.7454136;3
+Zandvliet;;NL;51.35965;4.30716;3
+Zweekhorst;;NL;51.9605323;6.0759819;2
+Dornum GASPOOL;;NO;53.845027;7.344795;3
+Dunkerque;;NO;51.164441;2.25694;3
+Easington;;NO;53.654955;0.236412;3
+Ekofisk;;NO;56.52;3.2;3
+Karsto;;NO;59.282;5.541;3
+St. Fergus;;NO;57.569746;-1.774584;3
+Zeebrugge ZPT;;NO;51.420128;3.111682;3
+Bonikowo;;PL;52.120077;16.645469;2
+Brzeznica;;PL;50.1017;21.486;2
+Ciechanow;;PL;52.8814838;20.6197948;2
+Cieszyn;;PL;49.7497638;18.6354709;2
+Damaslawek;;PL;52.836586;17.499403;2
+Daszewo;;PL;54.078486;15.881808;2
+Drozdwicze;;PL;49.8087968;23.6441847;2
+GasPoland;;PL;52;18;4
+GasStoragePL;;PL;52.1;18.6;4
+Gdansk;;PL;54.359;18.615;3
+Goleniow;;PL;53.56382;14.82843;2
+Gustorzyn;;PL;52.6591774;18.8777344;2
+Hermanowice;;PL;49.7230552;22.8148987;3
+Husow;;PL;50.006978;22.264141;1
+Interconnector PL - SK;;PL;49.45;19.56;5
+Interconnector PL-DK;;PL;54.03;14.86;5
+Interconnector PL-LT;;PL;54.35;22.98;5
+Jaroslaw;;PL;50.0161463;22.6777169;2
+Jeleniow;;PL;50.4219019;16.2595368;2
+Kondratki;;PL;53.01781;23.896413;1
+Kosakowo;;PL;54.606362;18.454148;1
+Lasow;;PL;51.2286263;15.0307916;3
+Lwowek;;PL;52.44;16.17;3
+Maszewo;;PL;53.498;15.063;3
+Mogilno;;PL;52.649656;17.8103;1
+Niechorze;;PL;54.09;15.07;3
+Odolanow;;PL;51.57429;17.67392;2
+Oswiecim;;PL;50.0366;19.227;3
+Ploty;;PL;53.804;15.26609;3
+PogorskaWola;;PL;50.013802;21.124868;1
+Rembelszczyzna;;PL;52.37;21.03;3
+Rzeszow;;PL;50.037;22.004;3
+Skoczow;;PL;49.801;18.7897;3
+Strachocina;;PL;49.62671;22.072274;1
+Swarzow;;PL;50.197537;20.945148;1
+Swinoujscie;;PL;53.909167;14.294722;2
+Szamotuly;;PL;52.6116547;16.5779047;2
+Szczecin;;PL;53.44;14.65;3
+Tworzen;;PL;50.3379;19.2591;3
+Wierzchowice;;PL;51.475463;17.306302;1
+Wloclawek;;PL;52.6483303;19.0677357;2
+Wroclaw;;PL;51.12;17.03;3
+Wronow;;PL;51.46113;22.049956;1
+WysokojePL;;PL;52.3956;23.211831;2
+Zambrow;;PL;52.9849941;22.2413857;2
+Braga;;PT;41.541;-8.414;2
+Campo Maior;Campo Maior;PT;39.022;-7.059;2
+Carregado;;PT;39.0226889;-8.9769208;2
+Carrico;;PT;39.983508;-8.85463;1
+Leiria;;PT;39.747;-8.8086;2
+Setubal;;PT;38.532;-8.868;3
+Sines;;PT;37.9419;-8.8435;2
+Vale De Frades;;PT;41.6278474;-6.482318;3
+Valenca Do Minho;;PT;42.0248024;-8.6398019;3
+Arad;;RO;46.1817;21.31056;2
+Balaceanca;;RO;44.389969;26.310924;1
+Bibesti;;RO;44.7815366;23.4907078;2
+Bilciuresti;;RO;44.690654;25.775177;1
+Cetatea de Balta;;RO;46.23695;24.208115;1
+Ghercesti;;RO;44.352658;23.886504;2
+Giurgiu;;RO;43.9046;25.9625;2
+Isaccea;;RO;45.265423;28.4607273;2
+Jupa;;RO;45.4591308;22.186488;2
+Mediesu Aurit;;RO;47.786743;23.1376644;2
+Moldova;Moldova (Falticeni);RO;47.45935;26.297489;2
+Negru Voda;;RO;43.8155851;28.2176216;3
+Podisor;;RO;44.3876;25.716;2
+Recas;;RO;45.801978;21.50833;2
+RO/SB IP;;RO;45.23;21.34;5
+Sarmasel;;RO;46.782414;24.183885;1
+Silistea;;RO;44.4004266;28.1771147;2
+Targu Mures;Targu Mures;RO;46.565927;24.553105;2
+Urziceni;;RO;44.720131;26.60623;1
+Backi Breg;;RS;45.9166015;18.9673241;3
+Banatski Dvor;;RS;45.537223;20.47481;1
+Centa;;RS;45.1370648;20.3957518;2
+Loznica;;RS;44.5313463;19.2067663;3
+Takovo;;RS;44.0368836;20.387069;3
+Zajecar;;RS;43.9015048;22.2738011;3
+Amanakskoe;;RU;53.8;40.7;4
+Beregovaya;;RU;47.215356;39.7212251;2
+Dimitriyevskoe;;RU;47.17;43.9;4
+Gatchinskoye;;RU;59.7;30.07;5
+Kaliningradskoye;;RU;54.836;20.375;3
+Kalugskoe;;RU;53.3;37.62;4
+Kanchurinskoe;;RU;53.7;36.9;4
+Kasimovskoe;;RU;44.7;40.2;3
+Kiryushkinskoe;;RU;55.5;40.8;4
+Krasnodarskoe;;RU;45.54;39.056;4
+Kuschevskoe;;RU;55;34;4
+Mikhaylovskoe;;RU;53.8;40.7;4
+Nevskoye;;RU;54.527717;20.604414;2
+Peschano-Umetskoe;;RU;46.8;40.7;4
+Portovaya;Portovaya Bay /Vyborg;RU;60.5549;28.065696;1
+Punginskoe;;RU;52.8;37.2;4
+Russkaya;;RU;45.6415289;39.7055977;2
+Schelkovskoe;;RU;53.8;36.8;4
+Severo-Stavropolskoe;;RU;44.711;43.7566;3
+Slavyanskaya;Ust-Luga port;RU;59.6533827;28.2696934;2
+Smolensk;;RU;54.7903112;32.0503663;2
+Sovhoznoe;;RU;52.7;37.2;4
+Stepnovskoe;;RU;46.2;41.1;4
+UstLuga;;RU;59.6651;28.2975;2
+Uvyazovskoe;;RU;47.1;42.5;4
+Vyborg;;RU;60.7139529;28.7571571;3
+Yelshanskoe;;RU;45.8;41.4;4
+Brunnsviksholme;;SE;58.922139;17.976153;2
+Gothenburg;;SE;57.70887;11.97456;2
+Nynashamm;;SE;58.902926;17.9465288;2
+Skallen;;SE;56.798359;12.863828;2
+Cersak;;SI;46.7007;15.666789;3
+Distribution;;SI;46.13;14.88;5
+Pince;;SI;46.5302;16.518466;3
+Rigonce;;SI;45.887;15.6809;3
+Sempeter;;SI;45.9266;13.65005;3
+Ajdovscina;;SK;45.8869025;13.909914;2
+Brodske;Brodske_Lanzhot nach DE;SK;48.699;17.025;2
+Budince;;SK;48.5448153;22.1227244;2
+Cersak;;SK;46.699017;15.6679742;3
+Gajary;;SK;48.4522;16.9273;3
+Kidricevo;;SK;46.4050135;15.7947234;2
+Lab;;SK;48.35;16.9;3
+Lab 1. a 2. Stavba PZZP;;SK;48.365;16.961;2
+Lab 3. Stavba PZZP;;SK;48.3777;16.962;2
+Lab 4. Stavba PZZP;;SK;48.3633;16.962;2
+LB4;;SK;48.425456;16.900032;1
+Malacky;;SK;48.447;17.017;3
+Petrzalka;Nach AT Kittsee;SK;48.122;17.1087;2
+Plavecky Peter;Plavecky Peter KNOTEN in  mitten von SK;SK;48.546336;17.316051;1
+Rogatec;;SK;46.2258891;15.7000312;3
+Sempeter;;SK;45.9283576;13.6400285;3
+Uschhorod;;SK;48.546;22.077;2
+Velke Kapusany;;SK;48.482002;22.121625;1
+Vodice;;SK;46.1896643;14.4938539;3
+Vysoka Pri Morave;;SK;48.3277;16.91168;2
+Meric Nehri;;TR;40.980957;26.325508;1
+Sancaali Koeyue;;TR;40.963191;26.383183;1
+Silivri;Silivri (Marmara);TR;41.106836;28.180646;1
+Tarsus;;TR;36.9175;34.883837;2
+Tuz Glu;;TR;38.099356;33.584839;1
+Aleksandrovka;;UA;47.6914432;31.2759129;2
+Ananiev;;UA;47.714758;29.9913264;2
+Balassagyarmat;;UA;48.0711866;19.2937136;3
+Bar;Vinnytsia region;UA;49.0768482;27.6826121;2
+Berdichev;;UA;49.9106591;28.5900313;2
+Bilche Volytsko Uherske;;UA;49.267;23.835;3
+Bohorodchanske;;UA;48.802;24.54;3
+Bohorodtschany;;UA;48.79142;24.571278;1
+Chervonopartyzanske;;UA;48.723;34.666;3
+Csanadpalota;;UA;46.2361111;20.7325;3
+Dashava;;UA;49.26438;24.013077;2
+Dashavske;;UA;49.267;23.835;3
+Dolyna;;UA;48.9764573;23.9892459;2
+Dravaszerdahely;;UA;45.8363562;18.1638527;3
+Glebovka;;UA;50.8;30.3;4
+Gusyatin;;UA;49.073147;26.1831731;2
+Hust;;UA;48.1734633;23.2972476;2
+Kasachya;;UA;49.5833333;36.35;2
+Kegychivka;;UA;49.285989;35.7656;2
+Kehychivske;;UA;49.46;37.36;4
+Kirovograd;;UA;48.507933;32.262317;2
+Krasnopopivske;;UA;49.46;37.36;4
+Krsilov;;UA;49.6492023;26.9757217;2
+Olyshivske;;UA;49.46;37.36;4
+Oparske;;UA;49.44;23.6;4
+Opary;;UA;49.41;23.69;4
+Orlovka;;UA;45.3199;28.45287;2
+Proletarske;;UA;49.0202;35.16;3
+Rohatyn;;UA;49.4099366;24.6106017;2
+Rososh;;UA;48.4942953;23.1435317;2
+Solokha;;UA;49;35;4
+Solokhivske;;UA;49.46;37.36;4
+Stavischenskaya;;UA;49.5405738;30.8772055;2
+Talnoe;;UA;48.887593;30.7044131;2
+Ugersko;;UA;49.302;323.909;3
+Uherske;;UA;49.267;23.835;3
+Uzhgorod;;UA;48.6208;22.287883;3
+Vergunka;;UA;49.6;31.2;4
+Verhunske;;UA;49.46;37.36;4
+Volovets;;UA;48.7114913;23.1850055;2

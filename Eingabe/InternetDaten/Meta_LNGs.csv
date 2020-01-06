@@ -1,0 +1,35 @@
+id;comment;comp_id;start_year;end_year;source;license;storage_LNG_Mt;max_cap_store2pipe_M_m3_per_a
+TEXT;TEXT;TEXT;REAL;REAL;TEXT;TEXT;REAL;REAL
+[];[];[];[YYYY];[yyyy];[];[];[Mt LNG];[M m^3/a]
+Alexandroupolis;;Alexandroupolis;2022;;http://www.gastrade.gr/en/the-company/the-project.aspx;;76900;6100
+Barcelona;;Barcelona;1969;;https://globallnghub.com/wp-content/uploads/2018/09/King.pdf;;380100;17100
+Bilbao;;Bilbao;2003;;https://globallnghub.com/wp-content/uploads/2018/09/King.pdf;;203600;8800
+Brunnsviksholme;;Brunnsviksholme;2011;;https://globallnghub.com/wp-content/uploads/2018/09/King.pdf;;9000;500
+Cartagena;;Cartagena;1989;;https://globallnghub.com/wp-content/uploads/2018/09/King.pdf;;280300;11800
+Delimara;;Delimara;2017;;https://globallnghub.com/wp-content/uploads/2018/09/King.pdf + https://www.sourcewatch.org/index.php/Delimara_Malta_LNG_Terminal;;56600;600
+DragonLNG;;DragonLNG;2009;;https://globallnghub.com/wp-content/uploads/2018/09/King.pdf;;144800;7600
+Dunkerque;;Dunkerque;2016;;https://globallnghub.com/wp-content/uploads/2018/09/King.pdf;;271500;13000
+ElFerrol;;ElFerrol;2007;;https://globallnghub.com/wp-content/uploads/2018/09/King.pdf;;135700;3600
+ElMusel;Musel;ElMusel;2012;;https://globallnghub.com/wp-content/uploads/2018/09/King.pdf;;135700;7000
+FosCavaou;;FosCavaou;2020;;https://globallnghub.com/wp-content/uploads/2018/09/King.pdf;;248900;16500
+FosTonkin;;FosTonkin;1972;;https://globallnghub.com/wp-content/uploads/2018/09/King.pdf;;70100;3400
+GateRotterdam;Rotterdam;GateRotterdam;2018;;https://globallnghub.com/wp-content/uploads/2018/09/King.pdf;;325800;16000
+Gothenburg;;Gothenburg;2018;;https://www.hydrocarbons-technology.com/projects/swedegas-lng-facility-port-gothenburg/;;14900;
+Huelva;;Huelva;1988;;https://globallnghub.com/wp-content/uploads/2018/09/King.pdf;;280300;11800
+IsleOfGrain;;IsleOfGrain;2020;;https://globallnghub.com/wp-content/uploads/2018/09/King.pdf;;452500;27500
+Klaipeda;;Klaipeda;2014;;https://globallnghub.com/wp-content/uploads/2018/09/King.pdf;;76900;4000
+MontoirDeBretagne;;MontoirDeBretagne;1980;;https://globallnghub.com/wp-content/uploads/2018/09/King.pdf;;162900;10000
+Tallinn;Tallinn;Tallinn;2019;;https://globallnghub.com/wp-content/uploads/2018/09/King.pdf + https://news.err.ee/610905/vopak-to-build-initially-4-000-cubic-meter-lng-terminal-at-muuga;;1800;4000
+Nynashamm;;Nynashamm;2011;;https://www.gasinfocus.com/en/indicator/existing-and-planned-lng-terminals/ +https://nauticor.de/lng-terminal-nynaeshamn;;9000;
+Paldiski;;Paldiski;2020;;https://globallnghub.com/wp-content/uploads/2018/09/King.pdf + https://www.lngworldnews.com/tallinna-sadam-alexela-to-work-on-paldiski-lng-terminal/;;72400;2500
+Panigaglia;;Panigaglia;1971;;https://globallnghub.com/wp-content/uploads/2018/09/King.pdf;;45200;3500
+Pori;;Pori;;;https://globallnghub.com/wp-content/uploads/2018/09/King.pdf;;12900;
+PortoLevante;;PortoLevante;2009;;https://globallnghub.com/wp-content/uploads/2018/09/King.pdf;;113100;8000
+Revithoussa;;Revithoussa;2000;;https://globallnghub.com/wp-content/uploads/2018/09/King.pdf;;101800;8250
+Riga;;Riga;2019;;https://globallnghub.com/wp-content/uploads/2018/09/King.pdf;;;5000
+Sagunto;;Sagunto;2006;;https://globallnghub.com/wp-content/uploads/2018/09/King.pdf;;271500;8800
+Sines;;Sines;2003;;https://globallnghub.com/wp-content/uploads/2018/09/King.pdf;;176500;7600
+SouthHook;;SouthHook;2009;;https://globallnghub.com/wp-content/uploads/2018/09/King.pdf;;350700;21000
+Swinoujscie;;Swinoujscie;2020;;https://globallnghub.com/wp-content/uploads/2018/09/King.pdf;;217200;7500
+Toscana;;Toscana;2013;;https://globallnghub.com/wp-content/uploads/2018/09/King.pdf;;61100;3750
+Zeebrugge;;Zeebrugge;2019;;https://globallnghub.com/wp-content/uploads/2018/09/King.pdf;;253400;12000

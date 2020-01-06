@@ -1,0 +1,247 @@
+id;comment;comp_id;start_year;end_year;source;license;store_type;is_H_gas;is_onShore;operator_name;max_workingGas_M_m3;max_workingGas_TWh;max_cap_store2pipe_M_m3_per_d;max_cap_store2pipe_GWh_per_d;max_cap_pipe2store_GWh_per_d;access_regime
+TEXT;TEXT;TEXT;INT;INT;TEXT;TEXT;TEXT;INT;INT;TEXT;REAL;REAL;REAL;REAL;REAL;TEXT
+[];[];[];[yyyy];[yyyy];[];[];[];[];[];[];[M Nm^3];[TWh];[M m^3/d];[GWh/d];[GWh/d];[]
+7Fields;7Fields, Storage Capacity connected to Germany and Austria;7Fields;2011;;https://www.uniper-energy-storage.com/cps/rde/xchg/ust/hs.xsl/3252.htm?rdeLocaleAttr=en;;Leeres Gas Feld;;1;Uniper Energy Storage;;19.415;;242.7;161.8;nTPA
+Aigelsbrunn;Aigelsbrunn;Aigelsbrunn;2011;;http://www.rag-energy-storage.at/en.html;;Leeres Gas Feld;;1;RAG.Energy.Storage;;1.47;;13.6;13.6;nTPA
+Aldbrough1;Aldbrough_1;Aldbrough1;2009;;http://sse.com/whatwedo/wholesale/gasstorage/;;Salz Kaverne;;1;SSE;;2.0819;;342;311;No TPA
+Aldbrough2;Aldbrough_2;Aldbrough2;2999;;http://sse.com/whatwedo/ourprojectsandassets/thermal/Aldbrough/;;Salz Kaverne;;1;SSE;;0.55;;0;0;No TPA
+Alfonsine;Alfonsine;Alfonsine;2026;;http://www.stogit.it/en/index.html;;Leeres Feld;;1;STOGIT;;1.6359;;27.3;27.3;rTPA
+Alkmaar;"Alkmaar, Grijpskerk, Norg (NAM) and Alkmaar (TAQA) = Groningen System; No longer offering capacity, to be considered as a production facility.";Alkmaar;1997;;http://www.taqaglobal.com/our-regions/netherlands/gas-storage/peak-gas-installation/overview?sc_lang=en;;Leeres Gas Feld;;1;TAQA Energy BV;;4.9514;;356.5;39.6;No TPA
+Allmenhausen;Allmenhausen;Allmenhausen;1996;;http://www.thueringerenergie.de/Unternehmen/Ueber_uns/Geschaeftsfelder/Speicher.aspx;;Leeres Gas Feld;;1;TEP (Thueringer Energie Speichergesellschaft);62;0.688;1.488;16.5;8.8;nTPA
+AlsaceSud;Alsace Sud;AlsaceSud;2022;;http://www.storengy.com/countries/france/en/;;Salz Kaverne;;1;Storengy;;2.28;;109.4;34.2;nTPA
+Atwick;Atwick;Atwick;2999;;;;Salz Kaverne;;1;;;2.614;;;;
+BadLauchstaedt_1;Bad Lauchstaedt;BadLauchstaedt;1975;;https://www.vng-gasspeicher.de/storage_locations;;Salt cavern;;1;VNG Gasspeicher;440;;5.712;;;nTPA
+BadLauchstaedt_2;Bad Lauchstaedt;BadLauchstaedt;2020;;;;;;;;65;;;;;
+BadLauchstaedt_3;Bad Lauchstaedt;BadLauchstaedt;;;;;;;;;955;;22.08;;;
+BagnoloMella;Bagnolo Mella;BagnoloMella;2999;;http://www.edisonstoccaggio.it/en;;Leeres Feld;;1;Edison Stoccaggio;;0.968;;6.6;6.6;rTPA
+Balaceanca;Balaceanca;Balaceanca;1992;;http://www.romgaz.ro/en/inmagazinare;;Leeres Gas Feld;;1;Romgaz;;0.5407;;6.6;5.4;rTPA
+BanatskiDvor_1;BanatskiDvor;BanatskiDvor;2011;;http://www.srbijagas.com/naslovna.1.html;;Leeres Gas Feld;;1;Srbijagas;450;4.95;;55;38.5;rTPA
+BanatskiDvor_2;BanatskiDvor;BanatskiDvor;2017;;http://www.srbijagas.com/naslovna.1.html;;Leeres Gas Feld;;1;Srbijagas;;3.85;;55;22;rTPA
+Bergermeer;Bergermeer;Bergermeer;2015;;http://www.gasstoragebergermeer.com/gas-storage-bergermeer-2/;;Leeres Gas Feld;;1;TAQA Energy BV;;45.6;;634.5;467.8;nTPA
+Berlin;Berlin;Berlin;1992;;http://www.berliner-erdgasspeicher.de/en/Pages/default.aspx;;Aquifer;;1;BES (Berliner Erdgasspeicher);180;1.665;5.4;59.9;32;nTPA
+Bernburg;Bernburg;Bernburg;1974;;http://www.vng-gasspeicher.de/content/en/Speicher/index.html;;Salz Kaverne;;1;VNG Gasspeicher;1039;;24;;;nTPA
+Beynes;Beynes;Beynes;1956;;https://www.storengy.com/countries/france/en/nos-sites/beynes.html;;;1;1;Storengy;;13.195;;;;
+Bierwang;Bierwang;Bierwang;1975;;https://www.uniper-energy-storage.com/cps/rde/xchg/ust/hs.xsl/3252.htm?rdeLocaleAttr=en;;Leeres Gas Feld;;1;Uniper Energy Storage;1450;10.08;28.8;349.4;268.8;nTPA
+Bilciuresti;Bilciuresti;Bilciuresti;1983;;http://www.romgaz.ro/en/inmagazinare;;Leeres Gas Feld;;1;Romgaz;;14.0327;;170.7;139.1;rTPA
+Bonikowo_1;Bonikowo;Bonikowo;2010;;http://www.pgnig.pl/reports/annualreport2012/en/ar-obrot-magazynowanie-2.html;;Leeres Feld;;1;PGNiG;;2.3;;27.6;19.3;No TPA
+Bordolano_2;Bordolano;Bordolano;2016;;http://www.stogit.it/en/index.html;;Leeres Feld;;1;STOGIT;;;;;;rTPA
+Bordolano_3;Bordolano;Bordolano;2019;;http://www.stogit.it/en/index.html;;Leeres Feld;;1;STOGIT;;8.7248;;185.4;163.6;rTPA
+Breitbrunn;Breitbrunn;Breitbrunn;1996;;https://www.uniper-energy-storage.com/cps/rde/xchg/ust/hs.xsl/3252.htm?rdeLocaleAttr=en;;Leeres Gas Feld;;1;Uniper Energy Storage;1080;11.11;12.48;139.8;67.2;nTPA
+BruggrafBernsdorf;BruggrafBernsdorf;BruggrafBernsdorf;1970;;https://www.ontras.com/fileadmin/user_upload/Dokumente_Download/Publikationen/ONTRAS_Netzpufferanlage_Burggraf_Bernsdorf.pdf;;Salz Kaverne;;1;Ontras Gastransport;3;0.0345;0.96;0;0;No TPA
+Brugherio;Brugherio;Brugherio;1966;;http://www.stogit.it/en/index.html;;Leeres Feld;;1;STOGIT;;;;;;rTPA
+Brzeznica_1;Brzeznica;Brzeznica;1979;;https://www.osm.pgnig.pl/en;;Leeres Feld;;1;Operator Systemu Magazynowania Sp. z o.o.;;0.7313;;10.4;12.4;rTPA
+Brzeznica_1;Brzeznica;Brzeznica;2017;;https://www.osm.pgnig.pl/en;;Leeres Feld;;1;Operator Systemu Magazynowania Sp. z o.o.;;0.3938;;5.7;3.8;rTPA
+Buchholz;Buchholz;Buchholz;;2023;https://www.energiefachmagazin.de/Branchen-News/VNG-Gasspeicher-GmbH-legt-Erdgasspeicher-Buchholz-still;;;;1;VNG Gasspeicher;175;;1.92;;;
+Carrico_1;Carrico;Carrico;2003;;https://www.ign.ren.pt/en/armazenamento-subterraneo3;;Salz Kaverne;;1;REN Armazenagen;239;3.57;;85;24;rTPA
+Carrico_2;Carrico;Carrico;2017;;https://www.ign.ren.pt/en/armazenamento-subterraneo4;;Salz Kaverne;;1;REN Armazenagen;;0;;0;8.2;rTPA
+Carrico_3;Carrico;Carrico;2022;;https://www.ign.ren.pt/en/armazenamento-subterraneo4;;Salz Kaverne;;1;REN Armazenagen;;0.69;;0;0;rTPA
+Caythorpe;Caythorpe;Caythorpe;2999;;http://www.caythorpegasstorage.com/caythorpe/;;Leeres Gas Feld;;1;Centrica Storage;;2.3371;;0;0;nTPA
+Cellino;Cellino;Cellino;1984;;http://www.edisonstoccaggio.it/en;;Leeres Gas Feld;;1;Edison Stoccaggio;;1.2793;;9;9;rTPA
+CereLaRonde;CereLaRonde;CereLaRonde;1993;;https://www.storengy.com/countries/france/en/nos-sites/cere-la-ronde.html;;Aquifer;1;1;Storengy;;13.362;;;;nTPA
+Cerville;Cerville;Cerville;1970;;http://www.storengy.com/countries/france/en/;;Aquifer;1;1;Storengy;;16.7;;;;nTPA
+CetateaDeBalta;Cetatea de Balta;CetateaDeBalta;;;http://www.romgaz.ro/en/inmagazinare;;Leeres Gas Feld;;1;Romgaz;;1.0481;;12.4;10.1;rTPA
+Chemery;Chemery;Chemery;1968;;http://www.storengy.com/countries/france/en/;;Aquifer;1;1;Storengy;;0.08;;;;nTPA
+Chiren_1;Chiren;Chiren;1974;;http://www.bulgartransgaz.bg/en/pages/transstorge-110.html;;Leeres Gas Feld;;1;Bulgartransgaz;;6.27;;47.9;47.9;rTPA
+Chiren_2;Chiren;Chiren;2021;;http://www.bulgartransgaz.bg/en/pages/transstorge-110.html;;Leeres Gas Feld;;1;Bulgartransgaz;;9.7698;;66.1;66.1;rTPA
+Collalto;Collalto;Collalto;1994;;http://www.edisonstoccaggio.it/en;;Leeres Gas Feld;;1;Edison Stoccaggio;;6.1322;;84.6;68.7;rTPA
+Cornegliano;Cornegliano;Cornegliano;2017;;http://italgasstorage.it/eng/progetto.html;;Leeres Gas Feld;;1;Ital Gas Storage;;24.2;;297;297;rTPA
+Cortemaggiore;Cortemaggiore;Cortemaggiore;1964;;http://www.stogit.it/en/index.html;;Leeres Feld;;1;STOGIT;;;;;;rTPA
+CugnoLeMacine;CugnoLeMacine;CugnoLeMacine;2999;;http://www.geogastock.it/ITA/Home.asp;;Leeres Feld;;1;Geogastock;;8.8;;110;110;rTPA
+Damaslawek;Damaslawek;Damaslawek;2026;;http://en.gaz-system.pl//;;Salz Kaverne;;1;GAZ-SYSTEM S.A.;;5.0342;;200;100;rTPA
+Damboice;Damboice;Damboice;2016;;http://www.mnd.eu/en/2014-11-26-12-13-02/mnd-group-companies;;Leeres Gas Feld;;1;Moravia Gas Storage;;4.7519;;74.2;42.4;nTPA
+Daszewo_1;Daszewo;Daszewo;2009;;http://www.pgnig.pl/reports/annualreport2012/en/ar-obrot-magazynowanie-2.html;;Leeres ?l Feld;;1;PGNiG;;0.345;;4.4;2.8;No TPA
+Daszewo_2;Daszewo;Daszewo;2999;;http://www.pgnig.pl/reports/annualreport2012/en/ar-obrot-magazynowanie-2.html;;Leeres ?l Feld;;1;PGNiG;;0.345;;11.5;11.5;No TPA
+Deborah;Deborah;Deborah;2999;;;;Leeres Feld;;0;ENI;;50.6;;0;0;nTPA
+DolniBojanovice_1;Dolni Dunajovice;DolniBojanovice;1989;;https://www.innogy-gasstorage.cz/en/index/;;Leeres Gas Feld;;1;innogy Gas Storage;;;;;;nTPA
+DolniBojanovice_2;Dolni Bojanovice;DolniBojanovice;1999;;http://www.sppstorage.cz/#;;Leeres ?l/Gas Feld;;1;SPP Storage;;6.012;;93.9;73.1;nTPA
+Elsfleth_EWE;;Elsfleth_EWE;;;;;;;;;;;;;;
+Empelde_1;Empelde;Empelde;1982;;http://www.gasspeicher-hannover.de/startseite.html;;Salz Kaverne;;1;Gasspeicher Hannover;284;3.082;8.64;140.8;44.2;nTPA
+Empelde_2;Empelde;Empelde;2020;;;;;;;;100;;;;;
+EnergyStock;EnergyStock;EnergyStock;2011;;http://www.energystock.com/;;Salt cavern;;1;EnergyStock BV;;2.774;;252;215;nTPA
+EpeH_1;Epe Uniper H-Gas;Epe_Uniper_H;1976;;https://www.uniper-energy-storage.com/cps/rde/xchg/ust/hs.xsl/3252.htm?rdeLocaleAttr=en;;Salz Kaverne;1;1;Uniper Energy Storage;;16.538;;469.2;331.2;nTPA
+EpeH_10;Epe-ZES;Epe_ZES;2020;;;;;1;;Zechstein Energy Storage GmbH;177;;;;;
+EpeH_2;Epe innogy H-Gas;Epe_innogy_H;1990;;http://www.rwe.com/web/cms/en/531750/rwe-gasspeicher/;;Salz Kaverne;1;1;RWE;523;4.767;20.88;238.2;76.7;nTPA
+EpeH_3;Epe innogy NL;Epe_innogy_NL;2006;;http://www.rwe.com/web/cms/en/531750/rwe-gasspeicher/;;Salz Kaverne;1;1;RWE;313;2.9863;12;118.2;47.3;nTPA
+EpeH_4;Epe Nuon;Epe_Nuon;2007;;http://corporate.vattenfall.com/about-vattenfall/operations/market-transparency/gas-storage/;;Salz Kaverne;1;1;Nuon;;3.338;;141.6;85;nTPA
+EpeH_5;Epe Trianel;Epe_Trianel;2008;;http://www.trianel-gasspeicher.com/;;Salz Kaverne;1;1;Trianel;204;2.2905;14.4;165.7;82.9;nTPA
+EpeH_6;Epe Eneco;Epe_Eneco;2012;;https://www.eneco.nl/over-ons/projecten/gasspeicher/voorraadniveau;;Salz Kaverne;1;1;Eneco;94;1.4352;9.6;93.6;93.6;nTPA
+EpeH_7;Epe KGE;Epe_KGE;2012;;http://www.kge-gasspeichergesellschaft.de/;;Salz Kaverne;1;1;Kommunale Gasspeichergesellschaft Epe;140;2.2116;7.2;109.4;41;nTPA
+EpeH_8;Epe-E.ON;Epe_EON;2020;;;;;1;;E.ON Gas Storage GmbH;50;;;;;
+EpeH_9;Epe-KGE;Epe_KGE;2020;;;;;1;;Kommunale Gasspeichergesellschaft Epe;59;0.441;;14.3;5.4;nTPA
+EpeL_1;Epe Uniper L-Gas;Epe_Uniper_L;1976;;https://www.uniper-energy-storage.com/cps/rde/xchg/ust/hs.xsl/3252.htm?rdeLocaleAttr=en;;Salz Kaverne;0;1;Uniper Energy Storage;;4.096;;282.2;82.3;nTPA
+EpeL_2;Epe innogy L-Gas;Epe_innogy_L;2012;;http://www.rwe.com/web/cms/en/531750/rwe-gasspeicher/;;Salz Kaverne;0;1;RWE;90;1.8503;9.6;96.6;48.3;nTPA
+Eschenfelden;Eschenfelden;Eschenfelden;1976;;https://www.n-ergie.de/geschaeftskunden/produkte/erdgas/erdgasspeicher.html;;Aquifer;;1;N-ERGIE;72;0.276;3.12;7.2;2.7;nTPA
+Etrez_1;Etrez;Etrez;2022;;http://www.storengy.com/countries/france/en/;;Salz Kaverne;1;1;Storengy;;0.68;;45.6;0;nTPA
+Etzel_1;Etzel EGL 1+2;Etzel_EGL_1_2;1993;;https://www.uniper-energy-storage.com/cps/rde/xchg/ust/hs.xsl/3252.htm?rdeLocaleAttr=en;;Salz Kaverne;;1;Uniper Energy Storage;1248;11.548;31.68;361.2;202.5;nTPA
+Etzel_2;Etzel Crystal;Etzel_Crystal;2012;;https://www.enbw.com/unternehmen/konzern/geschaeftsfelder/speicher/gasspeicher/zahlen-daten-fakten.html;;Salz Kaverne;;1;Crystal, Friedeburger Speicherbetriebsgesellschaft;400;2.421;14.4;94.1;54;nTPA
+Etzel_3;Etzel EKB;Etzel_EKB;2012;;http://www.ekb-storage.de/de/home/;;Salz Kaverne;;1;EKB (Etzel-Kavernenbetriebsgesellschaft);651;8.326;16.8;220.8;124.2;nTPA
+Etzel_4;Etzel ESE;Etzel_ESE;2012;;https://www.uniper-energy-storage.com/cps/rde/xchg/ust/hs.xsl/3252.htm?rdeLocaleAttr=en;;Salz Kaverne;;1;Uniper Energy Storage;2210;13.144;54;396.7;427.4;nTPA
+Etzel_5;Etzel-IVG;Etzel_IVG;2020;;;;;;;IVG Caverns GmbH;2200;;;;;
+FiumeTreste_1;Fiume Treste;FiumeTreste;1982;;http://www.stogit.it/en/index.html;;Leeres Feld;;1;STOGIT;;;;;;rTPA
+FiumeTreste_2;Fiume Treste;FiumeTreste;2021;;http://www.stogit.it/en/index.html;;Leeres Feld;;1;STOGIT;;2.1812;;0;0;rTPA
+FiumeTreste_3;Fiume Treste F;FiumeTreste;2021;;http://www.stogit.it/en/index.html;;Leeres Feld;;1;STOGIT;;2.1812;;43.6;43.6;rTPA
+Frankenthal;Frankenthal;Frankenthal;1979;;https://www.enovos.de/industrie/ueber-uns/erdgasspeicher;;Aquifer;;1;Enovos Storage;90;0.888;3.12;26.6;6.5;nTPA
+Fronhofen;Fronhofen;Fronhofen;1997;;http://www.storengy.com/countries/deutschland/en/products-services.html;;Leeres Gas Feld;;1;storengy Deutschland;15;0.1327;0.84;8;5.4;nTPA
+Galata_1;Galata;Galata;2999;;http://www.petroceltic.com/operations/bulgaria.aspx;;Leeres Gas Feld;;0;Petroceltic;;7.98;;0;0;rTPA
+Galata_2;Galata;Galata;2999;;http://www.petroceltic.com/operations/bulgaria.aspx;;Leeres Gas Feld;;0;Petroceltic;;5.7;;0;0;rTPA
+Gatchinskoye;Gatchinskoye;Gatchinskoye;1963;;http://www.gazprom.com/about/production/underground-storage/;;Aquifer;;1;Gazprom;;2.206;;22.1;19.9;
+Gateway;Gateway;Gateway;2999;;http://www.gatewaystorage.co.uk/;;Salz Kaverne;;0;Gateway Storage;;15.8483;;0;0;nTPA
+Gaviota_1;Gaviota;Gaviota;1993;;http://www.enagas.es/enagas/en/Transporte_de_gas/Almacenamientos_Subterraneos;;Leeres Feld;;0;Enagas;;18.34;;66.3;52.3;rTPA
+Gaviota_2;Gaviota;Gaviota;2999;;http://www.enagas.es/enagas/en/Transporte_de_gas/Almacenamientos_Subterraneos;;Leeres Feld;;0;Enagas;;6.7454;;107;62.8;rTPA
+GermignySousCoulombs;GermignySousCoulombs;GermignySousCoulombs;1982;;http://www.storengy.com/countries/france/en/;;Aquifer;1;1;Storengy;;0.03;;;;nTPA
+Ghercesti;Ghercesti;Ghercesti;2004;;http://www.romgaz.ro/en/inmagazinare;;Leeres Gas Feld;;1;Romgaz;;1.5861;;18.9;15.4;rTPA
+GournaySurAronde;GournaySurAronde;GournaySurAronde;1976;;http://www.storengy.com/countries/france/en/;;Aquifer;;1;Storengy;;13.1;;246.8;105.1;nTPA
+Grijpskerk;"Grijpskerk, Grijpskerk, Norg (NAM) and Alkmaar (TAQA) = Groningen System; No longer offering capacity, to be considered as a production facility.";Grijpskerk;1997;;http://www.nam.nl/en/about-nam/facts-and-figures.html;;Leeres Gas Feld;;1;NAM;;27.6667;;719.3;172.9;No TPA
+GrubisnoPolje;Grubisno Polje;GrubisnoPolje;2020;;http://www.psp.hr/home;;Leeres Gas Feld;;1;PSP;;0.6;;22;15;rTPA
+GSDVirtualGasStorageDK;GSD virtual gas storage;GSDVirtualGasStorageDK;;;http://gaslager.energinet.dk/EN/Pages/default.aspx;;Aquifer;;1;Gas Storage Denmark;;12.3;;196.8;100.8;nTPA
+Haehnlein;Haehnlein;Haehnlein;1960;;http://mndgsgermany.com/;;Aquifer;;1;MND Gas Storage Germany;80;0.904;2.4;27.1;16.3;nTPA
+HaidachStorage_1;Haidach 5;HaidachStorage_RAG;2006;;http://www.rag-energy-storage.at/en.html;;Leeres Gas Feld;;1;RAG.Energy.Storage;;0.181;;5.4;5.4;nTPA
+HaidachStorage_2;Haidach, Storage Capacity solely connected to Germany;HaidachStorage_Astora;2007;;https://www.astora.de/storage-locations/haidach-storage-facility.html?L=1;;Leeres Gas Feld;;1;astora;;10.4435;;104.6;90.2;nTPA
+HaidachStorage_3;Haidach,Storage Capacity solely connected to Germany;HaidachStorage_GSA;2007;;http://www.gsa-services.ru/;;Leeres Gas Feld;;1;GSA;;19.5536;;195.5;177.8;nTPA
+Hajduszoboszlo;Hajduszoboszlo;Hajduszoboszlo;1981;;http://www.magyarfoldgaztarolo.hu/en/Lapok/default.aspx;;Leeres Feld;;1;Hungarian Gas Storage;;17.4042;;210.1;109.3;rTPA
+Harsefeld;Harsefeld;Harsefeld;1992;;http://www.storengy.com/countries/deutschland/en/products-services.html;;Salt cavern;;1;storengy Deutschland;127;1.263;7.2;81.7;24.6;nTPA
+HatfieldMoor;HatfieldMoor;HatfieldMoor;2000;;http://www.scottishpower.com/pages/hatfield_moor_gas_storage_facility.asp;;Leeres Gas Feld;;1;Scottish Power;;1.254;;19.8;29;No TPA
+Hauterives;Hauterives;Hauterives;2999;;https://www.storengy.com/countries/france/en/nos-sites/manosque.html;;Salz Kaverne;;1;Storengy;;1.14;;91.2;22.8;nTPA
+HillTopFarm_1;HillTopFarm;HillTopFarm;2015;;http://media.edfenergy.com/Misc/AboutUs.aspx;;Salz Kaverne;;1;EDF Energy;;0.22;;23.1;60.5;No TPA
+HillTopFarm_2;HillTopFarm;HillTopFarm;2017;;http://media.edfenergy.com/Misc/AboutUs.aspx;;Salz Kaverne;;1;EDF Energy;;0.869;;141.9;0;No TPA
+HJe;Hÿje;HJe;1998;;https://www.innogy-gasstorage.cz/en/index/;;Stein Kaverne;;1;innogy Gas Storage;;;;;;nTPA
+HoleHouseFarm;Hole House Farm;HoleHouseFarm;2001;;http://media.edfenergy.com/Misc/AboutUs.aspx;;Salz Kaverne;;1;EDF Energy;;0.55;;121;118.8;No TPA
+Holford;Holford;Holford;2012;;https://www.uniper-energy-storage.com/cps/rde/xchg/ust/hs.xsl/3437.htm?rdeLocaleAttr=en;;Salz Kaverne;;1;Holford Gas Storage (Uniper Energy Storage);;1.8197;;238.3;238.3;No TPA
+HolfordBrinefield;Holford Brinefield;HolfordBrinefield;2999;;http://www.kgsp.co.uk/;;Salz Kaverne;;1;Keuper Gas Storage;;5.2133;;354.5;354.5;nTPA
+Hornsea;Hornsea;Hornsea;1979;;http://sse.com/whatwedo/wholesale/gasstorage/;;Salz Kaverne;;1;SSE;;2.652;;130;24;nTPA
+HumblyGrove;HumblyGrove;HumblyGrove;2005;;http://www.humblyenergy.co.uk/about-us#useful-information;;Leeres Gas Feld;;1;Humbly Grove Energy;;3.1161;;81;93.5;No TPA
+Huntorf;Huntorf;Huntorf;1980;;;;;;;EWE Gasspeicher;308;;10.8;;;
+Husow;Husow;Husow;1987;;https://www.osm.pgnig.pl/en;;Leeres Feld;;1;Operator Systemu Magazynowania Sp. z o.o.;;5.625;;64.6;46.7;rTPA
+Incukalns_1;Incukalns;Incukalns;2026;;http://www.lg.lv/index.php?id=3376&lang=eng;;Aquifer;;1;Latvijas Gaze;;5.28;;0;0;rTPA
+Incukalns_2;Incukalns;Incukalns;1969;;http://www.lg.lv/index.php?id=3376&lang=eng;;Aquifer;;1;Latvijas Gaze;;25.52;;330;187;rTPA
+Incukalns_3;Incukalns;Incukalns;2019;;http://www.lg.lv/index.php?id=3376&lang=eng;;Aquifer;;1;Latvijas Gaze;;0;;22;0;rTPA
+Incukalns_4;Incukalns;Incukalns;2021;;http://www.lg.lv/index.php?id=3376&lang=eng;;Aquifer;;1;Latvijas Gaze;;0;;33;0;rTPA
+InzenhamWest;Inzenham-West;InzenhamWest;1982;;http://www.dea-speicher.de/en;;Leeres Feld;;1;DEA Speicher;500;4.768;6.12;80.6;53.8;nTPA
+Islandmagee;Islandmagee;Islandmagee;2999;;http://www.islandmageestorage.com/;;Salz Kaverne;;1;Islandmagee Storage;;5.5;;242;132;nTPA
+Izaute;Izaute;Izaute;1981;;http://www.tigf.fr/en/what-we-can-offer/storage.html;;Aquifer;;1;TIGF;;;;;;nTPA
+Jemgum_1;Jemgum astora, The initial gas filling started in September 2013, first commercial operations were conducted in 2014/15.;Jemgum_Astora;2013;;https://www.astora.de/storage-locations/jemgum-storage-facility.html?L=1;;Salz Kaverne;;1;astora;;2.892;;50.4;15.6;nTPA
+Jemgum_2;Jemgum H;Jemgum_EWE;2013;;http://www.ewe-gasspeicher.de/english/index.php;;Salz Kaverne;1;1;EWE Gasspeicher;178;4.3125;6;69;55.2;nTPA
+Jemgum_3;Jemgum astora, The storage facility is continuously being expanded until reaching its full capacity.;Jemgum_Astora;2018;;https://www.astora.de/storage-locations/jemgum-storage-facility.html?L=2;;Salz Kaverne;;1;astora;;6.018;;0;0;nTPA
+Jemgum_4;Jengum_WINGAS;Jengum_WINGAS;2020;;;;;;;astora;1200;;;;;
+Kaliningradskoye;Kaliningradskoe;Kaliningradskoye;2013;;http://www.gazprom.com/about/production/underground-storage/;;Salt cavern;;1;Gazprom;;2.8678;;132.4;119.1;
+Kalle;Kalle;Kalle;;2016;;;;;;RWE;220;;10.8;;;
+Kardoskut;Kardoskut;Kardoskut;1978;;http://www.magyarfoldgaztarolo.hu/en/Lapok/default.aspx;;Leeres Feld;;1;Hungarian Gas Storage;;2.9714;;30.8;22.8;rTPA
+Katharina_1;Katharina;Katharina;2012;;http://www.ugs-katharina.de/en/unternehmen.html;;Salz Kaverne;;1;Erdgasspeicher Peissen;159;2.346;2.784;0;0;nTPA
+Katharina_2;Katharina;Katharina_EWE;2020;;;;;;;EWE Gasspeicher;455;;;;;
+KielRoenne;Kiel-Roenne;KielRoenne;1971;;https://www.uniper-energy-storage.com/cps/rde/xchg/ust/hs.xsl/3252.htm?rdeLocaleAttr=en;;Salz Kaverne;;1;Uniper Energy Storage;117;0.28;2.4;14.5;6.7;nTPA
+KingStreet;King Street;KingStreet;2999;;http://www.kingstreetenergy.com/;;Salz Kaverne;;1;King Street Energy;;3.828;;352;352;nTPA
+KinsaleSouthwest;KinsaleSouthwest;KinsaleSouthwest;2006;2017;http://www.kinsaleenergy.ie/gas-storage.html;;Leeres Feld;;0;Kinsale Energy;230;2.53;;28.6;18.7;nTPA
+Kirchheilingen;Kirchheilingen;Kirchheilingen;1973;;https://www.vng-gasspeicher.de/storage_locations;;Leeres Gas Feld;;1;VNG Gasspeicher;190;2.0194;3;33.7;37.7;nTPA
+Kosakowo_1;Kosakowo;Kosakowo;2014;;https://www.osm.pgnig.pl/en;;Salz Kaverne;;1;Operator Systemu Magazynowania Sp. z o.o.;;1.3269;;107;26.8;rTPA
+Kosakowo_2;Kosakowo;Kosakowo;2023;;https://www.osm.pgnig.pl/en;;Salz Kaverne;;1;Operator Systemu Magazynowania Sp. z o.o.;;1.4607;;0;0;rTPA
+Kraak;Kraak;Kraak;2000;;https://www.uniper-energy-storage.com/cps/rde/xchg/ust/hs.xsl/3252.htm?rdeLocaleAttr=en;;Salz Kaverne;;1;Uniper Energy Storage;280;3.046;9.6;107.5;51.9;nTPA
+Krummhoern;Krummhoern;Krummhoern;1977;;https://www.uniper-energy-storage.com/cps/rde/xchg/ust/hs.xsl/3252.htm?rdeLocaleAttr=en;;Salz Kaverne;;1;Uniper Energy Storage;225;2.506;6.72;78;24.8;nTPA
+LB4_1;Lÿb complex (incl. Gajary-Baden);LB4_Nafta;1977;;http://www.nafta.sk/en/about-gas-storage;;Leeres Gas Feld;;1;Nafta;;29.058;;403;339;nTPA
+LB4_2;Lÿb 4;LB4_Pozagas;1997;;http://www.pozagas.sk/en/?PHPSESSID=8d83cc7890abb7980f6793cf56633a72;;Leeres Gas Feld;;1;Pozagas;;6.9476;;72.7;72.7;nTPA
+LB4_3;Lÿb complex;LB4_Nafta;2021;;http://www.nafta.sk/en/about-gas-storage;;Leeres Gas Feld;;1;Nafta;;5.8328;;106.1;84.8;nTPA
+Lesum_1;Lesum_Storengy;Lesum_Storengy;2000;;http://www.storengy.com/countries/deutschland/en/products-services.html;;Salz Kaverne;;1;storengy Deutschland;73;1.507;3.84;52;24.8;nTPA
+Lesum_2;Lesum_Wesernetz;Lesum_Wesernetz;2000;;https://www.wesernetz.de/netznutzung/bremen/gasnetz-speicheranlagen.php;;Salz Kaverne;;1;wesernetz Bremen;156;0.8625;5.28;0;0;nTPA
+LilleTorup;Lille Torup;LilleTorup;1987;;http://gaslager.energinet.dk/EN/Pages/default.aspx;;Salz Kaverne;;1;Gas Storage Denmark;;;;;;nTPA
+Lobodice;Lobodice;Lobodice;1965;;https://www.innogy-gasstorage.cz/en/index/;;Aquifer;;1;innogy Gas Storage;;;;;;nTPA
+Loenhout;Loenhout;Loenhout;1985;;http://www.fluxys.com/belgium/en/Services/Storage/Storage;;Aquifer;;1;Fluxys;700;8.183;;169.5;88.1;rTPA
+Lussagnet;Lussagnet;Lussagnet;1957;;http://www.tigf.fr/en/what-we-can-offer/storage.html;;Aquifer;;1;TIGF;;;;;;nTPA
+Manosque;Manosque;Manosque;1993;;https://www.storengy.com/countries/france/en/nos-sites/manosque.html;;;1;1;Storengy;;5.534;;;;
+Marismas;Marismas;Marismas;2012;;http://www.gasnaturalfenosa.com/en/activities/lines+of+business/1285338591925/supply+and+transportation+of+gas.html;;Leeres Feld;;1;Gas Natural Fenosa;;1.615;;4.2;4.2;rTPA
+Minerbio_1;Minerbio;Minerbio;1975;;http://www.stogit.it/en/index.html;;Leeres Feld;;1;STOGIT;;;;;;rTPA
+Minerbio_2;Minerbio;Minerbio;2020;;http://www.stogit.it/en/index.html;;Leeres Feld;;1;STOGIT;;4.5805;;0;21.8;rTPA
+MoeckowH;Moeckow H;MoeckowH;2020;;http://www.ewe-gasspeicher.de/english/index.php;;Salz Kaverne;1;1;EWE Gasspeicher;;0;;0;0;nTPA
+Mogilno_1;Mogilno;Mogilno;1997;;https://www.osm.pgnig.pl/en;;Salz Kaverne;;1;Operator Systemu Magazynowania Sp. z o.o.;;6.6244;;200.5;106.9;rTPA
+Mogilno_2;Mogilno;Mogilno;2021;;https://www.osm.pgnig.pl/en;;Salz Kaverne;;1;Operator Systemu Magazynowania Sp. z o.o.;;0.4049;;120.3;0;rTPA
+Mogilno_3;Mogilno;Mogilno;2023;;https://www.osm.pgnig.pl/en;;Salz Kaverne;;1;Operator Systemu Magazynowania Sp. z o.o.;;1.3368;;0;0;rTPA
+Moldova;Moldova;Moldova;2023;;http://www.romgaz.ro/en/content/ugs-n-366-new-gas-storage-facility-romania;;Leeres Feld;;1;Romgaz;;2.16;;21.6;21.6;rTPA
+Mozyrskoye_1;Mozyrskoye;Mozyrskoye;2008;;http://belarus-tr.gazprom.ru/;;Salz Kaverne;;1;Gazprom Transgaz Belarus;;5.515;;220.6;0;
+Mozyrskoye_2;Mozyrskoye;Mozyrskoye;2020;;http://belarus-tr.gazprom.ru/;;Salz Kaverne;;1;Gazprom Transgaz Belarus;;5.515;;0;0;
+Nevskoye;Nevskoye;Nevskoye;1975;;http://www.gazprom.com/about/production/underground-storage/;;Aquifer;;1;Gazprom;;18.751;;253.7;228.3;
+NorgLangelo_1;"Norg, Grijpskerk, Norg (NAM) and Alkmaar (TAQA) = Groningen System; No longer offering capacity, to be considered as a production facility.";NorgLangelo;1997;;http://www.nam.nl/en/about-nam/facts-and-figures.html;;Leeres Gas Feld;;1;NAM;;69.8056;;758.9;448.8;No TPA
+NorgLangelo_2;NorgLangelo;NorgLangelo;;;;;;;;;;;;;;
+Nuettermoor_H;Nuetttermoor H-1, Storage Capacity connected to the Netherlands (GTS), E.ON share of 109,3 mcm solely used in NL;Nuettermoor_H;1979;;http://www.ewe-gasspeicher.de/english/index.php;;Salz Kaverne;1;1;EWE Gasspeicher;1314;1.832;35.52;69.6;48.7;nTPA
+Nuettermoor_L;Nuettermoor L;Nuettermoor_L;1979;;http://www.ewe-gasspeicher.de/english/index.php;;Salz Kaverne;0;1;EWE Gasspeicher;;0;;0;0;nTPA
+NussdorfZagling;Nussdorf, Storage Capacity connected to Germany and Austria;NussdorfZagling;2014;;http://www.rag-energy-storage.at/en.html;;Leeres Gas Feld;;1;RAG.Energy.Storage;;3.257;;40.7;32.6;nTPA
+Okoli;Okoli;Okoli;1988;;http://www.psp.hr/home;;Leeres Gas Feld;;1;PSP;558;5.53;;54.5;34.3;rTPA
+Osipovichskoye;Osipovichskoye;Osipovichskoye;1976;;http://belarus-tr.gazprom.ru/;;Aquifer;;1;Gazprom Transgaz Belarus;;3.309;;44.1;0;
+PalazzoMoroni;PalazzoMoroni;PalazzoMoroni;2017;;http://www.edisonstoccaggio.it/en;;Leeres Gas Feld;;1;Edison Stoccaggio;;0.7401;;9.5;9.5;rTPA
+Peckensen_1;Peckensen;Peckensen;2002;;http://www.storengy.com/countries/deutschland/en/products-services.html;;Salz Kaverne;;1;storengy Deutschland;400;4.394;22.08;232;84.7;nTPA
+Peckensen_2;Peckensen;Peckensen;2020;;;;;;;storengy Deutschland;480;;;;;
+Pinasses;Pinasses;Pinasses;2022;;http://www.gasnaturalfenosa.com/en/activities/lines+of+business/1285338591925/supply+and+transportation+of+gas.html;;Salz Kaverne;;1;Gas Natural Fenosa;;2.7912;;162.8;104.7;rTPA
+Poggiofiorito;Poggiofiorito;Poggiofiorito;2999;;http://ir.gasplus.it/home/show.php?menu=00002;;Leeres Feld;;1;Gas Plus Storage;;1.826;;18.7;18.7;rTPA
+Preesall;Preesall;Preesall;2999;;http://www.halite-energy.co.uk/our-project/project-overview/;;Salz Kaverne;;1;Halite Energy Group;;0.2805;;330;330;nTPA
+Pribugskoye;Pribugskoye;Pribugskoye;2000;;http://belarus-tr.gazprom.ru/;;Leeres Gas Feld;;1;Gazprom Transgaz Belarus;;6.618;;52.9;0;
+Puchkirchen;Puchkirchen, GCV 11,31;Puchkirchen;1982;;http://www.rag-energy-storage.at/en.html;;Leeres Gas Feld;;1;RAG.Energy.Storage;;12.215;;141.1;141.1;nTPA
+Pusztaederics;Pusztaederics;Pusztaederics;1979;;http://www.magyarfoldgaztarolo.hu/en/Lapok/default.aspx;;Leeres Feld;;1;Hungarian Gas Storage;;3.6082;;30.8;26.5;rTPA
+Reckrod;Reckrod;Reckrod;2001;;http://www.gas-union-storage.de/;;Salz Kaverne;;1;Gas Union Storage;110;1.3741;2.4;55.2;27.6;nTPA
+Rehden;Rehden;Rehden;1993;;https://www.astora.de/storage-locations/rehden-storage-facility.html?L=1;;Leeres Gas Feld;;1;astora;4400;48.62;57.6;530.4;344.8;nTPA
+Ripalta_1;Ripalta;Ripalta;1967;;http://www.stogit.it/en/index.html;;Leeres Feld;;1;STOGIT;;;;;;rTPA
+Ripalta_2;Ripalta;Ripalta;2020;;http://www.stogit.it/en/index.html;;Leeres Feld;;1;STOGIT;;3.9262;;0;0;rTPA
+Ripalta_3;Ripalta;Ripalta;2026;;http://www.stogit.it/en/index.html;;Leeres Feld;;1;STOGIT;;0;;98.2;0;rTPA
+Ron;Ronÿ;Ron;2018;;http://www.ceskaplynarenska.cz/en/ultimate-speed-underground-gas-storage;;Stein Kaverne;;1;GSCeP;;1.8138;;238.7;190.9;nTPA
+Rough;Rough, Capacity offered under negotiated processes with rules that must be applied;Rough;1985;2017;http://www.centrica-sl.co.uk/;;Leeres Gas Feld;;0;Centrica Storage;;36.5;;485;305;nTPA
+RuedersdorfH;Ruedersdorf H;RuedersdorfH;2007;;http://www.ewe-gasspeicher.de/english/index.php;;Salz Kaverne;1;1;EWE Gasspeicher;135;1.3098;3.36;32.8;10.7;nTPA
+Sabbioncello_1;Sabbioncello;Sabbioncello;1985;;http://www.stogit.it/en/index.html;;Leeres Feld;;1;STOGIT;;;;;;rTPA
+Sabbioncello_2;Sabbioncello;Sabbioncello;2023;;http://www.stogit.it/en/index.html;;Leeres Feld;;1;STOGIT;;1.745;;0;0;rTPA
+SaintClairSurEpte;SaintClairSurEpte;SaintClairSurEpte;1982;;http://www.storengy.com/countries/france/en/;;Aquifer;;1;Storengy;;;;;;nTPA
+SaintIlliersLaVille;SaintIlliersLaVille;SaintIlliersLaVille;1965;;http://www.storengy.com/countries/france/en/;;Aquifer;;1;Storengy;;;;;;nTPA
+SalineEtrez;SalineEtrez;SalineEtrez;1980;;http://www.storengy.com/countries/france/en/;;Salz Kaverne;;1;Storengy;;;;;;nTPA
+SalineManosque;SalineManosque;SalineManosque;1993;;http://www.storengy.com/countries/france/en/;;Salz Kaverne;;1;Storengy;;;;;;nTPA
+SalineTersanne;SalineTersanne;SalineTersanne;1970;;http://www.storengy.com/countries/france/en/;;Salz Kaverne;;1;Storengy;;;;;;nTPA
+Saltfleetby;Saltfleetby;Saltfleetby;2999;;https://www.wingas.com/storage-uk-ltd/home.html;;Leeres Feld;;1;Wingas;;8.525;;93.5;82.5;nTPA
+SanBenedetto;San Benedetto;SanBenedetto;2999;;http://ir.gasplus.it/home/show.php?menu=00002;;Leeres Feld;;1;Gas Plus Storage;;5.742;;65.3;65.3;rTPA
+Sandhausen;Sandhausen;Sandhausen;1991;;http://www.terranets-bw.de/en/gas-transmission/we-transport-your-natural-gas/;;Aquifer;;1;terranets bw;30;0.345;1.08;12.4;5.5;No TPA
+SanPotitoECotignola; SanPotitoECotignola, Plant in build-up phase;SanPotitoECotignola;2013;;http://www.edisonstoccaggio.it/en;;Leeres Gas Feld;;1;Edison Stoccaggio;;2.5692;;79.3;67.7;rTPA
+Sarmasel_1;Sarmasel;Sarmasel;1995;;http://www.romgaz.ro/en/inmagazinare;;Leeres Gas Feld;;1;Romgaz;;8.3864;;62.9;80.6;rTPA
+Sarmasel_2;Sarmasel;Sarmasel;2016;;http://www.romgaz.ro/en/content/ugs-n-371-sarmasel-storage-facility-upgrading;;Leeres Gas Feld;;1;Romgaz;;1.0483;;31.4;0;rTPA
+Sarmasel_3;Sarmasel;Sarmasel;2024;;http://www.romgaz.ro/en/content/ugs-n-371-sarmasel-storage-facility-upgrading;;Leeres Gas Feld;;1;Romgaz;;6.814;;10.5;24.2;rTPA
+Schmidthausen;Schmidthausen;Schmidthausen;1983;;http://www.storengy.com/countries/deutschland/en/products-services.html;;Leeres Gas Feld;;1;Storengy Deutschland;150;1.669;3.6;40;10.7;nTPA
+SchoenkirchenReyersdorf;Schoenkirchen;SchoenkirchenReyersdorf;1977;;http://www.omv.com/portal/01/com/gas/storage;;Leeres Gas Feld;;1;OMV Gas Storage;;20.7425;;261.3;176.4;nTPA
+Sergnano_1;Sergnano;Sergnano;1965;;http://www.stogit.it/en/index.html;;Leeres Feld;;1;STOGIT;;;;;;rTPA
+Sergnano_2;Sergnano;Sergnano;2020;;http://www.stogit.it/en/index.html;;Leeres Feld;;1;STOGIT;;3.8171;;0;0;rTPA
+Serrablo;Serrablo;Serrablo;1991;;http://www.enagas.es/enagas/en/Transporte_de_gas/Almacenamientos_Subterraneos;;Leeres Feld;;1;Enagas;;9.73;;79.1;44.2;rTPA
+Settala_1;Settala;Settala;1986;;http://www.stogit.it/en/index.html;;Leeres Feld;;1;STOGIT;;;;;;rTPA
+Settala_2;Settala;Settala;2026;;http://www.stogit.it/en/index.html;;Leeres Feld;;1;STOGIT;;8.1795;;0;54.5;rTPA
+Silivri_1;Silivri;Silivri_84;2007;;http://www.tpao.gov.tr/eng/?tp=m&id=84;;Leeres Gas Feld;;0;TPAO;;27.745;;208.5;166.8;rTPA
+Silivri_2;Silivri;Silivri_84;2017;;http://www.tpao.gov.tr/eng/?tp=m&id=84;;Leeres Gas Feld;;0;TPAO;;0.8341;;52.1;26.1;rTPA
+Silivri_3;Silivri;Silivri_31;2999;;http://www.tpao.gov.tr/eng/?tp=m&id=31;;Leeres Gas Feld;;0;TPAO;;16.1507;;521.3;224.2;rTPA
+Sinarca;Sinarca;Sinarca;2999;;http://ir.gasplus.it/home/show.php?menu=00002;;Leeres Feld;;1;Gas Plus Storage;;3.564;;35.2;35.2;rTPA
+Skallen;Skallen;Skallen;2004;;https://www.swedegas.com/Our_services/services/Storage;;Rock Cavern;;1;Swedegas;9;0.105;;11.5;4.3;nTPA
+SoingsEnSologne;SoingsEnSologne;SoingsEnSologne;1981;;http://www.storengy.com/countries/france/en/;;Aquifer;;1;Storengy;;;;;;nTPA
+SouthKavala;SouthKavala;SouthKavala;2022;;http://www.hradf.com/en/portfolio/south-kavala-natural-gas-storage;;Leeres Gas Feld;;1;DESFA;;3.9708;;44.1;55.2;rTPA
+Stassfurt;Stassfurt;Stassfurt;1996;;http://www.rwe.com/web/cms/en/531750/rwe-gasspeicher/;;Salz Kaverne;;1;RWE;552;6.1721;13.2;148.1;83.5;nTPA
+Stenlille;Stenlille;Stenlille;1994;;http://gaslager.energinet.dk/EN/Pages/default.aspx;;Aquifer;;1;Gas Storage Denmark;;;;;;nTPA
+Stockstadt_1;Stockstadt;Stockstadt_GasField;1969;;http://mndgsgermany.com/;;Depleted gas field;;1;EON gas storage;45;1.526;1.08;36.6;24.4;nTPA
+Stockstadt_2;Stockstadt;Stockstadt_Aquifer;;;;;Aquifer;;;EON gas storage;90;;2.16;;;
+Strachocina;Strachocina;Strachocina;1982;;https://www.osm.pgnig.pl/en;;Leeres Feld;;1;Operator Systemu Magazynowania Sp. z o.o.;;4.05;;37.9;29.7;rTPA
+Stramberk;Stramberk;Stramberk;1983;;https://www.innogy-gasstorage.cz/en/stramberk/;;Leeres Feld;;1;innogy;;;;;;
+Stublach_1;Stublach;Stublach;2014;;http://www.storengy.com/countries/unitedkingdom/en/oursites.html;;Salz Kaverne;;1;Storengy UK;;2.618;;250.8;277.2;No TPA
+Stublach_2;Stublach;Stublach;2019;;http://www.storengy.com/countries/unitedkingdom/en/oursites.html;;Salz Kaverne;;1;Storengy UK;;0.682;;0;0;nTPA
+Stublach_3;Stublach;Stublach;2020;;http://www.storengy.com/countries/unitedkingdom/en/oursites.html;;Salz Kaverne;;1;Storengy UK;;1.1;;79.2;52.8;nTPA
+Swarzow;Swarzow;Swarzow;1979;;https://www.osm.pgnig.pl/en;;Leeres Feld;;1;Operator Systemu Magazynowania Sp. z o.o.;;1.008;;11.2;11.2;rTPA
+Syderiai;Syderiai;Syderiai;2022;;http://www.le.lt/index.php/projects-in-progress/syderiai-underground-gas-storage/535;;Aquifer;;1;Lietuvos energijos gamyba;;5.5;;88;33;nTPA
+Szoreg;Szreg_1;Szoreg;2009;;http://mmbf.hu/en/company/gas_storage;;Leeres ?l Feld mit Gas Haube;;1;MMBF;;20.1129;;267.4;134.1;rTPA
+Tallesbrunn;Tallesbrunn;Tallesbrunn;1974;;http://www.omv.com/portal/01/com/gas/storage;;Leeres Gas Feld;;1;OMV Gas Storage;;4.524;;43;33.9;nTPA
+TarguMures_1;TarguMure;TarguMures;2002;;http://www.depomures.ro/;;Leeres Gas Feld;;1;Depomures;;3.1546;;15;15;rTPA
+TarguMures_2;TarguMures;TarguMures;2018;;http://www.depomures.ro/;;Leeres Gas Feld;;1;Depomures;;1.1654;;22.8;22.8;rTPA
+TarguMures_3;TarguMures;TarguMures;2020;;http://www.depomures.ro/;;Leeres Gas Feld;;1;Depomures;;2.16;;16.2;16.2;rTPA
+Tarsus;Tarsus;Tarsus;2999;;http://www.bendisenergy.com.tr/tr/Projelerimiz/24-toren-dogalgaz-depolama-ve-madencilik-as;;Salz Kaverne;;1;Toren Natural Gas Storage and Mining Inc.;;4.95;;264;0;rTPA
+Tersanne;Tersanne;Tersanne;1982;;https://www.storengy.com/countries/france/en/our-sites/saint-clair-sur-epte.html;;;1;1;Storengy;;;;;;
+Thann;Thann;Thann;1977;2017;http://www.omv.com/portal/01/com/gas/storage;;Leeres Gas Feld;;1;OMV Gas Storage;;2.8275;;35.1;31.2;nTPA
+Tranovice;Tranovice;Tranovice;2000;;https://www.innogy-gasstorage.cz/en/index/;;Leeres Gas Feld;;1;innogy Gas Storage;;;;;;nTPA
+TroisFontainesAbbaye;TroisFontainesAbbaye;TroisFontainesAbbaye;1970;;http://www.storengy.com/countries/france/en/;;Depleted Field;;1;Storengy;;;;;;nTPA
+TuzGlu_1;TuzGlu;TuzGlu;2017;;http://www.botas.gov.tr/;;Salz Kaverne;;1;Botas;;5.5;;220;165;rTPA
+TuzGlu_2;TuzGlu;TuzGlu;2019;;http://www.botas.gov.tr/;;Salz Kaverne;;1;Botas;;5.5;;440;330;rTPA
+TuzGlu_3;TuzGlu;TuzGlu;2999;;http://www.botas.gov.tr/;;Salz Kaverne;;1;Botas;;5.5;;0;0;rTPA
+Tvrdonice;Tvrdonice;Tvrdonice;1975;;https://www.innogy-gasstorage.cz/en/index/;;Leeres Gas Feld;;1;innogy Gas Storage;;;;;;nTPA
+Uelsen;Uelsen;Uelsen;1997;;http://www.storengy.com/countries/deutschland/en/products-services.html;;Leeres Gas Feld;;1;storengy Deutschland;840;9.492;9.48;107.6;81;nTPA
+Uhrice_1;Uhrice;Uhrice;2001;;http://www.gasstorage.cz/en/operation-information/available-firm-capacity/;;Leeres ?l/Gas Feld;;1;MND Gas Storage;;2.7047;;110.3;57.3;nTPA
+Uhrice_2;Uhrice;Uhrice;2017;;http://www.gasstorage.cz/en/operation-information/available-firm-capacity/;;Leeres ?l/Gas Feld;;1;MND Gas Storage;;0.2652;;17;0;nTPA
+Urziceni;Urziceni;Urziceni;1979;;http://www.romgaz.ro/en/inmagazinare;;Leeres Gas Feld;;1;Romgaz;;3.9092;;47.7;38.9;rTPA
+VelkeKapusany;Velke Kapusany;VelkeKapusany;2021;;http://www.nafta.sk/en/about-gas-storage;;Leeres Gas Feld;;1;Nafta;;3.6057;;39.8;39.8;nTPA
+Wierzchowice_1;Wierzchowice;Wierzchowice;1995;;https://www.osm.pgnig.pl/en;;Leeres Feld;;1;Operator Systemu Magazynowania Sp. z o.o.;;13.2;;105.6;66;rTPA
+Wierzchowice_2;Wierzchowice;Wierzchowice;2020;;https://www.osm.pgnig.pl/en;;Leeres Feld;;1;Operator Systemu Magazynowania Sp. z o.o.;;0;;52.8;39.6;rTPA
+Wolfersberg;Wolfersberg;Wolfersberg;1973;;http://www.bayernugs.de/4-1-Home.html;;Leeres Gas Feld;;1;BayernUGS;365;4.1209;5.76;65;37.9;nTPA
+Xanten;Xanten;Xanten;1985;;http://www.rwe.com/web/cms/en/531750/rwe-gasspeicher/;;Salz Kaverne;;1;innogy;185;2.0075;6.72;86.4;27;nTPA
+Yela;Yela;Yela;2012;;http://www.enagas.es/enagas/en/Transporte_de_gas/Almacenamientos_Subterraneos;;Aquifer;;1;Enagas;;1.543;;40.7;23.3;rTPA
+Zsana;Zsana;Zsana;1996;;http://www.magyarfoldgaztarolo.hu/en/Lapok/default.aspx;;Leeres Feld;;1;Hungarian Gas Storage;;23.0287;;297.1;180.4;rTPA

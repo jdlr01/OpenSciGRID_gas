@@ -1,0 +1,202 @@
+id;comment;node_id
+TEXT;TEXT;TEXT
+[];[];[]
+7Fields;Storage Capacity connected to Germany and Austria;7Fields
+Aigelsbrunn;;Aigelsbrunn
+Aldbrough1;;Aldbrough
+Aldbrough2;;Aldbrough
+Alfonsine;;Alfonsine
+Alkmaar;"Grijpskerk, Norg (NAM) and Alkmaar (TAQA) = Groningen System; No longer offering capacity, to be considered as a production facility.";Alkmaar
+Allmenhausen;;Allmenhausen
+AlsaceSud;;Alsace Sud
+Atwick;;Atwick
+BadLauchstaedt;;Bad Lauchstaedt
+BagnoloMella;;Bagnolo Mella
+Balaceanca;;Balaceanca
+BanatskiDvor;;Banatski Dvor
+Bergermeer;;Bergermeer
+Berlin;;Berlin
+Bernburg;;Bernburg
+Beynes;;Beynes
+Bierwang;;Bierwang
+Bilciuresti;;Bilciuresti
+Bonikowo;;Bonikowo
+Bordolano;;Bordolano
+Breitbrunn;;Breitbrunn
+Lesum_Storengy;;Lesum
+Lesum_Wesernetz;;Lesum
+BruggrafBernsdorf;;Bruggraf Bernsdorf
+Brugherio;;Brugherio
+Brzeznica;;Brzeznica
+Buchholz;;Buchholz
+Carrico;;Carrico
+Caythorpe;;Caythorpe
+Cellino;;Cellino
+CereLaRonde;;Cere La Ronde
+Cerville;;Cerville
+CetateaDeBalta;;Cetatea De Balta
+Chemery;;Chemery
+Chiren;;Chiren
+Collalto;;Collalto
+Cornegliano;;Cornegliano
+Cortemaggiore;;Cortemaggiore
+CugnoLeMacine;Cugno le Macine (Grottole-Ferrandina);Cugno Le Macine
+Damaslawek;;Damaslawek
+Damboice;;Damboice
+Daszewo;;Daszewo
+Deborah;;Deborah
+DolniBojanovice;;Dolni Bojanovice
+Empelde;;Empelde
+EnergyStock;;Energy Stock
+Epe_Eneco;;EpeH
+Epe_innogy_H;;EpeH
+Epe_innogy_NL;;EpeH
+Epe_Nuon;;EpeH
+Epe_Trianel;;EpeH
+Epe_Uniper_H;;EpeH
+Epe_ZES;;EpeH
+Epe_EON;;EpeH
+Epe_KGE;;EpeH
+Epe_innogy_L;;EpeL
+Epe_Uniper_L;;EpeL
+Eschenfelden;;Eschenfelden
+Etrez;;Etrez
+Etzel_Crystal;;Etzel
+Etzel_EGL_1_2;;Etzel
+Etzel_EKB;;Etzel
+Etzel_ESE;;Etzel
+Etzel_IVG;;Etzel
+Elsfleth_EWE;;Elsfleth
+FiumeTreste;;Fiume Treste
+Frankenthal;;Frankenthal
+Fronhofen;;Fronhofen
+Galata;;Galata
+Gatchinskoye;;Gatchinskoye
+Gateway;;Gateway
+Gaviota;;Gaviota
+GermignySousCoulombs;;Germigny Sous Coulombs
+Ghercesti;;Ghercesti
+GournaySurAronde;;Gournay Sur Aronde
+Grijpskerk;Grijpskerk, Norg (NAM) and Alkmaar (TAQA) = Groningen System, No longer offering capacity, to be considered as a production facility.;Grijpskerk
+GrubisnoPolje;;Grubisno Polje
+GSD Virtual Gas Storage DK;;GSDVirtualGasStorageDK
+Haehnlein;;Haehnlein
+HaidachStorage_Astora;;Haidach
+HaidachStorage_GSA;;Haidach
+HaidachStorage_RAG;;Haidach
+Hajduszoboszlo;;Hajduszoboszlo
+Harsefeld;;Harsefeld
+HatfieldMoor;;Hatfield Moor
+Hauterives;;Hauterives
+HillTopFarm;Hill Top Farm (Cheshire);Hill Top Farm
+HJe;;HJe
+HoleHouseFarm;;Hole House Farm
+Holford;;Holford
+HolfordBrinefield;;Holford Brinefield
+Hornsea;Hornsea (Atwick);Hornsea
+HumblyGrove;;Humbly Grove
+Huntorf;;Huntorf
+Husow;;Husow
+Incukalns;;Incukalns
+InzenhamWest;;Inzenham West
+Islandmagee;;Islandmagee
+Izaute;;Izaute
+Jemgum_Astora;;Jemgum
+Jemgum_EWE;;Jemgum
+Jengum_WINGAS;;Jemgum
+Kaliningradskoye;;Kaliningradskoye
+Kalle;;Kalle
+Kardoskut;;Kardoskut
+Katharina;;Katharina
+Katharina_EWE;;Katharina
+KielRoenne;;Kiel Roenne
+KingStreet;;King Street
+KinsaleSouthwest;;Kinsale Southwest
+Kirchheilingen;;Kirchheilingen
+Kosakowo;;Kosakowo
+Kraak;;Kraak
+Krummhoern;;Krummhoern
+LB4_Pozagas;;LB4
+LB4_Nafta;;LB4
+LilleTorup;;Lille Torup
+Lobodice;;Lobodice
+Loenhout;;Loenhout
+Lussagnet;;Lussagnet
+Manosque;;Manosque
+Marismas;;Marismas
+Minerbio;;Minerbio
+MoeckowH;;Moeckow
+Mogilno;;Mogilno
+Moldova;Moldova (Falticeni);Moldova
+Mozyrskoye;;Mozyrskoye
+Nevskoye;;Nevskoye
+NorgLangelo;"Norg (Langelo) Grijpskerk, Norg (NAM) and Alkmaar (TAQA) = Groningen System; No longer offering capacity, to be considered as a production facility.";Norg Langelo
+Nuettermoor_H;Storage Capacity connected to the Netherlands (GTS), E.ON share of 109,3 mcm solely used in NL;Nuettermoor H
+Nuettermoor_L;;Nuettermoor L
+NussdorfZagling;Nussdorf/Zagling Storage Capacity connected to Germany and Austria;Nussdorf Zagling
+Okoli;;Okoli
+Osipovichskoye;;Osipovichskoye
+PalazzoMoroni;;Palazzo Moroni
+Peckensen;;Peckensen
+Pinasses;;Pinasses
+Poggiofiorito;;Poggiofiorito
+Preesall;;Preesall
+Pribugskoye;;Pribugskoye
+Puchkirchen;Puchkirchen/Haag GCV 11,31;Puchkirchen
+Pusztaederics;;Pusztaederics
+Reckrod;;Reckrod
+Rehden;;Rehden
+Ripalta;;Ripalta
+Ron;;Ron
+Rough;Capacity offered under negotiated processes with rules that must be applied;Rough
+RuedersdorfH;;Ruedersdorf
+Sabbioncello;;Sabbioncello
+SaintClairSurEpte;;Saint Clair Sur Epte
+SaintIlliersLaVille;;Saint Illiers La Ville
+SalineEtrez;;Saline Etrez
+SalineManosque;;Saline Manosque
+SalineTersanne;;Saline Tersanne
+Saltfleetby;;Saltfleetby
+SanBenedetto;;San Benedetto
+Sandhausen;;Sandhausen
+SanPotitoECotignola;Plant in build-up phase;San Potito E Cotignola
+Sarmasel;;Sarmasel
+Schmidhausen;;Schmidhausen
+SchoenkirchenReyersdorf;Schoenkirchen/Reyersdorf;Schoenkirchen Reyersdorf
+Sergnano;;Sergnano
+Serrablo;;Serrablo
+Settala;;Settala
+Silivri_84;Silivri (Marmara);Silivri
+Silivri_31;Silivri (Marmara);Silivri
+Sinarca;;Sinarca
+Skallen;;Skallen
+SoingsEnSologne;;Soings En Sologne
+SouthKavala;;South Kavala
+Stassfurt;;Stassfurt
+Stenlille;;Stenlille
+Stockstadt_GasField;;Stockstadt
+Stockstadt_Aquifer;;Stockstadt
+Strachocina;;Strachocina
+Stramberk;;Stramberk
+Stublach;;Stublach
+Swarzow;;Swarzow
+Syderiai;;Syderiai
+Szoreg;;Szoreg
+Tallesbrunn;;Tallesbrunn
+Tersanne;;Tersanne
+Tranovice;;Tranovice
+Tarsus;;Tarsus
+Thann;;Thann
+TroisFontainesAbbaye;;Trois Fontaines Abbaye
+TarguMures;TarguMures;Targu Mures
+TuzGlu;Tuz Gl/Aksaray Sultanhan;Tuz Glu
+Tvrdonice;;Tvrdonice
+Uelsen;;Uelsen
+Uhrice;Uh?ice;Uhrice
+Urziceni;;Urziceni
+VelkeKapusany;;Velke Kapusany
+Wierzchowice;;Wierzchowice
+Wolfersberg;;Wolfersberg
+Xanten;;Xanten
+Yela;;Yela
+Zsana;;Zsana
