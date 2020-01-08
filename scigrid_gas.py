@@ -160,7 +160,8 @@ if user == 'Modules':
 
 
 elif user == 'GenDataset':
-        import GenDataSets.Gen_01_Internet  as ThisOne
+#        import GenDataSets.Gen_01_Internet  as ThisOne
+        import GenDataSets.Gen_02_NonOSM  as ThisOne
         ThisOne.main()
 
 

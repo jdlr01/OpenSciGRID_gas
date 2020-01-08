@@ -80,7 +80,7 @@ def getMatch_Names_CountryCode(comp_0, comp_1, AddInWord  = 0):
 
 
 
-def getMath_LatLong_Threshold(comp_0, comp_1, methodVal = 50000):
+def getMatch_LatLong_Threshold(comp_0, comp_1, methodVal = 50000):
     """Gets the separation between two points, and then checks if distance is 
     smaller than **methodVal**.  If Trued, then returns 100, if false, then returns 0
     """
@@ -126,7 +126,7 @@ def getMath_LatLong_Threshold(comp_0, comp_1, methodVal = 50000):
 
 
 	
-def get_Comp_LatLong(comp_0, comp_1, method = 'inv'):
+def getMatch_LatLong(comp_0, comp_1, method = 'inv'):
     """Gets the separation between two points in km, and returns as 100-1/distance and other methods.  
     Method allows to select different measures of distance returned (distance used here in [km]), from: 
     "inv"       (100 / distance), 

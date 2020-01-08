@@ -1289,11 +1289,17 @@ class NetComp(object):
                         comp.__dict__[AttribNameDestination] = wert
                 else :
                     for comp in self.__dict__[CompName]:
-                        wert = sum(comp.__dict__[AttribNameSource]) / len(comp.__dict__[AttribNameSource])
-                        comp.param.update({AttribNameDestination:  wert})
-                        comp.method.update({AttribNameDestination:  'make_Attrib(' + MethodName + ')'})
-                        comp.uncertainty.update({AttribNameDestination:  1 / len(comp.__dict__[AttribNameSource])})
-                        
+                        if AttribNameSource in comp.param:
+                            wert = comp.param[AttribNameSource]
+                        else:
+                            wert = comp.__dict__[AttribNameSource]
+                                
+                        if wert != None:
+                            wert = sum(wert) / len(wert)
+                            comp.param.update({AttribNameDestination:  wert})
+                            comp.method.update({AttribNameDestination:  'make_Attrib(' + MethodName + ')'})
+                            comp.uncertainty.update({AttribNameDestination:  1 / len(comp.__dict__[AttribNameSource])})
+
             elif MethodName == 'min':
                 if AttribNameDestination in self.AttribLables():
                     for comp in self.__dict__[CompName]:
@@ -2386,7 +2392,7 @@ class NetComp(object):
 
 
     def add_latLong(self, CompNames = ''):
-        """ Method to add LatLong to  component **CompName**, and LatLong info is taken from Nodes component.
+        """ Method to add LatLong to  component **CompName**, where LatLong info is taken from Nodes component.
     
         \n.. comments:
         Input:

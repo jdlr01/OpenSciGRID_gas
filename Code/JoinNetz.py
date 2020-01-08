@@ -44,7 +44,7 @@ def join(scenaName, CompNames, data_sources):
             if 'EntsoG' in data_sources:
                 [pos_match_Netz_0, pos_add_Netz_0, pos_match_Netz_1, pos_add_Netz_1] = match(
                     DasNetz, data_sources['EntsoG'], compName = 'LNGs', threshold = 10, multiSelect = False,
-                    funcs = (lambda comp_0, comp_1: M_Matching.get_Comp_Name(comp_0, comp_1, AddInWord = 50), 
+                    funcs = (lambda comp_0, comp_1: M_Matching.getMatch_Names(comp_0, comp_1, AddInWord = 50), 
                         lambda comp_0, comp_1: M_Matching.getMatch_LatLong(comp_0, comp_1, method = 'inv')
                         ))
                 DasNetz.join_comp(data_sources['EntsoG'], 'LNGs', pos_match_Netz_0, pos_add_Netz_0, pos_match_Netz_1, pos_add_Netz_1)
@@ -54,7 +54,7 @@ def join(scenaName, CompNames, data_sources):
             if 'GIE' in data_sources:
                 [pos_match_Netz_0, pos_add_Netz_0, pos_match_Netz_1, pos_add_Netz_1] = match(
                     DasNetz, data_sources['GIE'], compName = 'LNGs', threshold = 20, multiSelect = False,
-                    funcs = (lambda comp_0, comp_1: M_Matching.get_Comp_Name(comp_0, comp_1, AddInWord = 50), 
+                    funcs = (lambda comp_0, comp_1: M_Matching.getMatch_Names(comp_0, comp_1, AddInWord = 50), 
                         lambda comp_0, comp_1: M_Matching.getMatch_LatLong(comp_0, comp_1, method = 'inv')
                         ))
                 DasNetz.join_comp(data_sources['GIE'], 'LNGs', pos_match_Netz_0, pos_add_Netz_0, pos_match_Netz_1, pos_add_Netz_1)
@@ -66,7 +66,7 @@ def join(scenaName, CompNames, data_sources):
             if 'GB' in data_sources:
                 [pos_match_Netz_0, pos_add_Netz_0, pos_match_Netz_1, pos_add_Netz_1] = match(
                     DasNetz, data_sources['GB'], compName = 'Compressors', threshold = 50, multiSelect = False,
-                    funcs = (lambda comp_0, comp_1: M_Matching.get_Comp_Name(comp_0, comp_1, AddInWord = 100), 
+                    funcs = (lambda comp_0, comp_1: M_Matching.getMatch_Names(comp_0, comp_1, AddInWord = 100), 
                         lambda comp_0, comp_1: M_Matching.getMatch_LatLong(comp_0, comp_1, method = 'inv')
                         ))
                 DasNetz.join_comp(data_sources['GB'], 'Compressors', pos_match_Netz_0, pos_add_Netz_0, pos_match_Netz_1, pos_add_Netz_1)
@@ -74,7 +74,7 @@ def join(scenaName, CompNames, data_sources):
             if 'LKD' in data_sources:
                 [pos_match_Netz_0, pos_add_Netz_0, pos_match_Netz_1, pos_add_Netz_1] = match(
                     DasNetz, data_sources['LKD'], compName = 'Compressors', threshold = 20, multiSelect = False,
-                    funcs = (lambda comp_0, comp_1: M_Matching.get_Comp_Name(comp_0, comp_1, AddInWord = 100), 
+                    funcs = (lambda comp_0, comp_1: M_Matching.getMatch_Names(comp_0, comp_1, AddInWord = 100), 
                         lambda comp_0, comp_1: M_Matching.getMatch_LatLong(comp_0, comp_1, method = 'inv')
                         ))
                 DasNetz.join_comp(data_sources['LKD'], 'Compressors', pos_match_Netz_0, pos_add_Netz_0, pos_match_Netz_1, pos_add_Netz_1)
@@ -86,7 +86,7 @@ def join(scenaName, CompNames, data_sources):
             if 'EntsoG' in data_sources:
                 [pos_match_Netz_0, pos_add_Netz_0, pos_match_Netz_1, pos_add_Netz_1] = match(
                     DasNetz, data_sources['EntsoG'], compName = 'Storages', threshold = 34, multiSelect = True,
-                    funcs = (lambda comp_0, comp_1: M_Matching.get_Comp_Name(comp_0, comp_1, AddInWord = 100), 
+                    funcs = (lambda comp_0, comp_1: M_Matching.getMatch_Names(comp_0, comp_1, AddInWord = 100), 
                     lambda comp_0, comp_1: M_Matching.getMatch_LatLong(comp_0, comp_1, method = 'inv')
                     ))
                 DasNetz.join_comp(data_sources['EntsoG'], 'Storages', pos_match_Netz_0, pos_add_Netz_0, pos_match_Netz_1, pos_add_Netz_1)
@@ -94,7 +94,7 @@ def join(scenaName, CompNames, data_sources):
             if 'LKD' in data_sources:
                 [pos_match_Netz_0, pos_add_Netz_0, pos_match_Netz_1, pos_add_Netz_1] = match(
                     DasNetz, data_sources['LKD'], compName = 'Storages', threshold = 30, multiSelect = False,
-                    funcs = (lambda comp_0, comp_1: M_Matching.get_Comp_Name(comp_0, comp_1, AddInWord = 100), 
+                    funcs = (lambda comp_0, comp_1: M_Matching.getMatch_Names(comp_0, comp_1, AddInWord = 100), 
                     lambda comp_0, comp_1: M_Matching.getMatch_LatLong(comp_0, comp_1, method = 'inv')
                     ))
                 DasNetz.join_comp(data_sources['LKD'], 'Storages', pos_match_Netz_0, pos_add_Netz_0, pos_match_Netz_1, pos_add_Netz_1)
@@ -102,7 +102,7 @@ def join(scenaName, CompNames, data_sources):
             if 'GIE' in data_sources:
                 [pos_match_Netz_0, pos_add_Netz_0, pos_match_Netz_1, pos_add_Netz_1] = match(
                     DasNetz, data_sources['GIE'], compName = 'Storages', threshold = 30, multiSelect = False,
-                    funcs = (lambda comp_0, comp_1: M_Matching.get_Comp_Name(comp_0, comp_1, AddInWord = 100), 
+                    funcs = (lambda comp_0, comp_1: M_Matching.getMatch_Names(comp_0, comp_1, AddInWord = 100), 
                     lambda comp_0, comp_1: M_Matching.getMatch_LatLong(comp_0, comp_1, method = 'inv')
                     ))
                 DasNetz.join_comp(data_sources['GIE'], 'Storages', pos_match_Netz_0, pos_add_Netz_0, pos_match_Netz_1, pos_add_Netz_1)
@@ -110,7 +110,7 @@ def join(scenaName, CompNames, data_sources):
             if 'GSE' in data_sources:
                 [pos_match_Netz_0, pos_add_Netz_0, pos_match_Netz_1, pos_add_Netz_1] = match(
                     DasNetz, data_sources['GSE'], compName = 'Storages', threshold = 36, multiSelect = False,
-                    funcs = (lambda comp_0, comp_1: M_Matching.get_Comp_Name(comp_0, comp_1, AddInWord = 100), 
+                    funcs = (lambda comp_0, comp_1: M_Matching.getMatch_Names(comp_0, comp_1, AddInWord = 100), 
                     lambda comp_0, comp_1: M_Matching.getMatch_LatLong(comp_0, comp_1, method = 'inv')
                     ))
                 DasNetz.join_comp(data_sources['GSE'], 'Storages', pos_match_Netz_0, pos_add_Netz_0, pos_match_Netz_1, pos_add_Netz_1)
@@ -118,7 +118,7 @@ def join(scenaName, CompNames, data_sources):
             if 'IGU' in data_sources:
                 [pos_match_Netz_0, pos_add_Netz_0, pos_match_Netz_1, pos_add_Netz_1] = match(
                     DasNetz, data_sources['IGU'], compName = 'Storages', threshold = 30, multiSelect = False,
-                    funcs = (lambda comp_0, comp_1: M_Matching.get_Comp_Name(comp_0, comp_1, AddInWord = 100), 
+                    funcs = (lambda comp_0, comp_1: M_Matching.getMatch_Names(comp_0, comp_1, AddInWord = 100), 
                     lambda comp_0, comp_1: M_Matching.getMatch_LatLong(comp_0, comp_1, method = 'inv')
                     ))
                 DasNetz.join_comp(data_sources['IGU'], 'Storages', pos_match_Netz_0, pos_add_Netz_0, pos_match_Netz_1, pos_add_Netz_1)
@@ -130,7 +130,7 @@ def join(scenaName, CompNames, data_sources):
             if 'EntsoG' in data_sources:
                 [pos_match_Netz_0, pos_add_Netz_0, pos_match_Netz_1, pos_add_Netz_1] = match(
                     DasNetz, data_sources['EntsoG'], compName = 'Nodes', threshold = 45, multiSelect = True,
-                    funcs = (lambda comp_0, comp_1: M_Matching.get_Comp_Name(comp_0, comp_1, AddInWord = 100), 
+                    funcs = (lambda comp_0, comp_1: M_Matching.getMatch_Names(comp_0, comp_1, AddInWord = 100), 
                     lambda comp_0, comp_1: M_Matching.getMatch_LatLong(comp_0, comp_1, method = 'inv')
                     ))
                 DasNetz.join_comp(data_sources['EntsoG'], 'Nodes', pos_match_Netz_0, pos_add_Netz_0, pos_match_Netz_1, pos_add_Netz_1)

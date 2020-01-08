@@ -34,7 +34,7 @@ def main():
     # 1) Sections to execute under gain
     #############################################################################
     # Converting raw data into CSV files 
-    MakeRawData_01              = False                       
+    MakeRawData_01              = True                       
     # Joining source data into single network
     MakeOverallNetwork_02       = False
     Print_MakeOverallNetwork_02 = False
@@ -49,7 +49,7 @@ def main():
     # filling missing attribute values
     FillAttribValue_06          = False                        
     # simplifying network
-    ShrinkNetz_07               = True
+    ShrinkNetz_07               = False
     
     
     #############################################################################
@@ -77,9 +77,9 @@ def main():
     # 4) Settings for export
     #############################################################################
     # String giving the relative jpg file name where to save map of raw joined data
-    save_Plot_Raw       = 'Dokumentation/Bilder/10_NetzGeneration/10_NonOSM/Map_RawSum.jpg'
+    save_Plot_Raw               = 'Dokumentation/Bilder/10_NetzGeneration/10_NonOSM/Map_RawSum.jpg'
     # String giving the relative jpg file name where to save map of final joined data
-    save_Plot_Final     = 'Dokumentation/Bilder/10_NetzGeneration/10_NonOSM/Map_Final.jpg'
+    save_Plot_Final             = 'Dokumentation/Bilder/10_NetzGeneration/10_NonOSM/Map_Final.jpg'
     # String giving the relative path name where to save CSV gas network data set files of raw data set
     dir_Data_Raw_Merged         = 'Ausgabe/GeneratedNetz/02_NonOSM/Data_Merged/'
     dir_Data_Raw_Component      = 'Ausgabe/GeneratedNetz/02_NonOSM/Data_Component/'
@@ -99,6 +99,14 @@ def main():
         CC.printb('InterNet')
         Netz_InterNet   = M_Internet.read(RelDirName = 'Eingabe/InternetDaten/')
         M_CSV.write('Ausgabe/InternetDaten/Data_Raw/', Netz_InterNet)
+        if PlotData:
+            M_Visuell.quickplot(Netz_InterNet, figureNum = 0, LegendStr = '', LegendStyle = 'Str(Num)', PlotList =["Nodes"], Cursor = True)
+
+#        CC.printb('GIE')
+#        # Netz_GIE   = M_GIE.read(RelDirName = 'Eingabe/GIE/')
+#        Netz_GIE = M_CSV.read('Ausgabe/GIE/Data_Raw/')
+#        if PlotData:
+#            M_Visuell.quickplot(Netz_GIE, figureNum = 1, LegendStr = '', LegendStyle = 'Str(Num)', PlotList =["Nodes"])
    
 
 
@@ -205,9 +213,9 @@ def main():
             SettingsFileName    = ('Ausgabe/GeneratedNetz/02_NonOSM/SetupFiles/RetSummary_' + compName + '.csv')
             SimSettings         = M_CSV.read_CSV_raw(SettingsFileName)
         
-            Netz_Component      = M_Stats.pop_Attribs(Netz_Merged, CompNames = [compName], SimSettings = SimSettings)
+            Netz_Merged         = M_Stats.pop_Attribs(Netz_Merged, CompNames = [compName], SimSettings = SimSettings)
         
-        
+        Netz_Component  = Netz_Merged
 #        # writing constant values into attributes
         Netz_Component.make_Attrib([], '',    'end_year',   'const', 2050)
         Netz_Component.make_Attrib([], '',    'start_year', 'const', 1983)

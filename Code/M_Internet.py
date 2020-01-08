@@ -24,16 +24,16 @@ ID_Add      = str('IN_')
 
 
 
-def read( NumDataSets = 100000, requeYear = '', licenseType = '', GasType = '', RelDirName = 'Eingabe/InternetDaten/'):
+def read( NumDataSets = 100000, requeYear = '', licenseType = '', GasType = 'H', RelDirName = 'Eingabe/InternetDaten/'):
     """ Reading in Internet data sets from CSV file, with  
     **NumDataSets** maximum number of records to read, and **requeYear** for which year to get data.
     
     \n.. comments: 
     Input:
         NumDataSets:    (Optional = 100000) number of data sets
-		requeYear: 		(Optional = '2000') string containing year [####] for which data to be retrieved
-        licenseType:    (Otopmnal ='open'), string containing the kind of license that the data will be selected on
-        GasType:        (Optional = '') a character indicating either H or L gas.
+		requeYear: 		(Optional = '2010') string containing year [####] for which data to be retrieved
+        licenseType:    (Otopmnal = ''), string containing the kind of license that the data will be selected on
+        GasType:        (Optional = 'H') a character indicating either H or L gas.
         RelDirName:     string, containing the relatie dir name where the Internet data can be loaded from.
     Return:
 	    []
@@ -182,23 +182,23 @@ def read_component(ComponentName, NumDataSets = 1e+100, CheckLatLong = 0, RelDir
     countLine   = 0
 
     if ComponentName == "BorderPoints":
-        DateiName = str(RelDirName /  'Gas_BorderPoints.csv')
+        DateiName = str(RelDirName /  'Loc_BorderPoints.csv')
     elif ComponentName == "Compressors":
-        DateiName = str(RelDirName / 'Gas_Compressors.csv')
+        DateiName = str(RelDirName / 'Loc_Compressors.csv')
     elif ComponentName == "Consumers":
-        DateiName = str(RelDirName / 'Gas_Consumers.csv')
+        DateiName = str(RelDirName / 'Loc_Consumers.csv')
     elif ComponentName == "EntryPoints":
-        DateiName = str(RelDirName / 'Gas_EntryPoints.csv')
+        DateiName = str(RelDirName / 'Loc_EntryPoints.csv')
     elif ComponentName == "InterConnectionPoints":
-        DateiName = str(RelDirName / 'Gas_InterConnectionPoints.csv')
+        DateiName = str(RelDirName / 'Loc_InterConnectionPoints.csv')
     elif ComponentName == "LNGs":
-        DateiName = str(RelDirName / 'Gas_LNGs.csv')
+        DateiName = str(RelDirName / 'Loc_LNGs.csv')
     elif ComponentName == "Nodes":
-        DateiName = str(RelDirName / 'Gas_Nodes.csv')
+        DateiName = str(RelDirName / 'Loc_Nodes.csv')
     elif ComponentName == "Storages":
-        DateiName = str(RelDirName / 'Gas_Storages.csv')
+        DateiName = str(RelDirName / 'Loc_Storages.csv')
     else:
-        print('ERROR: Gas_Methoden_Einlsen.read_Points: type ' + ComponentName + ' nicht definiert')
+        print('ERROR: M_Internet.read_Points: type ' + ComponentName + ' nicht definiert')
         raise 
 
     if not os.path.exists(DateiName):
@@ -313,7 +313,7 @@ def read_PipeLines(NumDataSets = 1e+100, RelDirName = 'Eingabe/InternetDaten/'):
     
     
     # Opening file and reading header lines
-    FileName = str(filename / 'Gas_PipePoints.csv')
+    FileName = str(filename / 'Loc_PipePoints.csv')
     
     if os.path.exists(FileName):
         fid  = open(FileName, 'r', encoding="utf-8")
