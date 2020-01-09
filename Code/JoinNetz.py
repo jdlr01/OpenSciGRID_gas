@@ -19,14 +19,22 @@ import copy
 
 
 
-def join(scenaName, CompNames, data_sources):
+def join(data_sources, scenaName = 'Scen_1', CompNames = []):
     """Main function of joining components **CompNames** from the following data sources as combined in the dict **data_sources**.
     Currently only one scenario implemented **scenaName** ('Scen_1').
+
+    \n.. comments: 
+    Input:
+        data_sources     Dict of network class instances
+        scenaName        String of scenario name selected on how to join data sets
+                         Currently the only option implemented
+                         [default: 'Scen_1']
+        CompNames        List of component string names to join [default: []]
     """
-    
-    
-        
-        
+
+
+
+
     if scenaName == 'Scen_1':
         # check that Netz_InterNet can be used as starting network.
         if 'InterNet' not in data_sources:

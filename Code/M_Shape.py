@@ -670,8 +670,16 @@ def moveComp2Pipe(Netz, compName, pipeName, maxDistance = 2):
     Hence works only if the PipeLine/Segment is a polyline.
     This also results in beaking the PipeLine/Segment into two PipeLines/Segments.
     Max allowable movement of the component is given by **maxDistance** [km].
-    """
     
+    
+    \n.. comments: 
+    Input:
+        Netz           Instance of network class, best to be supplied as copy
+        compName       String of component name
+        pipeName       String, 'PipeLines' or 'PipeSegments'
+        maxDistance    Integer of maximum moved distance for each element [default: 2]"""
+
+
     # Setting up input
     posPipes    = []
     posLatLong  = []

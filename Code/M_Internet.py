@@ -25,20 +25,20 @@ ID_Add      = str('IN_')
 
 
 def read( NumDataSets = 100000, requeYear = '', licenseType = '', GasType = 'H', RelDirName = 'Eingabe/InternetDaten/'):
-    """ Reading in Internet data sets from CSV file, with  
+    """ Reading in Internet data sets from Internet specific CSV file, with  
     **NumDataSets** maximum number of records to read, and **requeYear** for which year to get data.
-    
+
     \n.. comments: 
     Input:
         NumDataSets:    (Optional = 100000) number of data sets
-		requeYear: 		(Optional = '2010') string containing year [####] for which data to be retrieved
-        licenseType:    (Otopmnal = ''), string containing the kind of license that the data will be selected on
+        requeYear:      (Optional = '2010') string containing year [####] for which data is to be retrieved
+        licenseType:    (Optional = ''), string containing the kind of license that the data will be selected on
         GasType:        (Optional = 'H') a character indicating either H or L gas.
         RelDirName:     string, containing the relatie dir name where the Internet data can be loaded from.
     Return:
-	    []
+        Ret_Data:       Element of K_Netze.NetComp() class, being the SciGRID_gas component data set class 
     """
-    
+
     Filter      =	{"year": requeYear, "license": licenseType, "GasType": GasType}
     Ret_Data    = K_Netze.NetComp()
     MD          = K_Component.MetaData()

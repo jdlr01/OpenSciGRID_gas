@@ -212,6 +212,7 @@ class NetComp(object):
                             (default  ['missingValues'])
         
         """
+        import Code.M_Stats as M_Stats
         
         # in case that no Component Labels are given
         if CompNames  == []:
@@ -809,28 +810,35 @@ class NetComp(object):
 						(default = None)
 		Output:
 			[] """
-        
+
         for pipe in self.__dict__[compName]:
             pipe.lat    = [pipe.lat[0],  pipe.lat[-1]]
             pipe.long   = [pipe.long[0], pipe.long[-1]]
-        
-        
-        
-    
+
+
+
+
     def cleanUpNodes(self, compNames = [], skipNodes = False):
-        
+        """Method of removing any node that has no other element associated with it 
+
+        \n.. comments: 
+        Input:
+            compNames   String of component (works only for PipeLines and PipeSegments)
+                        [default = None]
+            skipNodes   [default: False]"""
+
         if len(compNames) == 0:
             compNames = self.CompLabels()
-            
+
         if skipNodes == True:
             if 'Nodes' in compNames:
                 compNames.remove('Nodes')
-            
+
         Nodes = []
         for comp in compNames:
             Nodes   = self.add_Nodes(comp, Nodes)
-            
-            
+
+
         Nodes   = M_Shape.reduceElement(Nodes, reduceType = 'LatLong', makeUnique = True)
         self.Nodes = Nodes
 
@@ -838,10 +846,10 @@ class NetComp(object):
             self.copyAttribValue('Nodes', comp,  'id', 'node_id',  'latlong')
 
         self.copyAttribValue('Nodes', 'Nodes',  'id', 'name', 'latlong')
-        
-        
-        
-        
+
+
+
+
     def merge_Nodes_Comps(self, compNames = []):
         """???"""
         
@@ -1063,7 +1071,7 @@ class NetComp(object):
         CompCount = 0
         for key in self.__dict__.keys():
             if len(self.__dict__[key]) > 0:
-                CompCount = CompCount + 1
+                CompCount = CompCount 
         
         print("--------------------------------------")
         print("{0:30s} {1:>6s}".format('Source ', str(self.SourceName[0])))
@@ -1254,20 +1262,21 @@ class NetComp(object):
         \n.. comments: 
             Input:
                 CompName                List of Strings of names of Component name
-                                             (default = self.CompLabels())
+                                             [default: [] = self.CompLabels()]
                 AttribNameSource        String of attribute name of component where the data come from (source)
                 AttribNameDestination   String of attribute name, into which new values will be written into.
                 MethodName              String of method used to generate the new attribute value. Currently implemented options:
+                                            'median'
                                             'mean'
                                             'min'
-                                            'max'    
+                                            'max'
                                             'const'
-                MethodVal               String or value to be used for the 'const' MethodName method.
-                    """
-        
-        
+                                            [default: 'median']
+                MethodVal               String or value to be used for the 'const' MethodName method."""
+
+
         self.Processes.append(K_Component.Processes('make_Attrib: AttribNameSource: ' + AttribNameSource + ', AttribNameDestination: ' + AttribNameDestination + ', MethodName: ' + MethodName ))
-        
+
         # check if there is a destination attribute, if not then jump out of the function
         if AttribNameDestination == '':
             print('ERROR: K_Netze.make_Attrib: No destination attribute was specified.  No attribute values were generated and written to the network.')
@@ -1275,12 +1284,12 @@ class NetComp(object):
         if AttribNameSource == '' and MethodName != 'const':
             print('ERROR: K_Netze.make_Attrib: No source attribute was specified.  No attribute values were generated and written to the network.')
             return
-            
-        
-        
+
+
+
         if CompNames  == []:
             CompNames  = self.CompLabels()
-            
+
         for CompName in CompNames:
             if MethodName == 'mean':
                 if AttribNameDestination in self.AttribLables():
@@ -1293,7 +1302,7 @@ class NetComp(object):
                             wert = comp.param[AttribNameSource]
                         else:
                             wert = comp.__dict__[AttribNameSource]
-                                
+
                         if wert != None:
                             wert = sum(wert) / len(wert)
                             comp.param.update({AttribNameDestination:  wert})
@@ -1311,7 +1320,7 @@ class NetComp(object):
                         comp.param.update({AttribNameDestination:  wert})
                         comp.method.update({AttribNameDestination:  'make_Attrib(' + MethodName + ')'})
                         comp.uncertainty.update({AttribNameDestination:  1 / len(comp.__dict__[AttribNameSource])})
-                
+
             elif MethodName == 'max':
                 if AttribNameDestination in self.AttribLables():
                     for comp in self.__dict__[CompName]:
@@ -1323,7 +1332,7 @@ class NetComp(object):
                         comp.param.update({AttribNameDestination:  wert})
                         comp.method.update({AttribNameDestination:  'make_Attrib(' + MethodName + ')'})
                         comp.uncertainty.update({AttribNameDestination:  1 / len(comp.__dict__[AttribNameSource])})
-                
+
             elif MethodName == 'const':
                 if AttribNameDestination in self.AttribLables():
                     for comp in self.__dict__[CompName]:
@@ -1334,10 +1343,10 @@ class NetComp(object):
                         comp.param.update({AttribNameDestination:  wert})
                         comp.method.update({AttribNameDestination:  'make_Attrib(' + MethodName + ')'})
                         comp.uncertainty.update({AttribNameDestination:  0})
-            
+
             else:
                 print('K_NEtze.make_Attrib: Code not written in method.')
-            
+
 
 
     def select_byAttribLabel(self, CompNames = [], AttribName = '', dict_label = ''):

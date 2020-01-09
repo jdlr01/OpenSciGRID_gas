@@ -136,8 +136,9 @@ def read(RelDirName = 'Eingabe/CSV/', NumDataSets = 1e+100, skiprows = []):
         
     Input Parameter:
     ----------------
-        CSV_Path        string containing path name of data location
-        
+        RelDirName    string containing path name of data location [default: 'Eingabe/CSV/']
+        NumDataSets   Number of elements to be read for each component [default: 1e+100]
+        skiprows      number of rows to skip [default: []]
     Return Parameters:
     ------------------
         Grid            instance of class K_Netze.Netz, populated with 

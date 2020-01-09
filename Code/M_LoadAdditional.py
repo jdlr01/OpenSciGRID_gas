@@ -15,28 +15,27 @@ import Code.M_GasLib    as M_GasLib
 import Code.M_CSV       as M_CSV
 import os
 
-def loadData(DataLocationType = 'raw', sourceList = ['InterNet', 'EntsoG', 'LKD', 'GB', 'GIE', 'GSE', 'IGU', 'GasLib_135', 'GasLib_582', 'GasLib_4197']):
+def loadData(DataLocationType = 'Data_Raw_CSV', sourceList = ['InterNet', 'EntsoG', 'LKD', 'GB', 'GIE', 'GSE', 'IGU', 'GasLib_135', 
+                                                     'GasLib_582', 'GasLib_4197']):
     """Method of generating of a combined network instance from different sources, and 
     generation of a markdown html document for documentation.
 
-		\n.. comments: 
-		Input:
-		    DataLocationType:string indicating from where the read the data in from. Options are:
+        \n.. comments: 
+        Input:
+            DataLocationType: string indicating from where the read the data in from. Options are:
                             **source**: tools will go to source to get data.
                             **Data_Raw_CSV**: Data was read in from source before and 
                                                 stored into CSV files.
                             **Data_Modified_CSV**: Data was read in from source and 
-                                                modificatoins have been carried out before 
+                                                modifications have been carried out before 
                                                 saved into CSV files.
-							(default = 'source')
-			CompNames: 		
-							(default = [])
-			sourceList: 	
-							(default = ['InterNet', 'EntsoG', 'LKD', 'GB', 'GIE', 'GSE', 'IGU', 'GasLib_135', 'GasLib_582', 'GasLib_4197'])
-		Output:
-			Netz_DasNetz 	Instance of the combined network
-    """		
-					 
+                            [default = 'Data_Raw_CSV']
+            sourceList:     List of data source names
+                            [default = ['InterNet', 'EntsoG', 'LKD', 'GB', 'GIE', 'GSE', 'IGU', 'GasLib_135', 'GasLib_582', 'GasLib_4197']]
+        Output:
+            Netz_DasNetz    Dictionary of Instance of the network classes
+    """
+
 #    compNames       = ['LNGs', 'Compressors', 'Storages', 'PipeSegments', 'Nodes']
 #    Netz_DasNetz    = []
 #    fileNameIn      = str(baseDirName + 'Dokumentation/Source/SciGrid_DatenUebersicht.md')

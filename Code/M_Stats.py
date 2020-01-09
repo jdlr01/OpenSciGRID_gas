@@ -62,11 +62,24 @@ def convert2DataFrame(Netz, StatsInputDirName, This_AttribNames, thisCompName):
 
 
 
-def gen_DataHists(Netz, CompNames = [], 
-         AttribNames   = [], 
+def gen_DataHists(Netz, CompNames = [], AttribNames   = [], 
          StatsInputDirName  = 'Eingabe/Input_Settings',
          DataStatsOutput    = 'Ausgabe/Heuristic/StatsData'):
+    """Function to generate histogram plots of attributes.
 
+    \n.. comments: 
+    Input:    
+         Netz               Instance of a network class 
+         CompNames          List of strings of components to apply this function to
+                            [default: []]
+         AttribNames        List of strings of attributes to apply this function to
+                            [default: []]
+         StatsInputDirName  String of relative path location of input setup files
+                            [default: 'Eingabe/Input_Settings']
+         DataStatsOutput    String of relative path where to put plots
+                            [default: 'Ausgabe/Heuristic/StatsData']
+         
+        """
 
     # Initialization
     DataStatsOutput     = Path.cwd() /  DataStatsOutput
@@ -145,25 +158,33 @@ def gen_DataHists(Netz, CompNames = [],
             
             plt.savefig(dirName / (attribName + '.png') )
             plt.close()
-            
-
-    
 
 
-def gen_StatsParam(Netz, CompNames = [], 
-         AttribNames   = [], 
-         DataStatsOutput    = 'Ausgabe/Heuristic/StatsData', 
+
+
+
+def gen_StatsParam(Netz, CompNames = [], AttribNames   = [], 
          StatsInputDirName  = 'Eingabe/Input_Settings',
-         SavePlots = False,
-         MaxCombDepth = 2):
+         DataStatsOutput    = 'Ausgabe/Heuristic/StatsData', 
+         SavePlots = False, MaxCombDepth = 2):
     """Main function to get statistical regression values, for **CompNames** (string of component name) 
-    **This_AttribNames** the list of attributes to do, 
-    **DataStatsOutput** dir name of output of data, 
+    **This_AttribNames** the list of attributes to do, **DataStatsOutput** dir name of output of data, 
     **StatsInputDirName**dir name where settings CSV file can be found, and 
     **SavePlots**, boolean if plots shall be created and subsequently be saved (default = False)
-    **MaxCombDepth**, integer number settign the maximum number of elements per combination
-         DataStatsOutput    = 'Ausgabe/InternetDaten/StatsData', 
-         StatsInputDirName  = 'Eingabe/Input_Settings',
+    **MaxCombDepth**, integer number settign the maximum number of elements per combination 
+    DataStatsOutput    = 'Ausgabe/InternetDaten/StatsData', 
+    StatsInputDirName  = 'Eingabe/Input_Settings',
+
+    \n.. comments: 
+    Input:
+        Netz               Instance of the network class
+        CompNames          List of component name strings to carry out process [default: [] = will do all]
+        AttribNames        List of attribute labels to carry out process [default: [] = will do all]
+        StatsInputDirName  String of relative path where setup files can be found [default: 'Eingabe/Input_Settings']
+        DataStatsOutput    String of relative path where to put output CSV files [default: 'Ausgabe/Heuristic/StatsData']
+        SavePlots          Boolean, to save generated graphs [default: False]
+        MaxCombDepth       Int, of depth feature permutations [default: 2]
+
     """
     # Dir name stuff
     DataStatsOutput     = Path.cwd() /  DataStatsOutput
@@ -515,6 +536,14 @@ def gen_StatsParam(Netz, CompNames = [],
 
 def pop_Attribs(Netz, CompNames = [], SimSettings = []):
     """Generation of attribute values from otehr attributes
+
+    \n.. comments: 
+    Input:
+        Netz            Instance of network class
+        CompNames       List of component strings to be carried out [default: []]
+        SimSettings     List of settings [default: []]
+    Output:
+        Netz            Instance of network class with filled values
     """
     
     if len(CompNames) == 0:

@@ -287,65 +287,68 @@ def SaveFig(fname,dpi=600):
 
 
 def quickplot(Netz, 
-              Info='', 
-              Names=False, 
-              alpha=1, 
-              SingleColor='', 
-              SingleMarker    = '',
-              SingleLineWidth = '',
-              tagstyle        = 1,
-              Cursor          = False, 
-              SingleLabel     = '', 
-              SingleSize      = '', 
-              SingleAlpha     = '', 
-              savefile        = '', 
-              PlotList        = [] ,
-              IgnoreList      = ['PipePoints',
+              Info              = '',
+              Names             = False,
+              alpha             = 1,
+              SingleColor       = '',
+              SingleMarker      = '',
+              SingleLineWidth   = '',
+              tagstyle          = 1,
+              Cursor            = False,
+              SingleLabel       = '',
+              SingleSize        = '',
+              SingleAlpha       = '',
+              savefile          = '',
+              PlotList          = [] ,
+              IgnoreList        = ['PipePoints',
                                  'GasFlowData',
                                  'Processes',
                                  'Nodes',
                                  'SourceName'],
-              MapColor        = True, 
-              countrycode     = 'EU', 
-              GridOn          = False,
-              figureNum       = 1, 
-              Save            = False, 
-              save_dpi        = 300,
-              SupTitleStr     = '', 
-              LegendStyle     = 'Str', 
-              selectList      = [], 
-              LegendStr       = '_nolegend_'):
+              MapColor          = True,
+              countrycode       = 'EU',
+              GridOn            = False,
+              figureNum         = 1,
+              Save              = False,
+              save_dpi          = 300,
+              SupTitleStr       = '',
+              LegendStyle       = 'Str',
+              selectList        = [],
+              LegendStr         = '_nolegend_'):
     """
     Creates Plot of Netz-Class object
     
     Parameters
     ----------
-    Info            = Info object to customize quickplot 
-    Names           = False, 
-    alpha           = 1, 
-    
-    SingleColor     = str , same as in Matplotlib
-    SingleMarker    = str , same as in Matplotlib
-    SingleLineWidth = str , same as in Matplotlib
-    SingleLabel     = str , same as in Matplotlib
-    SingleSize      = str , same as in Matplotlib
-    SingleAlpha     = str , same as in Matplotlib
-    
-    tagstyle        = int=1,2,3 or 4, how much details mpl cursor shows 
-    Cursor          = boolean, if true you can get details on mouseover 
-    savefile        = str, namepath
-    PlotList        = List of plotable NetClass.Elements (e.g. Nodes, Pipelines)
-    IgnoreList      = List of ignorable NetClass.Elements (e.g. Nodes, PipeLines)
-    MapColor        = boolean, get background map in color or in blackwhite 
-    countrycode     = str of 2-digit countrycode - will be used for the basemap
-    GridOn          = boolean
-    figureNum       = int
-    Save            = boolean
-    save_dpi        = int
-    SupTitleStr     = str
-    LegendStyle     = 'Str' or 'Str(Num)'
-    LegendStr       = '_nolegend_'):
-    selectList      = List of string, Netclass Elements, that should be hovered
+    Netz                An Instance of the network class
+    Info                Info object to customize quickplot [Default: '']
+    Names               [default: False]
+    alpha               [default: 1]
+    SingleColor         str , same as in Matplotlib [default: '']
+    SingleMarker        str , same as in Matplotlib [default: '']
+    SingleLineWidth     str , same as in Matplotlib [default: '']
+    SingleLabel         str , same as in Matplotlib [default: '']
+    SingleSize          str , same as in Matplotlib [default: '']
+    SingleAlpha         str , same as in Matplotlib [default: '']
+    tagstyle            int=1,2,3 or 4, how much details mpl cursor shows [default: 1]
+    Cursor              boolean, if true you can get details on mouseclick [default: False] 
+    savefile            str, namepath [default: '']
+    PlotList            List of plotable NetClass.Elements (e.g. Nodes, Pipelines)
+    IgnoreList          List of ignorable NetClass.Elements (e.g. Nodes, PipeLines) 
+                           [default: ['PipePoints', 'GasFlowData', 'Processes', 'Nodes', 'SourceName']
+    MapColor            boolean, get background map in color (True) or in blackwhite (False) 
+                            [default: True]
+    countrycode         str of 2-digit countrycode - will be used for the basemap 
+                            [default: 'EU']
+    GridOn              boolean to plot a mash grid as background [default: False]
+    figureNum           int, number of the figure [default: 1]
+    Save                boolean, to save the plot [default: False]
+    save_dpi            int, nuber indicating the dots per inch [default: 300]
+    SupTitleStr         str, of title of plot [default: '']
+    LegendStyle         Plots name of component without number of elements ('Str') 
+                            or with number of elements ('Str(Num)') [default: 'Str']
+    LegendStr           '_nolegend_'):
+    selectList          List of string, Netclass Elements, that should be hovered [default: []]
     """
 
     import configparser
