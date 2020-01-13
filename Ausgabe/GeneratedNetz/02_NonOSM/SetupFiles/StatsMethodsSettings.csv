@@ -1,7 +1,0 @@
-MethodName;Param;ToBeApplied
-Lasso;;1
-LogisticReg;{'solver':'lbfgs'};1
-Mean;;1
-Median;;1
-Min;;1
-Max;;1

@@ -1255,7 +1255,7 @@ class NetComp(object):
 
 
 
-    def make_Attrib(self, CompNames = [], AttribNameSource = '', AttribNameDestination = '', MethodName = 'median', MethodVal = []):
+    def make_Attrib(self, CompNames = [], AttribNameSource = '', AttribNameDestination = '', MethodName = 'median', MethodVal = [], ReplaceType = 'fill'):
         """Method to create an additional attribute **AttribNameDestination** for all elements of component **CompName**, 
         where the source attribute is **AttribNameSource**, and the method is given by **MethodName**.
         
@@ -1272,7 +1272,9 @@ class NetComp(object):
                                             'max'
                                             'const'
                                             [default: 'median']
-                MethodVal               String or value to be used for the 'const' MethodName method."""
+                MethodVal               String or value to be used for the 'const' MethodName method.
+                ReplaceType             String indicating to fill missing ('fill') or replace all ('replace') attribute values
+                                            [default: 'fill']"""
 
 
         self.Processes.append(K_Component.Processes('make_Attrib: AttribNameSource: ' + AttribNameSource + ', AttribNameDestination: ' + AttribNameDestination + ', MethodName: ' + MethodName ))
@@ -1295,7 +1297,11 @@ class NetComp(object):
                 if AttribNameDestination in self.AttribLables():
                     for comp in self.__dict__[CompName]:
                         wert = sum(comp.__dict__[AttribNameSource]) / len(comp.__dict__[AttribNameSource])
-                        comp.__dict__[AttribNameDestination] = wert
+                        if ReplaceType == 'fill':
+                            if comp.__dict__[AttribNameDestination] == None:
+                                comp.__dict__[AttribNameDestination] = wert
+                        else:
+                            comp.__dict__[AttribNameDestination] = wert
                 else :
                     for comp in self.__dict__[CompName]:
                         if AttribNameSource in comp.param:
@@ -1305,44 +1311,103 @@ class NetComp(object):
 
                         if wert != None:
                             wert = sum(wert) / len(wert)
-                            comp.param.update({AttribNameDestination:  wert})
-                            comp.method.update({AttribNameDestination:  'make_Attrib(' + MethodName + ')'})
-                            comp.uncertainty.update({AttribNameDestination:  1 / len(comp.__dict__[AttribNameSource])})
+                            if ReplaceType == 'fill':
+                                if AttribNameDestination in comp.param:
+                                    if comp.param[AttribNameDestination] == None:
+                                        comp.param.update({AttribNameDestination:  wert})
+                                        comp.method.update({AttribNameDestination:  'make_Attrib(' + MethodName + ')'})
+                                        comp.uncertainty.update({AttribNameDestination:  1 / len(comp.__dict__[AttribNameSource])})
+                                else:
+                                    comp.param.update({AttribNameDestination:  wert})
+                                    comp.method.update({AttribNameDestination:  'make_Attrib(' + MethodName + ')'})
+                                    comp.uncertainty.update({AttribNameDestination:  1 / len(comp.__dict__[AttribNameSource])})
+                            else:
+                                comp.param.update({AttribNameDestination:  wert})
+                                comp.method.update({AttribNameDestination:  'make_Attrib(' + MethodName + ')'})
+                                comp.uncertainty.update({AttribNameDestination:  1 / len(comp.__dict__[AttribNameSource])})
 
             elif MethodName == 'min':
                 if AttribNameDestination in self.AttribLables():
                     for comp in self.__dict__[CompName]:
                         wert = min(comp.__dict__[AttribNameSource]) 
-                        comp.__dict__[AttribNameDestination] = wert
+                        if ReplaceType == 'fill':
+                            if comp.__dict__[AttribNameDestination] == None:
+                                comp.__dict__[AttribNameDestination] = wert
+                        else:
+                            comp.__dict__[AttribNameDestination] = wert
                 else :
                     for comp in self.__dict__[CompName]:
                         wert = min(comp.__dict__[AttribNameSource])
-                        comp.param.update({AttribNameDestination:  wert})
-                        comp.method.update({AttribNameDestination:  'make_Attrib(' + MethodName + ')'})
-                        comp.uncertainty.update({AttribNameDestination:  1 / len(comp.__dict__[AttribNameSource])})
+                        if ReplaceType == 'fill':
+                            if AttribNameDestination in comp.param:
+                                if comp.param[AttribNameDestination] == None:
+                                    comp.param.update({AttribNameDestination:  wert})
+                                    comp.method.update({AttribNameDestination:  'make_Attrib(' + MethodName + ')'})
+                                    comp.uncertainty.update({AttribNameDestination:  1 / len(comp.__dict__[AttribNameSource])})
+                            else:
+                                comp.param.update({AttribNameDestination:  wert})
+                                comp.method.update({AttribNameDestination:  'make_Attrib(' + MethodName + ')'})
+                                comp.uncertainty.update({AttribNameDestination:  1 / len(comp.__dict__[AttribNameSource])})
+                        else:
+                            comp.param.update({AttribNameDestination:  wert})
+                            comp.method.update({AttribNameDestination:  'make_Attrib(' + MethodName + ')'})
+                            comp.uncertainty.update({AttribNameDestination:  1 / len(comp.__dict__[AttribNameSource])})
 
             elif MethodName == 'max':
                 if AttribNameDestination in self.AttribLables():
                     for comp in self.__dict__[CompName]:
                         wert = max(comp.__dict__[AttribNameSource])
-                        comp.__dict__[AttribNameDestination] = wert
+                        if ReplaceType == 'fill':
+                            if comp.__dict__[AttribNameDestination] == None:
+                                comp.__dict__[AttribNameDestination] = wert
+                        else:
+                            comp.__dict__[AttribNameDestination] = wert
+                            
                 else :
                     for comp in self.__dict__[CompName]:
                         wert = max(comp.__dict__[AttribNameSource])
-                        comp.param.update({AttribNameDestination:  wert})
-                        comp.method.update({AttribNameDestination:  'make_Attrib(' + MethodName + ')'})
-                        comp.uncertainty.update({AttribNameDestination:  1 / len(comp.__dict__[AttribNameSource])})
+                        if ReplaceType == 'fill':
+                            if AttribNameDestination in comp.param:
+                                if comp.param[AttribNameDestination] == None:
+                                    comp.param.update({AttribNameDestination:  wert})
+                                    comp.method.update({AttribNameDestination:  'make_Attrib(' + MethodName + ')'})
+                                    comp.uncertainty.update({AttribNameDestination:  1 / len(comp.__dict__[AttribNameSource])})
+                            else:
+                                comp.param.update({AttribNameDestination:  wert})
+                                comp.method.update({AttribNameDestination:  'make_Attrib(' + MethodName + ')'})
+                                comp.uncertainty.update({AttribNameDestination:  1 / len(comp.__dict__[AttribNameSource])})
+                                
+                        else:
+                            comp.param.update({AttribNameDestination:  wert})
+                            comp.method.update({AttribNameDestination:  'make_Attrib(' + MethodName + ')'})
+                            comp.uncertainty.update({AttribNameDestination:  1 / len(comp.__dict__[AttribNameSource])})
+                            
 
             elif MethodName == 'const':
                 if AttribNameDestination in self.AttribLables():
                     for comp in self.__dict__[CompName]:
-                        comp.__dict__[AttribNameDestination] = MethodVal
+                        if ReplaceType == 'fill':
+                            if comp.__dict__[AttribNameDestination] == None:
+                                comp.__dict__[AttribNameDestination] = MethodVal
+                        else:
+                            comp.__dict__[AttribNameDestination] = MethodVal
                 else :
                     for comp in self.__dict__[CompName]:
                         wert = MethodVal
-                        comp.param.update({AttribNameDestination:  wert})
-                        comp.method.update({AttribNameDestination:  'make_Attrib(' + MethodName + ')'})
-                        comp.uncertainty.update({AttribNameDestination:  0})
+                        if ReplaceType == 'fill':
+                            if AttribNameDestination in comp.param:
+                                if comp.param[AttribNameDestination] == None:
+                                    comp.param.update({AttribNameDestination:  wert})
+                                    comp.method.update({AttribNameDestination:  'make_Attrib(' + MethodName + ')'})
+                                    comp.uncertainty.update({AttribNameDestination:  0})
+                            else:
+                                comp.param.update({AttribNameDestination:  wert})
+                                comp.method.update({AttribNameDestination:  'make_Attrib(' + MethodName + ')'})
+                                comp.uncertainty.update({AttribNameDestination:  0})
+                        else:
+                            comp.param.update({AttribNameDestination:  wert})
+                            comp.method.update({AttribNameDestination:  'make_Attrib(' + MethodName + ')'})
+                            comp.uncertainty.update({AttribNameDestination:  0})
 
             else:
                 print('K_NEtze.make_Attrib: Code not written in method.')

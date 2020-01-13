@@ -81,10 +81,10 @@ def main():
     # String giving the relative jpg file name where to save map of final joined data
     save_Plot_Final             = 'Dokumentation/Bilder/10_NetzGeneration/10_NonOSM/Map_Final.jpg'
     # String giving the relative path name where to save CSV gas network data set files of raw data set
-    dir_Data_Raw_Merged         = 'Ausgabe/GeneratedNetz/02_NonOSM/Data_Merged/'
-    dir_Data_Raw_Component      = 'Ausgabe/GeneratedNetz/02_NonOSM/Data_Component/'
+    dir_Data_Raw_Merged         = 'Ausgabe/GeneratedNetz/02_NonOSM/Data/Data_Merged/'
+    dir_Data_Raw_Component      = 'Ausgabe/GeneratedNetz/02_NonOSM/Data/Data_Component/'
     # String giving the relative path name where to save CSV gas network data set files of final data set
-    dir_Data_Final              = 'Ausgabe/GeneratedNetz/02_NonOSM/Data_Final/'
+    dir_Data_Final              = 'Ausgabe/GeneratedNetz/02_NonOSM/Data/Data_Final/'
     
     
 
@@ -195,7 +195,7 @@ def main():
         # Creation of error vals for all heuristic methods
         # RetStatsSummary = Netz_Final.test_methods(CompNames = ['Compressors'], InAttribNames = [],  CalcMethods = [], ErrorMethods = ['LOOCV'])
         M_Stats.gen_StatsParam(Netz_Merged, CompNames = CompNames2Test, SavePlots = True, MaxCombDepth = 1, 
-                               StatsInputDirName  = 'Ausgabe/GeneratedNetz/02_NonOSM/SetupFiles',
+                               StatsInputDirName  = 'Ausgabe/GeneratedNetz/02_NonOSM/SetupFiles/Method_Testing',
                                DataStatsOutput    = 'Ausgabe/GeneratedNetz/02_NonOSM/StatsData')
         
         #RetStatsSummary.save2File(dir_Data_Stats)    
@@ -210,15 +210,24 @@ def main():
         
         Netz_Merged         = M_CSV.read(dir_Data_Raw_Merged)
         for compName in CompNames2Test:
-            SettingsFileName    = ('Ausgabe/GeneratedNetz/02_NonOSM/SetupFiles/RetSummary_' + compName + '.csv')
+            SettingsFileName    = ('Ausgabe/GeneratedNetz/02_NonOSM/SetupFiles/Value_Generation/RetSummary_' + compName + '.csv')
             SimSettings         = M_CSV.read_CSV_raw(SettingsFileName)
         
             Netz_Merged         = M_Stats.pop_Attribs(Netz_Merged, CompNames = [compName], SimSettings = SimSettings)
         
         Netz_Component  = Netz_Merged
 #        # writing constant values into attributes
-        Netz_Component.make_Attrib([], '',    'end_year',   'const', 2050)
-        Netz_Component.make_Attrib([], '',    'start_year', 'const', 1983)
+        Netz_Component.make_Attrib([], '',    'end_year',   'const', 2050, 'fill')
+        Netz_Component.make_Attrib([], '',    'start_year', 'const', 1983, 'fill')
+        Netz_Component.make_Attrib(['Compressors'], '',    'turbine_fuel_isGas_1', 'const', 1, 'fill')
+        Netz_Component.make_Attrib(['Compressors'], '',    'turbine_fuel_isGas_2', 'const', 1, 'fill')
+        Netz_Component.make_Attrib(['Compressors'], '',    'turbine_fuel_isGas_3', 'const', 1, 'fill')
+        Netz_Component.make_Attrib(['Compressors'], '',    'turbine_fuel_isGas_4', 'const', 1, 'fill')
+        Netz_Component.make_Attrib(['Compressors'], '',    'turbine_fuel_isGas_5', 'const', 1, 'fill')
+        Netz_Component.make_Attrib(['Compressors'], '',    'turbine_fuel_isGas_6', 'const', 1, 'fill')
+
+
+        
 #        
 #        # writing joined nework to CSV file
         M_CSV.write(dir_Data_Raw_Component, Netz_Component)
